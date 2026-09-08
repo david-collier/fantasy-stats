@@ -1,15 +1,18 @@
 /**
  * Data access for the UI. Season files are bundled at build time via
  * import.meta.glob (lazy: one hashed chunk per season), so there is no
- * runtime fetch and no base-path bookkeeping. index.json is tiny and eager.
+ * runtime fetch and no base-path bookkeeping. Small files are eager.
  */
 import { useEffect, useState } from 'react'
-import type { SeasonData, SeasonIndex } from '../types/derived'
+import type { LeagueSummary, PlayerDirectory, SeasonData, SeasonIndex, SeasonTransactions } from '../types/derived'
 import indexJson from '../../data/derived/index.json'
+import leagueJson from '../../data/derived/league.json'
 
-const seasonModules = import.meta.glob<{ default: SeasonData }>('../../data/derived/[0-9]*.json')
+const seasonModules = import.meta.glob<{ default: SeasonData }>('../../data/derived/[0-9][0-9][0-9][0-9].json')
+const txModules = import.meta.glob<{ default: SeasonTransactions }>('../../data/derived/[0-9][0-9][0-9][0-9]-tx.json')
 
 export const seasonIndex = indexJson as unknown as SeasonIndex
+export const leagueSummary = leagueJson as unknown as LeagueSummary
 
 export function listSeasons(): number[] {
   return Object.keys(seasonModules)
@@ -18,36 +21,86 @@ export function listSeasons(): number[] {
     .sort((a, b) => b - a)
 }
 
-export async function loadSeason(seasonId: number): Promise<SeasonData | undefined> {
-  const loader = seasonModules[`../../data/derived/${seasonId}.json`]
-  if (!loader) return undefined
-  return (await loader()).default
+const seasonCache = new Map<number, Promise<SeasonData | undefined>>()
+const txCache = new Map<number, Promise<SeasonTransactions | undefined>>()
+let playersCache: Promise<PlayerDirectory> | undefined
+
+export function loadSeason(seasonId: number): Promise<SeasonData | undefined> {
+  let p = seasonCache.get(seasonId)
+  if (!p) {
+    const loader = seasonModules[`../../data/derived/${seasonId}.json`]
+    p = loader ? loader().then((m) => m.default) : Promise.resolve(undefined)
+    seasonCache.set(seasonId, p)
+  }
+  return p
 }
 
-export interface SeasonState {
-  data?: SeasonData
+export function loadSeasonTx(seasonId: number): Promise<SeasonTransactions | undefined> {
+  let p = txCache.get(seasonId)
+  if (!p) {
+    const loader = txModules[`../../data/derived/${seasonId}-tx.json`]
+    p = loader ? loader().then((m) => m.default) : Promise.resolve(undefined)
+    txCache.set(seasonId, p)
+  }
+  return p
+}
+
+export function loadPlayers(): Promise<PlayerDirectory> {
+  playersCache ??= import('../../data/derived/players.json').then((m) => m.default as unknown as PlayerDirectory)
+  return playersCache
+}
+
+export async function loadAllSeasons(): Promise<SeasonData[]> {
+  const all = await Promise.all(listSeasons().map((y) => loadSeason(y)))
+  return all.filter((s): s is SeasonData => Boolean(s)).sort((a, b) => a.seasonId - b.seasonId)
+}
+
+export async function loadAllTx(): Promise<SeasonTransactions[]> {
+  const all = await Promise.all(listSeasons().map((y) => loadSeasonTx(y)))
+  return all.filter((s): s is SeasonTransactions => Boolean(s)).sort((a, b) => a.seasonId - b.seasonId)
+}
+
+// ---- hooks ---------------------------------------------------------------
+
+interface AsyncState<T> {
+  data?: T
   loading: boolean
   missing: boolean
 }
 
-export function useSeason(seasonId: number | undefined): SeasonState {
-  const [state, setState] = useState<SeasonState>({ loading: seasonId !== undefined, missing: false })
-
+function useAsync<T>(key: string, load: () => Promise<T | undefined>): AsyncState<T> {
+  const [state, setState] = useState<AsyncState<T>>({ loading: true, missing: false })
   useEffect(() => {
-    if (seasonId === undefined) {
-      setState({ loading: false, missing: true })
-      return
-    }
     let cancelled = false
     setState({ loading: true, missing: false })
-    loadSeason(seasonId).then((data) => {
+    load().then((data) => {
       if (cancelled) return
-      setState({ data, loading: false, missing: !data })
+      setState({ data, loading: false, missing: data === undefined })
     })
     return () => {
       cancelled = true
     }
-  }, [seasonId])
-
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [key])
   return state
+}
+
+export function useSeason(seasonId: number | undefined): AsyncState<SeasonData> {
+  return useAsync(`season:${seasonId}`, () => (seasonId === undefined ? Promise.resolve(undefined) : loadSeason(seasonId)))
+}
+
+export function useSeasonTx(seasonId: number | undefined): AsyncState<SeasonTransactions> {
+  return useAsync(`tx:${seasonId}`, () => (seasonId === undefined ? Promise.resolve(undefined) : loadSeasonTx(seasonId)))
+}
+
+export function useAllSeasons(): AsyncState<SeasonData[]> {
+  return useAsync('all-seasons', loadAllSeasons)
+}
+
+export function useAllTx(): AsyncState<SeasonTransactions[]> {
+  return useAsync('all-tx', loadAllTx)
+}
+
+export function usePlayers(): AsyncState<PlayerDirectory> {
+  return useAsync('players', loadPlayers)
 }

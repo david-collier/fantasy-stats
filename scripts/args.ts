@@ -10,6 +10,8 @@ export interface FetchArgs {
   check: boolean
   /** Also capture kona_player_info (large, changes every run). */
   players: boolean
+  /** Re-capture transaction archives for completed seasons. */
+  tx: boolean
   help: boolean
 }
 
@@ -22,6 +24,7 @@ export function parseFetchArgs(argv: string[] = process.argv.slice(2)): FetchArg
       to: { type: 'string' },
       check: { type: 'boolean', default: false },
       players: { type: 'boolean', default: false },
+      tx: { type: 'boolean', default: false },
       help: { type: 'boolean', default: false, short: 'h' },
     },
     strict: true,
@@ -40,6 +43,7 @@ export function parseFetchArgs(argv: string[] = process.argv.slice(2)): FetchArg
     to: num(values.to, 'to'),
     check: values.check ?? false,
     players: values.players ?? false,
+    tx: values.tx ?? false,
     help: values.help ?? false,
   }
 }
@@ -51,5 +55,6 @@ export const USAGE = `Usage: npm run fetch [-- options]
   --to YYYY       last season (default: current year)
   --check         dry run: fetch + derive, write nothing, same exit code
   --players       also capture kona_player_info (~10-30 MB, changes every run)
+  --tx            re-capture transaction history for completed seasons (default: reuse archive)
   -h, --help
 `

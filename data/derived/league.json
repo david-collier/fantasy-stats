@@ -1,0 +1,2132 @@
+{
+  "leagueId": 1295435853,
+  "leagueName": "Bangin’ Trash Can Dynasty League",
+  "seasons": [
+    2026,
+    2025,
+    2024,
+    2023,
+    2022,
+    2021
+  ],
+  "currentSeason": 2026,
+  "franchises": [
+    {
+      "id": 1,
+      "managerName": "Armaan Rawat",
+      "managerShort": "Armaan",
+      "teamName": "Rice's Bamboo Hut",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 1,
+          "teamName": "Gleyber's Log Cabin",
+          "abbrev": "RAWA",
+          "managerId": "{F3B40BF5-773B-418A-BD24-42110CC17382}",
+          "managerName": "Armaan Rawat",
+          "managerShort": "Armaan",
+          "ownerNames": [
+            "Armaan Rawat"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 139,
+            "losses": 76,
+            "ties": 13,
+            "percentage": 0.6381578947368421,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 6
+          },
+          "playoffSeed": 2,
+          "finalRank": 2,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 1,
+          "teamName": "Severino's Log Cabin",
+          "abbrev": "RAWA",
+          "managerId": "{F3B40BF5-773B-418A-BD24-42110CC17382}",
+          "managerName": "Armaan Rawat",
+          "managerShort": "Armaan",
+          "ownerNames": [
+            "Armaan Rawat"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 103,
+            "losses": 99,
+            "ties": 14,
+            "percentage": 0.5092592592592593,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 17
+          },
+          "playoffSeed": 4,
+          "finalRank": 6,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 1,
+          "teamName": "Volpe's Log Cabin",
+          "abbrev": "RAWA",
+          "managerId": "{F3B40BF5-773B-418A-BD24-42110CC17382}",
+          "managerName": "Armaan Rawat",
+          "managerShort": "Armaan",
+          "ownerNames": [
+            "Armaan Rawat"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 96,
+            "losses": 111,
+            "ties": 9,
+            "percentage": 0.4652777777777778,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 27
+          },
+          "playoffSeed": 9,
+          "finalRank": 8,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 1,
+          "teamName": "Volpe's Log Cabin",
+          "abbrev": "RAWA",
+          "managerId": "{F3B40BF5-773B-418A-BD24-42110CC17382}",
+          "managerName": "Armaan Rawat",
+          "managerShort": "Armaan",
+          "ownerNames": [
+            "Armaan Rawat"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 121,
+            "losses": 96,
+            "ties": 11,
+            "percentage": 0.5548245614035088,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 13
+          },
+          "playoffSeed": 2,
+          "finalRank": 1,
+          "isComplete": true,
+          "champion": true,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 1,
+          "teamName": "Martian' Log Cabin",
+          "abbrev": "RAWA",
+          "managerId": "{F3B40BF5-773B-418A-BD24-42110CC17382}",
+          "managerName": "Armaan Rawat",
+          "managerShort": "Armaan",
+          "ownerNames": [
+            "Armaan Rawat"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 96,
+            "losses": 117,
+            "ties": 15,
+            "percentage": 0.45394736842105265,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 39
+          },
+          "playoffSeed": 9,
+          "finalRank": 9,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 1,
+          "teamName": "Rice's Bamboo Hut",
+          "abbrev": "RAWA",
+          "managerId": "{F3B40BF5-773B-418A-BD24-42110CC17382}",
+          "managerName": "Armaan Rawat",
+          "managerShort": "Armaan",
+          "ownerNames": [
+            "Armaan Rawat"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 121,
+            "losses": 101,
+            "ties": 6,
+            "percentage": 0.543859649122807,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 17.5
+          },
+          "playoffSeed": 4,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "managerName": "Dimitriy L",
+      "managerShort": "Dimitriy",
+      "teamName": "Kate Bush Stan Accounts",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 2,
+          "teamName": "Kate Bush Stan Accounts",
+          "abbrev": "BUSH",
+          "managerId": "{F931963C-9B8B-41A4-8CA6-5184501AA3FD}",
+          "managerName": "Dimitriy L",
+          "managerShort": "Dimitriy",
+          "ownerNames": [
+            "Dimitriy L"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 100,
+            "losses": 113,
+            "ties": 15,
+            "percentage": 0.47149122807017546,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 44
+          },
+          "playoffSeed": 8,
+          "finalRank": 8,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 2,
+          "teamName": "Kate Bush Stan Accounts",
+          "abbrev": "BUSH",
+          "managerId": "{F931963C-9B8B-41A4-8CA6-5184501AA3FD}",
+          "managerName": "Dimitriy L",
+          "managerShort": "Dimitriy",
+          "ownerNames": [
+            "Dimitriy L"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 101,
+            "losses": 102,
+            "ties": 13,
+            "percentage": 0.4976851851851852,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 19.5
+          },
+          "playoffSeed": 6,
+          "finalRank": 5,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 2,
+          "teamName": "Kate Bush Stan Accounts",
+          "abbrev": "BUSH",
+          "managerId": "{F931963C-9B8B-41A4-8CA6-5184501AA3FD}",
+          "managerName": "Dimitriy L",
+          "managerShort": "Dimitriy",
+          "ownerNames": [
+            "Dimitriy L"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 85,
+            "losses": 119,
+            "ties": 12,
+            "percentage": 0.4212962962962963,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 36.5
+          },
+          "playoffSeed": 11,
+          "finalRank": 10,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 2,
+          "teamName": "Kate Bush Stan Accounts",
+          "abbrev": "BUSH",
+          "managerId": "{F931963C-9B8B-41A4-8CA6-5184501AA3FD}",
+          "managerName": "Dimitriy L",
+          "managerShort": "Dimitriy",
+          "ownerNames": [
+            "Dimitriy L"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 103,
+            "losses": 114,
+            "ties": 11,
+            "percentage": 0.4758771929824561,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 31
+          },
+          "playoffSeed": 9,
+          "finalRank": 10,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 2,
+          "teamName": "Kate Bush Stan Accounts",
+          "abbrev": "BUSH",
+          "managerId": "{F931963C-9B8B-41A4-8CA6-5184501AA3FD}",
+          "managerName": "Dimitriy L",
+          "managerShort": "Dimitriy",
+          "ownerNames": [
+            "Dimitriy L"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 92,
+            "losses": 128,
+            "ties": 8,
+            "percentage": 0.42105263157894735,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 46.5
+          },
+          "playoffSeed": 11,
+          "finalRank": 8,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 2,
+          "teamName": "Kate Bush Stan Accounts",
+          "abbrev": "BUSH",
+          "managerId": "{F931963C-9B8B-41A4-8CA6-5184501AA3FD}",
+          "managerName": "Dimitriy L",
+          "managerShort": "Dimitriy",
+          "ownerNames": [
+            "Dimitriy L"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 99,
+            "losses": 118,
+            "ties": 11,
+            "percentage": 0.4583333333333333,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 37
+          },
+          "playoffSeed": 8,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "managerName": "Ethan Christensen",
+      "managerShort": "Ethan",
+      "teamName": "Crocheted Webbs",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 3,
+          "teamName": "San Fransisco Ethan",
+          "abbrev": "DIC",
+          "managerId": "{30162F4F-BD66-48E9-9BCB-7BE4D0E0ED0A}",
+          "managerName": "Ethan Christensen",
+          "managerShort": "Ethan",
+          "ownerNames": [
+            "Ethan Christensen"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 108,
+            "losses": 97,
+            "ties": 23,
+            "percentage": 0.5241228070175439,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 32
+          },
+          "playoffSeed": 6,
+          "finalRank": 6,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 3,
+          "teamName": "Jung-le Main",
+          "abbrev": "Jg",
+          "managerId": "{30162F4F-BD66-48E9-9BCB-7BE4D0E0ED0A}",
+          "managerName": "Ethan Christensen",
+          "managerShort": "Ethan",
+          "ownerNames": [
+            "Ethan Christensen"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 104,
+            "losses": 105,
+            "ties": 7,
+            "percentage": 0.4976851851851852,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 19.5
+          },
+          "playoffSeed": 7,
+          "finalRank": 10,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 3,
+          "teamName": "Men of  Little Faith",
+          "abbrev": "Sad",
+          "managerId": "{30162F4F-BD66-48E9-9BCB-7BE4D0E0ED0A}",
+          "managerName": "Ethan Christensen",
+          "managerShort": "Ethan",
+          "ownerNames": [
+            "Ethan Christensen"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 87,
+            "losses": 115,
+            "ties": 14,
+            "percentage": 0.4351851851851852,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 33.5
+          },
+          "playoffSeed": 10,
+          "finalRank": 11,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 3,
+          "teamName": "Grandchildren of Suffering",
+          "abbrev": "KMS+",
+          "managerId": "{30162F4F-BD66-48E9-9BCB-7BE4D0E0ED0A}",
+          "managerName": "Ethan Christensen",
+          "managerShort": "Ethan",
+          "ownerNames": [
+            "Ethan Christensen"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 112,
+            "losses": 108,
+            "ties": 8,
+            "percentage": 0.5087719298245614,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 23.5
+          },
+          "playoffSeed": 6,
+          "finalRank": 5,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 3,
+          "teamName": "Crocheted Webbs",
+          "abbrev": "CW",
+          "managerId": "{30162F4F-BD66-48E9-9BCB-7BE4D0E0ED0A}",
+          "managerName": "Ethan Christensen",
+          "managerShort": "Ethan",
+          "ownerNames": [
+            "Ethan Christensen"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 137,
+            "losses": 80,
+            "ties": 11,
+            "percentage": 0.625,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 0
+          },
+          "playoffSeed": 1,
+          "finalRank": 1,
+          "isComplete": true,
+          "champion": true,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 3,
+          "teamName": "Crocheted Webbs",
+          "abbrev": "CW",
+          "managerId": "{30162F4F-BD66-48E9-9BCB-7BE4D0E0ED0A}",
+          "managerName": "Ethan Christensen",
+          "managerShort": "Ethan",
+          "ownerNames": [
+            "Ethan Christensen"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 89,
+            "losses": 132,
+            "ties": 7,
+            "percentage": 0.4057017543859649,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 49
+          },
+          "playoffSeed": 12,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "managerName": "Aadir Khan",
+      "managerShort": "Aadir",
+      "teamName": "A Team",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 4,
+          "teamName": "Pacific Beach Pacifics",
+          "abbrev": "PAC",
+          "managerId": "{FD2A4397-FE0E-44A4-A0D0-9F14D477AB9E}",
+          "managerName": "Thomas Ebrahimi",
+          "managerShort": "Thomas",
+          "ownerNames": [
+            "Thomas Ebrahimi"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 113,
+            "losses": 105,
+            "ties": 10,
+            "percentage": 0.5175438596491229,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 33.5
+          },
+          "playoffSeed": 7,
+          "finalRank": 7,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 4,
+          "teamName": "Meme Kings",
+          "abbrev": "MK",
+          "managerId": "{FD2A4397-FE0E-44A4-A0D0-9F14D477AB9E}",
+          "managerName": "Thomas Ebrahimi",
+          "managerShort": "Thomas",
+          "ownerNames": [
+            "Thomas Ebrahimi"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 98,
+            "losses": 106,
+            "ties": 12,
+            "percentage": 0.48148148148148145,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 23
+          },
+          "playoffSeed": 9,
+          "finalRank": 11,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 4,
+          "teamName": "Manayunk Beavers",
+          "abbrev": "MNB",
+          "managerId": "{FD2A4397-FE0E-44A4-A0D0-9F14D477AB9E}",
+          "managerName": "Thomas Ebrahimi",
+          "managerShort": "Thomas",
+          "ownerNames": [
+            "Thomas Ebrahimi"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 99,
+            "losses": 101,
+            "ties": 16,
+            "percentage": 0.49537037037037035,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 20.5
+          },
+          "playoffSeed": 7,
+          "finalRank": 9,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 4,
+          "teamName": "West Coast Ramblers",
+          "abbrev": "WCR",
+          "managerId": "{FD2A4397-FE0E-44A4-A0D0-9F14D477AB9E}",
+          "managerName": "Thomas Ebrahimi",
+          "managerShort": "Thomas",
+          "ownerNames": [
+            "Thomas Ebrahimi"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 84,
+            "losses": 129,
+            "ties": 15,
+            "percentage": 0.40131578947368424,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 48
+          },
+          "playoffSeed": 12,
+          "finalRank": 12,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 4,
+          "teamName": "West Coast Ramblers",
+          "abbrev": "WCR",
+          "managerId": "{FD2A4397-FE0E-44A4-A0D0-9F14D477AB9E}",
+          "managerName": "Thomas Ebrahimi & Caroline Jenner",
+          "managerShort": "Thomas",
+          "ownerNames": [
+            "Thomas Ebrahimi",
+            "Caroline Jenner"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 92,
+            "losses": 116,
+            "ties": 20,
+            "percentage": 0.4473684210526316,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 40.5
+          },
+          "playoffSeed": 10,
+          "finalRank": 10,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 4,
+          "teamName": "A Team",
+          "abbrev": "AT",
+          "managerId": "{AF20200C-8ACA-4E69-B0A6-322A79DE2DDA}",
+          "managerName": "Aadir Khan",
+          "managerShort": "Aadir",
+          "ownerNames": [
+            "Aadir Khan"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 111,
+            "losses": 111,
+            "ties": 6,
+            "percentage": 0.5,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 27.5
+          },
+          "playoffSeed": 6,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "managerName": "Matt Maxson",
+      "managerShort": "Matt",
+      "teamName": "Matt's Magical Mystery Team",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 5,
+          "teamName": "Matt's Magical Mystery Team",
+          "abbrev": "MAX",
+          "managerId": "{58241607-8C2D-48E0-854E-BA3FDEA143FE}",
+          "managerName": "Matt Maxson",
+          "managerShort": "Matt",
+          "ownerNames": [
+            "Matt Maxson"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 120,
+            "losses": 96,
+            "ties": 12,
+            "percentage": 0.5526315789473685,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 25.5
+          },
+          "playoffSeed": 5,
+          "finalRank": 5,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 5,
+          "teamName": "Matt's Magical Mystery Team",
+          "abbrev": "MAX",
+          "managerId": "{58241607-8C2D-48E0-854E-BA3FDEA143FE}",
+          "managerName": "Matt Maxson",
+          "managerShort": "Matt",
+          "ownerNames": [
+            "Matt Maxson"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 122,
+            "losses": 84,
+            "ties": 10,
+            "percentage": 0.5879629629629629,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 0
+          },
+          "playoffSeed": 1,
+          "finalRank": 2,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 5,
+          "teamName": "Matt's Magical Mystery Team",
+          "abbrev": "MAX",
+          "managerId": "{58241607-8C2D-48E0-854E-BA3FDEA143FE}",
+          "managerName": "Matt Maxson",
+          "managerShort": "Matt",
+          "ownerNames": [
+            "Matt Maxson"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 115,
+            "losses": 92,
+            "ties": 9,
+            "percentage": 0.5532407407407407,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 8
+          },
+          "playoffSeed": 2,
+          "finalRank": 3,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 5,
+          "teamName": "Matt's Magical Mystery Team",
+          "abbrev": "MAX",
+          "managerId": "{58241607-8C2D-48E0-854E-BA3FDEA143FE}",
+          "managerName": "Matt Maxson",
+          "managerShort": "Matt",
+          "ownerNames": [
+            "Matt Maxson"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 109,
+            "losses": 107,
+            "ties": 12,
+            "percentage": 0.5043859649122807,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 24.5
+          },
+          "playoffSeed": 7,
+          "finalRank": 7,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 5,
+          "teamName": "Matt's Magical Mystery Team",
+          "abbrev": "MAX",
+          "managerId": "{58241607-8C2D-48E0-854E-BA3FDEA143FE}",
+          "managerName": "Matt Maxson",
+          "managerShort": "Matt",
+          "ownerNames": [
+            "Matt Maxson"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 127,
+            "losses": 89,
+            "ties": 12,
+            "percentage": 0.5833333333333334,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 9.5
+          },
+          "playoffSeed": 2,
+          "finalRank": 4,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 5,
+          "teamName": "Matt's Magical Mystery Team",
+          "abbrev": "MAX",
+          "managerId": "{58241607-8C2D-48E0-854E-BA3FDEA143FE}",
+          "managerName": "Matt Maxson",
+          "managerShort": "Matt",
+          "ownerNames": [
+            "Matt Maxson"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 138,
+            "losses": 83,
+            "ties": 7,
+            "percentage": 0.6206140350877193,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 0
+          },
+          "playoffSeed": 1,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "managerName": "Preston Dang",
+      "managerShort": "Preston",
+      "teamName": "Mina Kimes's Fan Club",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 6,
+          "teamName": "Team Dang",
+          "abbrev": "DANG",
+          "managerId": "{F039A04D-CA7D-4F9B-B8D2-1D26711C97BD}",
+          "managerName": "Preston Dang",
+          "managerShort": "Preston",
+          "ownerNames": [
+            "Preston Dang"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 120,
+            "losses": 94,
+            "ties": 14,
+            "percentage": 0.5570175438596491,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 24.5
+          },
+          "playoffSeed": 4,
+          "finalRank": 4,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 6,
+          "teamName": "Asian Representation",
+          "abbrev": "ASIA",
+          "managerId": "{F039A04D-CA7D-4F9B-B8D2-1D26711C97BD}",
+          "managerName": "Preston Dang",
+          "managerShort": "Preston",
+          "ownerNames": [
+            "Preston Dang"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 97,
+            "losses": 101,
+            "ties": 18,
+            "percentage": 0.49074074074074076,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 21
+          },
+          "playoffSeed": 8,
+          "finalRank": 12,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 6,
+          "teamName": "Asian Representation",
+          "abbrev": "ASIA",
+          "managerId": "{F039A04D-CA7D-4F9B-B8D2-1D26711C97BD}",
+          "managerName": "Preston Dang",
+          "managerShort": "Preston",
+          "ownerNames": [
+            "Preston Dang"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 100,
+            "losses": 102,
+            "ties": 14,
+            "percentage": 0.49537037037037035,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 20.5
+          },
+          "playoffSeed": 8,
+          "finalRank": 12,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 6,
+          "teamName": "Asian Representation",
+          "abbrev": "ASIA",
+          "managerId": "{F039A04D-CA7D-4F9B-B8D2-1D26711C97BD}",
+          "managerName": "Preston Dang",
+          "managerShort": "Preston",
+          "ownerNames": [
+            "Preston Dang"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 111,
+            "losses": 105,
+            "ties": 12,
+            "percentage": 0.5131578947368421,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 22.5
+          },
+          "playoffSeed": 5,
+          "finalRank": 4,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 6,
+          "teamName": "Asian Representation",
+          "abbrev": "ASIA",
+          "managerId": "{F039A04D-CA7D-4F9B-B8D2-1D26711C97BD}",
+          "managerName": "Preston Dang",
+          "managerShort": "Preston",
+          "ownerNames": [
+            "Preston Dang"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 108,
+            "losses": 103,
+            "ties": 17,
+            "percentage": 0.5109649122807017,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 26
+          },
+          "playoffSeed": 7,
+          "finalRank": 11,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 6,
+          "teamName": "Mina Kimes's Fan Club",
+          "abbrev": "ASIA",
+          "managerId": "{F039A04D-CA7D-4F9B-B8D2-1D26711C97BD}",
+          "managerName": "Preston Dang",
+          "managerShort": "Preston",
+          "ownerNames": [
+            "Preston Dang"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 130,
+            "losses": 82,
+            "ties": 16,
+            "percentage": 0.6052631578947368,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 3.5
+          },
+          "playoffSeed": 3,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "managerName": "Braden Auer",
+      "managerShort": "Braden",
+      "teamName": "Braden’s Stinky Boys",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 7,
+          "teamName": "Braden’s Hot Garbage",
+          "abbrev": "AUER",
+          "managerId": "{E3F7BE73-BF91-46E9-96F2-08288A744D15}",
+          "managerName": "Braden Auer",
+          "managerShort": "Braden",
+          "ownerNames": [
+            "Braden Auer"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 136,
+            "losses": 78,
+            "ties": 14,
+            "percentage": 0.6271929824561403,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 8.5
+          },
+          "playoffSeed": 3,
+          "finalRank": 3,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 7,
+          "teamName": "Braden’s Hot Garbage",
+          "abbrev": "AUER",
+          "managerId": "{E3F7BE73-BF91-46E9-96F2-08288A744D15}",
+          "managerName": "Braden Auer",
+          "managerShort": "Braden",
+          "ownerNames": [
+            "Braden Auer"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 115,
+            "losses": 92,
+            "ties": 9,
+            "percentage": 0.5532407407407407,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 7.5
+          },
+          "playoffSeed": 3,
+          "finalRank": 3,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 7,
+          "teamName": "Braden’s Hot Garbage",
+          "abbrev": "AUER",
+          "managerId": "{E3F7BE73-BF91-46E9-96F2-08288A744D15}",
+          "managerName": "Braden Auer",
+          "managerShort": "Braden",
+          "ownerNames": [
+            "Braden Auer"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 106,
+            "losses": 98,
+            "ties": 12,
+            "percentage": 0.5185185185185185,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 15.5
+          },
+          "playoffSeed": 6,
+          "finalRank": 6,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 7,
+          "teamName": "Braden’s Hot Garbage",
+          "abbrev": "AUER",
+          "managerId": "{E3F7BE73-BF91-46E9-96F2-08288A744D15}",
+          "managerName": "Braden Auer",
+          "managerShort": "Braden",
+          "ownerNames": [
+            "Braden Auer"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 111,
+            "losses": 98,
+            "ties": 19,
+            "percentage": 0.5285087719298246,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 19
+          },
+          "playoffSeed": 4,
+          "finalRank": 6,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 7,
+          "teamName": "Braden’s Hot Garbage",
+          "abbrev": "AUER",
+          "managerId": "{E3F7BE73-BF91-46E9-96F2-08288A744D15}",
+          "managerName": "Braden Auer",
+          "managerShort": "Braden",
+          "ownerNames": [
+            "Braden Auer"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 107,
+            "losses": 101,
+            "ties": 20,
+            "percentage": 0.5131578947368421,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 25.5
+          },
+          "playoffSeed": 6,
+          "finalRank": 5,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 7,
+          "teamName": "Braden’s Stinky Boys",
+          "abbrev": "AUER",
+          "managerId": "{E3F7BE73-BF91-46E9-96F2-08288A744D15}",
+          "managerName": "Braden Auer",
+          "managerShort": "Braden",
+          "ownerNames": [
+            "Braden Auer"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 94,
+            "losses": 119,
+            "ties": 15,
+            "percentage": 0.4451754385964912,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 40
+          },
+          "playoffSeed": 9,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "managerName": "Stuart Smith",
+      "managerShort": "Stuart",
+      "teamName": "I am in love with Eileen Gu",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 8,
+          "teamName": "A Drive Into Deep Left Field",
+          "abbrev": "4-0",
+          "managerId": "{6D1B1511-E87F-417F-AA6A-615F31A47C62}",
+          "managerName": "Stuart Smith",
+          "managerShort": "Stuart",
+          "ownerNames": [
+            "Stuart Smith"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 145,
+            "losses": 70,
+            "ties": 13,
+            "percentage": 0.6644736842105263,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 0
+          },
+          "playoffSeed": 1,
+          "finalRank": 1,
+          "isComplete": true,
+          "champion": true,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 8,
+          "teamName": "Mayor of Anaheim",
+          "abbrev": "OC",
+          "managerId": "{6D1B1511-E87F-417F-AA6A-615F31A47C62}",
+          "managerName": "Stuart Smith",
+          "managerShort": "Stuart",
+          "ownerNames": [
+            "Stuart Smith"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 97,
+            "losses": 106,
+            "ties": 13,
+            "percentage": 0.4791666666666667,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 23.5
+          },
+          "playoffSeed": 10,
+          "finalRank": 7,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 8,
+          "teamName": "Fort Collins Fire Foxes",
+          "abbrev": "Foco",
+          "managerId": "{6D1B1511-E87F-417F-AA6A-615F31A47C62}",
+          "managerName": "Stuart Smith",
+          "managerShort": "Stuart",
+          "ownerNames": [
+            "Stuart Smith"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 109,
+            "losses": 91,
+            "ties": 16,
+            "percentage": 0.5416666666666666,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 10.5
+          },
+          "playoffSeed": 4,
+          "finalRank": 5,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 8,
+          "teamName": "Bad Daddy's Big Dumpers",
+          "abbrev": "DUMP",
+          "managerId": "{6D1B1511-E87F-417F-AA6A-615F31A47C62}",
+          "managerName": "Stuart Smith",
+          "managerShort": "Stuart",
+          "ownerNames": [
+            "Stuart Smith"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 117,
+            "losses": 95,
+            "ties": 16,
+            "percentage": 0.5482456140350878,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 14.5
+          },
+          "playoffSeed": 3,
+          "finalRank": 3,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 8,
+          "teamName": "Bad Daddy's Big Dumpers",
+          "abbrev": "DUMP",
+          "managerId": "{6D1B1511-E87F-417F-AA6A-615F31A47C62}",
+          "managerName": "Stuart Smith",
+          "managerShort": "Stuart",
+          "ownerNames": [
+            "Stuart Smith"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 129,
+            "losses": 84,
+            "ties": 15,
+            "percentage": 0.5986842105263158,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 6
+          },
+          "playoffSeed": 3,
+          "finalRank": 2,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 8,
+          "teamName": "I am in love with Eileen Gu",
+          "abbrev": "Ski",
+          "managerId": "{6D1B1511-E87F-417F-AA6A-615F31A47C62}",
+          "managerName": "Stuart Smith",
+          "managerShort": "Stuart",
+          "ownerNames": [
+            "Stuart Smith"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 104,
+            "losses": 108,
+            "ties": 16,
+            "percentage": 0.49122807017543857,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 29.5
+          },
+          "playoffSeed": 7,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "managerName": "Nolan Bartnick & Jack Markowitz",
+      "managerShort": "Jack",
+      "teamName": "TB D",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 9,
+          "teamName": "Jew Crew",
+          "abbrev": "Jews",
+          "managerId": "{EC680BDA-9684-47EE-A80B-DA9684D7EE14}",
+          "managerName": "Jack Markowitz",
+          "managerShort": "Jack",
+          "ownerNames": [
+            "Jack Markowitz"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 79,
+            "losses": 136,
+            "ties": 13,
+            "percentage": 0.375,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 66
+          },
+          "playoffSeed": 10,
+          "finalRank": 9,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 9,
+          "teamName": "Jew Crew",
+          "abbrev": "Jews",
+          "managerId": "{EC680BDA-9684-47EE-A80B-DA9684D7EE14}",
+          "managerName": "Jack Markowitz",
+          "managerShort": "Jack",
+          "ownerNames": [
+            "Jack Markowitz"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 79,
+            "losses": 122,
+            "ties": 15,
+            "percentage": 0.40046296296296297,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 40.5
+          },
+          "playoffSeed": 12,
+          "finalRank": 8,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 9,
+          "teamName": "TB D",
+          "abbrev": "TBA",
+          "managerId": "{EC680BDA-9684-47EE-A80B-DA9684D7EE14}",
+          "managerName": "Jack Markowitz & Nolan Bartnick",
+          "managerShort": "Jack",
+          "ownerNames": [
+            "Jack Markowitz",
+            "Nolan Bartnick"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 73,
+            "losses": 125,
+            "ties": 18,
+            "percentage": 0.37962962962962965,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 45.5
+          },
+          "playoffSeed": 12,
+          "finalRank": 7,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 9,
+          "teamName": "TB D",
+          "abbrev": "TBA",
+          "managerId": "{EC680BDA-9684-47EE-A80B-DA9684D7EE14}",
+          "managerName": "Nolan Bartnick & Jack Markowitz",
+          "managerShort": "Jack",
+          "ownerNames": [
+            "Nolan Bartnick",
+            "Jack Markowitz"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 110,
+            "losses": 108,
+            "ties": 10,
+            "percentage": 0.5043859649122807,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 24.5
+          },
+          "playoffSeed": 8,
+          "finalRank": 8,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 9,
+          "teamName": "TB D",
+          "abbrev": "TBA",
+          "managerId": "{EC680BDA-9684-47EE-A80B-DA9684D7EE14}",
+          "managerName": "Nolan Bartnick & Jack Markowitz",
+          "managerShort": "Jack",
+          "ownerNames": [
+            "Nolan Bartnick",
+            "Jack Markowitz"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 116,
+            "losses": 101,
+            "ties": 11,
+            "percentage": 0.5328947368421053,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 21
+          },
+          "playoffSeed": 4,
+          "finalRank": 3,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 9,
+          "teamName": "TB D",
+          "abbrev": "TBA",
+          "managerId": "{EC680BDA-9684-47EE-A80B-DA9684D7EE14}",
+          "managerName": "Nolan Bartnick & Jack Markowitz",
+          "managerShort": "Jack",
+          "ownerNames": [
+            "Nolan Bartnick",
+            "Jack Markowitz"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 92,
+            "losses": 123,
+            "ties": 13,
+            "percentage": 0.43201754385964913,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 43
+          },
+          "playoffSeed": 11,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "managerName": "Teddy Todaro",
+      "managerShort": "Teddy",
+      "teamName": "Mookie's Betts",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 10,
+          "teamName": "Gausman Tigers",
+          "abbrev": "GT",
+          "managerId": "{362E48DD-23FD-4152-922D-80E91DC8BC71}",
+          "managerName": "Teddy Todaro",
+          "managerShort": "Teddy",
+          "ownerNames": [
+            "Teddy Todaro"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 92,
+            "losses": 115,
+            "ties": 21,
+            "percentage": 0.44956140350877194,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 49
+          },
+          "playoffSeed": 9,
+          "finalRank": 10,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 10,
+          "teamName": "JRod Show",
+          "abbrev": "JRS",
+          "managerId": "{362E48DD-23FD-4152-922D-80E91DC8BC71}",
+          "managerName": "Teddy Todaro",
+          "managerShort": "Teddy",
+          "ownerNames": [
+            "Teddy Todaro"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 112,
+            "losses": 88,
+            "ties": 16,
+            "percentage": 0.5555555555555556,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 7
+          },
+          "playoffSeed": 2,
+          "finalRank": 1,
+          "isComplete": true,
+          "champion": true,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 10,
+          "teamName": "👻 🍴",
+          "abbrev": "GF",
+          "managerId": "{362E48DD-23FD-4152-922D-80E91DC8BC71}",
+          "managerName": "Teddy Todaro",
+          "managerShort": "Teddy",
+          "ownerNames": [
+            "Teddy Todaro"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 105,
+            "losses": 93,
+            "ties": 18,
+            "percentage": 0.5277777777777778,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 13.5
+          },
+          "playoffSeed": 5,
+          "finalRank": 2,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 10,
+          "teamName": "Mookie's Betts",
+          "abbrev": "MB",
+          "managerId": "{362E48DD-23FD-4152-922D-80E91DC8BC71}",
+          "managerName": "Teddy Todaro",
+          "managerShort": "Teddy",
+          "ownerNames": [
+            "Teddy Todaro"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 89,
+            "losses": 127,
+            "ties": 12,
+            "percentage": 0.4166666666666667,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 44.5
+          },
+          "playoffSeed": 11,
+          "finalRank": 11,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 10,
+          "teamName": "Mookie's Betts",
+          "abbrev": "MB",
+          "managerId": "{362E48DD-23FD-4152-922D-80E91DC8BC71}",
+          "managerName": "Teddy Todaro",
+          "managerShort": "Teddy",
+          "ownerNames": [
+            "Teddy Todaro"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 109,
+            "losses": 102,
+            "ties": 17,
+            "percentage": 0.5153508771929824,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 25
+          },
+          "playoffSeed": 5,
+          "finalRank": 6,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 10,
+          "teamName": "Mookie's Betts",
+          "abbrev": "MB",
+          "managerId": "{362E48DD-23FD-4152-922D-80E91DC8BC71}",
+          "managerName": "Teddy Todaro",
+          "managerShort": "Teddy",
+          "ownerNames": [
+            "Teddy Todaro"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 93,
+            "losses": 122,
+            "ties": 13,
+            "percentage": 0.43640350877192985,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 42
+          },
+          "playoffSeed": 10,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "managerName": "Adam Kolvas",
+      "managerShort": "Adam",
+      "teamName": "Adam's Angry Team",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 11,
+          "teamName": "NY Orillac",
+          "abbrev": "ORIL",
+          "managerId": "{6D1BD0A7-5094-449C-9B19-BBF29942EE20}",
+          "managerName": "Julian Orillac",
+          "managerShort": "Julian",
+          "ownerNames": [
+            "Julian Orillac"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 60,
+            "losses": 152,
+            "ties": 16,
+            "percentage": 0.2982456140350877,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 83.5
+          },
+          "playoffSeed": 12,
+          "finalRank": 12,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 11,
+          "teamName": "NY Orillac",
+          "abbrev": "ORIL",
+          "managerId": "{6D1BD0A7-5094-449C-9B19-BBF29942EE20}",
+          "managerName": "Julian Orillac",
+          "managerShort": "Julian",
+          "ownerNames": [
+            "Julian Orillac"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 87,
+            "losses": 112,
+            "ties": 17,
+            "percentage": 0.44212962962962965,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 31.5
+          },
+          "playoffSeed": 11,
+          "finalRank": 9,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 11,
+          "teamName": "San Diego Unstable Cliffs",
+          "abbrev": "Clif",
+          "managerId": "{376E328F-A451-43E0-B57E-5C71BD695993}",
+          "managerName": "Ben Godby",
+          "managerShort": "Ben",
+          "ownerNames": [
+            "Ben Godby"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 121,
+            "losses": 82,
+            "ties": 13,
+            "percentage": 0.5902777777777778,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 0
+          },
+          "playoffSeed": 1,
+          "finalRank": 4,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 11,
+          "teamName": "Arrakis Massive Worms",
+          "abbrev": "WORM",
+          "managerId": "{376E328F-A451-43E0-B57E-5C71BD695993}",
+          "managerName": "Ben Godby",
+          "managerShort": "Ben",
+          "ownerNames": [
+            "Ben Godby"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 92,
+            "losses": 123,
+            "ties": 13,
+            "percentage": 0.43201754385964913,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 41
+          },
+          "playoffSeed": 10,
+          "finalRank": 9,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 11,
+          "teamName": "Ceaseville Fighting Moustaches",
+          "abbrev": "CFM",
+          "managerId": "{376E328F-A451-43E0-B57E-5C71BD695993}",
+          "managerName": "Ben Godby",
+          "managerShort": "Ben",
+          "ownerNames": [
+            "Ben Godby"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 62,
+            "losses": 154,
+            "ties": 12,
+            "percentage": 0.2982456140350877,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 74.5
+          },
+          "playoffSeed": 12,
+          "finalRank": 12,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 11,
+          "teamName": "Adam's Angry Team",
+          "abbrev": "AAT",
+          "managerId": "{C59D9277-9BE8-4DE4-B936-3BC1AB438649}",
+          "managerName": "Adam Kolvas",
+          "managerShort": "Adam",
+          "ownerNames": [
+            "Adam Kolvas"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 123,
+            "losses": 95,
+            "ties": 10,
+            "percentage": 0.5614035087719298,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 13.5
+          },
+          "playoffSeed": 2,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "managerName": "David Collier",
+      "managerShort": "David",
+      "teamName": "Atlanta Not Doug",
+      "seasons": [
+        {
+          "seasonId": 2021,
+          "teamId": 12,
+          "teamName": "Atlanta Doug",
+          "abbrev": "DOUG",
+          "managerId": "{502ACE3F-29E3-496C-AACE-3F29E3F96CF4}",
+          "managerName": "Douglas Belgorod",
+          "managerShort": "Douglas",
+          "ownerNames": [
+            "Douglas Belgorod"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 67,
+            "losses": 147,
+            "ties": 14,
+            "percentage": 0.32456140350877194,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 77.5
+          },
+          "playoffSeed": 11,
+          "finalRank": 11,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2022,
+          "teamId": 12,
+          "teamName": "Atlanta Not Doug",
+          "abbrev": "Dc",
+          "managerId": "{BBECCE3D-8010-4140-92CE-C6B90341C46D}",
+          "managerName": "David Collier",
+          "managerShort": "David",
+          "ownerNames": [
+            "David Collier"
+          ],
+          "divisionId": 0,
+          "divisionName": "East",
+          "record": {
+            "wins": 102,
+            "losses": 100,
+            "ties": 14,
+            "percentage": 0.5046296296296297,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 18
+          },
+          "playoffSeed": 5,
+          "finalRank": 4,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2023,
+          "teamId": 12,
+          "teamName": "Atlanta Not Doug",
+          "abbrev": "Dc",
+          "managerId": "{BBECCE3D-8010-4140-92CE-C6B90341C46D}",
+          "managerName": "David Collier",
+          "managerShort": "David",
+          "ownerNames": [
+            "David Collier"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 119,
+            "losses": 86,
+            "ties": 11,
+            "percentage": 0.5763888888888888,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 3
+          },
+          "playoffSeed": 3,
+          "finalRank": 1,
+          "isComplete": true,
+          "champion": true,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2024,
+          "teamId": 12,
+          "teamName": "Atlanta Not Doug",
+          "abbrev": "Dc",
+          "managerId": "{BBECCE3D-8010-4140-92CE-C6B90341C46D}",
+          "managerName": "David Collier",
+          "managerShort": "David",
+          "ownerNames": [
+            "David Collier"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 132,
+            "losses": 81,
+            "ties": 15,
+            "percentage": 0.6118421052631579,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 0
+          },
+          "playoffSeed": 1,
+          "finalRank": 2,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": true
+        },
+        {
+          "seasonId": 2025,
+          "teamId": 12,
+          "teamName": "Atlanta Not Doug",
+          "abbrev": "Dc",
+          "managerId": "{BBECCE3D-8010-4140-92CE-C6B90341C46D}",
+          "managerName": "David Collier",
+          "managerShort": "David",
+          "ownerNames": [
+            "David Collier"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 109,
+            "losses": 109,
+            "ties": 10,
+            "percentage": 0.5,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 28.5
+          },
+          "playoffSeed": 8,
+          "finalRank": 7,
+          "isComplete": true,
+          "champion": false,
+          "madePlayoffs": false
+        },
+        {
+          "seasonId": 2026,
+          "teamId": 12,
+          "teamName": "Atlanta Not Doug",
+          "abbrev": "Dc",
+          "managerId": "{BBECCE3D-8010-4140-92CE-C6B90341C46D}",
+          "managerName": "David Collier",
+          "managerShort": "David",
+          "ownerNames": [
+            "David Collier"
+          ],
+          "divisionId": 1,
+          "divisionName": "West",
+          "record": {
+            "wins": 109,
+            "losses": 109,
+            "ties": 10,
+            "percentage": 0.5,
+            "pointsFor": 0,
+            "pointsAgainst": 0,
+            "gamesBack": 27.5
+          },
+          "playoffSeed": 5,
+          "finalRank": 0,
+          "isComplete": false,
+          "champion": false,
+          "madePlayoffs": true
+        }
+      ]
+    }
+  ]
+}

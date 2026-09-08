@@ -6,11 +6,23 @@
  *   leagueHistory/{id}?seasonId={year}        — checks *current* membership, returns [league]
  * Visibility differs per season and per endpoint (verified: 2021 is 401 on the
  * first and 200 on the second for this league), so we always fall through.
+ *
+ * Transaction history: the `kona_playercard` view returns, per player, every
+ * league transaction involving them that season. Querying the top ~3000
+ * players by ownership enumerates the whole season's history (verified 2025:
+ * players beyond 3000 had zero transactions). It works for past seasons on
+ * the seasons/ path; on the leagueHistory path it returns no transactions.
  */
 import { setTimeout as sleep } from 'node:timers/promises'
 import type { EspnAuth } from './auth.ts'
 import { cookieHeader } from './auth.ts'
-import { isEspnLeague, type EspnErrorBody, type EspnLeague } from '../src/types/espn.ts'
+import {
+  isEspnLeague,
+  type EspnErrorBody,
+  type EspnLeague,
+  type EspnPlayer,
+  type EspnPlayerCard,
+} from '../src/types/espn.ts'
 
 export const BASE = 'https://lm-api-reads.fantasy.espn.com/apis/v3/games/flb'
 
@@ -31,6 +43,10 @@ export type Source = 'seasons' | 'leagueHistory'
 export type FetchOutcome =
   | { ok: true; status: 200; source: Source; url: string; body: EspnLeague; bytes: number }
   | { ok: false; status: number; source: Source; url: string; error: string }
+
+export type PlayerCardsOutcome =
+  | { ok: true; status: 200; source: Source; players: EspnPlayerCard[]; bytes: number; requests: number }
+  | { ok: false; status: number; source: Source; error: string }
 
 interface RawResponse {
   status: number
@@ -88,9 +104,17 @@ function fail(status: number, source: Source, url: string, error: string): Fetch
   return { ok: false, status, source, url, error }
 }
 
+function seasonUrl(auth: EspnAuth, season: number, query: string): string {
+  return `${BASE}/seasons/${season}/segments/0/leagues/${auth.leagueId}?${query}`
+}
+
+function historyUrl(auth: EspnAuth, season: number, query: string): string {
+  return `${BASE}/leagueHistory/${auth.leagueId}?seasonId=${season}&${query}`
+}
+
 export async function fetchLeagueSeason(auth: EspnAuth, season: number): Promise<FetchOutcome> {
   const query = LEAGUE_VIEWS.map((v) => `view=${v}`).join('&')
-  const primaryUrl = `${BASE}/seasons/${season}/segments/0/leagues/${auth.leagueId}?${query}`
+  const primaryUrl = seasonUrl(auth, season, query)
 
   let primary: RawResponse
   try {
@@ -105,7 +129,7 @@ export async function fetchLeagueSeason(auth: EspnAuth, season: number): Promise
 
   // Fall through to leagueHistory on 401/404 (or a 200 with an unexpected shape).
   if (primary.status === 401 || primary.status === 404 || primary.status === 200) {
-    const altUrl = `${BASE}/leagueHistory/${auth.leagueId}?seasonId=${season}&${query}`
+    const altUrl = historyUrl(auth, season, query)
     try {
       const alt = await getJson(altUrl, headers(auth))
       const body = Array.isArray(alt.body) ? alt.body[0] : alt.body
@@ -126,17 +150,55 @@ export async function fetchLeagueSeason(auth: EspnAuth, season: number): Promise
   return fail(primary.status, 'seasons', primaryUrl, primaryMsg)
 }
 
-/** Full player universe for a season. Large and volatile; opt-in via --players. */
-export async function fetchPlayers(auth: EspnAuth, season: number, scoringPeriodId: number): Promise<FetchOutcome> {
-  const url = `${BASE}/seasons/${season}/segments/0/leagues/${auth.leagueId}?view=kona_player_info&scoringPeriodId=${scoringPeriodId}`
-  try {
-    const res = await getJson(url, headers(auth, { 'x-fantasy-filter': JSON.stringify({ players: { limit: 5000 } }) }))
-    if (res.status === 200 && res.body && typeof res.body === 'object') {
-      // Not a full league object (no teams), so don't use isEspnLeague here.
-      return { ok: true, status: 200, source: 'seasons', url, body: res.body as EspnLeague, bytes: res.text.length }
+const PLAYERCARD_PAGE = 3000
+
+/**
+ * Player cards (with per-player transaction lists) for the top N players by
+ * ownership. Two pages of 3000 cover every transacted player in practice.
+ */
+export async function fetchPlayerCards(auth: EspnAuth, season: number, source: Source): Promise<PlayerCardsOutcome> {
+  const players: EspnPlayerCard[] = []
+  let bytes = 0
+  let requests = 0
+  for (const offset of [0, PLAYERCARD_PAGE]) {
+    const filter = JSON.stringify({
+      players: { limit: PLAYERCARD_PAGE, offset, sortPercOwned: { sortPriority: 1, sortAsc: false } },
+    })
+    const url =
+      source === 'seasons'
+        ? seasonUrl(auth, season, 'view=kona_playercard')
+        : historyUrl(auth, season, 'view=kona_playercard')
+    let res: RawResponse
+    try {
+      res = await getJson(url, headers(auth, { 'x-fantasy-filter': filter }))
+    } catch (err) {
+      return { ok: false, status: 0, source, error: `network: ${(err as Error).message}` }
     }
-    return fail(res.status, 'seasons', url, espnMessage(res.body, res.text))
-  } catch (err) {
-    return fail(0, 'seasons', url, `network: ${(err as Error).message}`)
+    requests++
+    bytes += res.text.length
+    const body = Array.isArray(res.body) ? res.body[0] : res.body
+    const page = (body as { players?: EspnPlayerCard[] } | undefined)?.players
+    if (res.status !== 200 || !Array.isArray(page)) {
+      return { ok: false, status: res.status, source, error: espnMessage(res.body, res.text) }
+    }
+    players.push(...page)
+    if (page.length < PLAYERCARD_PAGE) break
   }
+  return { ok: true, status: 200, source, players, bytes, requests }
+}
+
+/**
+ * Resolve player names/positions by id from the season-wide player universe
+ * (players_wl view). Used for drafted-then-dropped players that appear in no
+ * roster or transaction archive. Batched to keep the filter header small.
+ */
+export async function fetchPlayerNames(auth: EspnAuth, season: number, ids: number[]): Promise<EspnPlayer[]> {
+  const out: EspnPlayer[] = []
+  for (let i = 0; i < ids.length; i += 100) {
+    const batch = ids.slice(i, i + 100)
+    const url = `${BASE}/seasons/${season}/players?scoringPeriodId=0&view=players_wl`
+    const res = await getJson(url, headers(auth, { 'x-fantasy-filter': JSON.stringify({ filterIds: { value: batch } }) }))
+    if (res.status === 200 && Array.isArray(res.body)) out.push(...(res.body as EspnPlayer[]))
+  }
+  return out
 }

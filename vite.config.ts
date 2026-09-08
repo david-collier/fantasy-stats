@@ -8,4 +8,15 @@ const repo = process.env.GITHUB_REPOSITORY?.split('/')[1]
 export default defineConfig({
   plugins: [react()],
   base: repo ? `/${repo}/` : '/',
+  build: {
+    chunkSizeWarningLimit: 600,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          recharts: ['recharts'],
+          react: ['react', 'react-dom', 'react-router-dom'],
+        },
+      },
+    },
+  },
 })

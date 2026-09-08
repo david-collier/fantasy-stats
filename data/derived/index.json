@@ -1,7 +1,7 @@
 {
   "leagueId": 1295435853,
   "leagueName": "Bangin’ Trash Can Dynasty League",
-  "lastUpdated": "2026-09-08T02:13:21.020Z",
+  "lastUpdated": "2026-09-08T04:10:34.623Z",
   "currentSeason": 2026,
   "seasons": [
     {
@@ -11,7 +11,9 @@
       "isCurrent": true,
       "isComplete": false,
       "championTeamId": null,
-      "championName": null
+      "championName": null,
+      "championManager": null,
+      "hasTransactions": true
     },
     {
       "seasonId": 2025,
@@ -20,7 +22,14 @@
       "isCurrent": false,
       "isComplete": true,
       "championTeamId": 3,
-      "championName": "Crocheted Webbs"
+      "championName": "Crocheted Webbs",
+      "championManager": "Ethan Christensen",
+      "podium": [
+        3,
+        8,
+        9
+      ],
+      "hasTransactions": true
     },
     {
       "seasonId": 2024,
@@ -29,7 +38,14 @@
       "isCurrent": false,
       "isComplete": true,
       "championTeamId": 1,
-      "championName": "Volpe's Log Cabin"
+      "championName": "Volpe's Log Cabin",
+      "championManager": "Armaan Rawat",
+      "podium": [
+        1,
+        12,
+        8
+      ],
+      "hasTransactions": true
     },
     {
       "seasonId": 2023,
@@ -38,7 +54,14 @@
       "isCurrent": false,
       "isComplete": true,
       "championTeamId": 12,
-      "championName": "Atlanta Not Doug"
+      "championName": "Atlanta Not Doug",
+      "championManager": "David Collier",
+      "podium": [
+        12,
+        10,
+        5
+      ],
+      "hasTransactions": true
     },
     {
       "seasonId": 2022,
@@ -47,7 +70,14 @@
       "isCurrent": false,
       "isComplete": true,
       "championTeamId": 10,
-      "championName": "JRod Show"
+      "championName": "JRod Show",
+      "championManager": "Teddy Todaro",
+      "podium": [
+        10,
+        5,
+        7
+      ],
+      "hasTransactions": true
     },
     {
       "seasonId": 2021,
@@ -56,7 +86,14 @@
       "isCurrent": false,
       "isComplete": true,
       "championTeamId": 8,
-      "championName": "A Drive Into Deep Left Field"
+      "championName": "A Drive Into Deep Left Field",
+      "championManager": "Stuart Smith",
+      "podium": [
+        8,
+        1,
+        7
+      ],
+      "hasTransactions": false
     }
   ]
 }

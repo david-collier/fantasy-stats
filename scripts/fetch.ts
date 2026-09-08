@@ -5,20 +5,22 @@
  *                                 extra years ESPN lists in status.previousSeasons)
  *   npm run fetch -- --season 2024
  *   npm run fetch -- --check      dry run, writes nothing, same exit code
+ *   npm run fetch -- --tx         re-capture transaction history for completed seasons too
  *   npm run fetch -- --players    also capture kona_player_info
  *
  * Exit code is the cookie-expiry alarm: a failure on the current season (or a
  * 401 on last season) exits 1 so the GitHub Actions run goes red and emails.
  * Failures on older seasons are warnings only.
  */
-import { readdirSync } from 'node:fs'
 import { join } from 'node:path'
 import { parseFetchArgs, USAGE } from './args.ts'
 import { loadAuth } from './auth.ts'
-import { buildIndex, deriveSeason, indexEntryFromSeason } from './derive.ts'
-import { fetchLeagueSeason, fetchPlayers, type FetchOutcome, type Source } from './espn.ts'
+import { listDerivedSeasons, missingPlayerIds, runCrossSeason } from './crossSeason.ts'
+import { buildIndex, deriveSeason, deriveTransactions, indexEntryFromSeason, playerRef } from './derive.ts'
+import { fetchLeagueSeason, fetchPlayerCards, fetchPlayerNames, type FetchOutcome, type Source } from './espn.ts'
 import { formatBytes, readJsonIfExists, writeJsonIfChanged } from './io.ts'
-import type { SeasonData, SeasonFetchStatus, SeasonIndex, SeasonIndexEntry } from '../src/types/derived.ts'
+import type { EspnTransaction } from '../src/types/espn.ts'
+import type { PlayerDirectory, PlayerRef, SeasonData, SeasonFetchStatus, SeasonIndex, SeasonIndexEntry } from '../src/types/derived.ts'
 
 const CONFIG_PATH = 'config/league.json'
 const RAW_DIR = 'data/raw'
@@ -36,12 +38,22 @@ interface RawMeta {
   fetchedAt: string
 }
 
+/** data/raw/<season>/transactions.json — deduped player-card transactions, trimmed player refs. */
+interface RawTransactions {
+  fetchedAt: string
+  source: 'playercard' | 'none'
+  note?: string
+  playersScanned: number
+  transactions: EspnTransaction[]
+  players: Record<string, PlayerRef>
+}
+
 interface SeasonResult {
   season: number
   outcome: FetchOutcome
   derived?: SeasonData
   changed: boolean
-  playersChanged?: boolean
+  txNote?: string
 }
 
 function statusLabel(status: number): SeasonFetchStatus {
@@ -56,36 +68,85 @@ function isFatal(season: number, outcome: FetchOutcome, currentYear: number): bo
   if (outcome.ok) return false
   const month = new Date().getMonth() // 0 = Jan
   if (season === currentYear) {
-    // Jan–Mar: the league may simply not be renewed yet.
-    if (outcome.status === 404 && month <= 2) return false
+    if (outcome.status === 404 && month <= 2) return false // league not renewed yet
     return true
   }
   if (season === currentYear - 1 && statusLabel(outcome.status) === 'unauthorized') return true
   return false
 }
 
-function existingDerivedSeasons(): number[] {
-  try {
-    return readdirSync(DERIVED_DIR)
-      .map((f) => /^(\d{4})\.json$/.exec(f)?.[1])
-      .filter((s): s is string => Boolean(s))
-      .map(Number)
-  } catch {
-    return []
+async function captureTransactions(
+  season: number,
+  auth: ReturnType<typeof loadAuth>,
+  source: Source,
+  isComplete: boolean,
+  opts: { check: boolean; tx: boolean },
+): Promise<{ raw: RawTransactions; changed: boolean; note: string }> {
+  const rawPath = join(RAW_DIR, String(season), 'transactions.json')
+  const existing = readJsonIfExists<RawTransactions>(rawPath)
+
+  // Completed seasons never change: reuse the archive unless --tx forces a refresh.
+  if (existing && isComplete && !opts.tx) {
+    return { raw: existing, changed: false, note: `tx: ${existing.transactions.length} (archived)` }
+  }
+
+  const cards = await fetchPlayerCards(auth, season, source)
+  if (!cards.ok) {
+    if (existing) return { raw: existing, changed: false, note: `tx: fetch failed (${cards.status}), kept archive` }
+    const raw: RawTransactions = {
+      fetchedAt: new Date().toISOString(),
+      source: 'none',
+      note: `playercard fetch failed: ${cards.status} ${cards.error}`,
+      playersScanned: 0,
+      transactions: [],
+      players: {},
+    }
+    return { raw, changed: false, note: `tx: unavailable (${cards.status})` }
+  }
+
+  const byId = new Map<string, EspnTransaction>()
+  const players: Record<string, PlayerRef> = {}
+  for (const card of cards.players) {
+    if (!card.transactions?.length) continue
+    players[String(card.id)] = playerRef(card.player)
+    for (const t of card.transactions) byId.set(t.id, t)
+  }
+  const transactions = [...byId.values()].sort((a, b) => (a.processDate ?? a.proposedDate ?? 0) - (b.processDate ?? b.proposedDate ?? 0))
+  const source2: RawTransactions['source'] = transactions.length ? 'playercard' : 'none'
+  const raw: RawTransactions = {
+    fetchedAt: existing?.fetchedAt ?? new Date().toISOString(),
+    source: source2,
+    note: source2 === 'none' ? 'ESPN returned no transactions for this season (leagueHistory path has none)' : undefined,
+    playersScanned: cards.players.length,
+    transactions,
+    players,
+  }
+  // Only bump fetchedAt when the content actually changed.
+  const same =
+    existing &&
+    JSON.stringify({ ...existing, fetchedAt: '' }) === JSON.stringify({ ...raw, fetchedAt: '' })
+  if (!same) raw.fetchedAt = new Date().toISOString()
+  const changed = opts.check ? !same : writeJsonIfChanged(rawPath, raw)
+  return {
+    raw,
+    changed,
+    note: `tx: ${transactions.length} from ${cards.players.length} cards (${formatBytes(cards.bytes)}${changed ? ', changed' : ''})`,
   }
 }
 
 async function processSeason(
   season: number,
   auth: ReturnType<typeof loadAuth>,
-  opts: { check: boolean; players: boolean },
+  opts: { check: boolean; players: boolean; tx: boolean },
 ): Promise<SeasonResult> {
   const outcome = await fetchLeagueSeason(auth, season)
   if (!outcome.ok) return { season, outcome, changed: false }
 
-  const rawPath = join(RAW_DIR, String(season), 'league.json')
-  const metaPath = join(RAW_DIR, String(season), '_meta.json')
+  const dir = join(RAW_DIR, String(season))
+  const rawPath = join(dir, 'league.json')
+  const metaPath = join(dir, '_meta.json')
   const derivedPath = join(DERIVED_DIR, `${season}.json`)
+  const txDerivedPath = join(DERIVED_DIR, `${season}-tx.json`)
 
   const prevMeta = readJsonIfExists<RawMeta>(metaPath)
   const now = new Date().toISOString()
@@ -93,7 +154,6 @@ async function processSeason(
   let changed = false
   let fetchedAt = prevMeta?.fetchedAt ?? now
   if (opts.check) {
-    // Compare without writing so --check can still report "would change".
     const prevRaw = readJsonIfExists<unknown>(rawPath)
     changed = JSON.stringify(prevRaw) !== JSON.stringify(outcome.body)
     if (changed) fetchedAt = now
@@ -104,23 +164,36 @@ async function processSeason(
     writeJsonIfChanged(metaPath, meta)
   }
 
-  const derived = deriveSeason(outcome.body, fetchedAt)
+  // Provisional derive to learn completeness, then transactions, then final derive.
+  const provisional = deriveSeason(outcome.body, fetchedAt, false)
+  const tx = await captureTransactions(season, auth, outcome.source, provisional.status.isComplete, opts)
+  changed = changed || tx.changed
+
+  const derived = deriveSeason(outcome.body, fetchedAt, tx.raw.source === 'playercard')
+  const derivedTx = deriveTransactions(season, tx.raw.transactions, tx.raw.players, tx.raw.source)
   if (!opts.check) {
-    changed = writeJsonIfChanged(derivedPath, derived) || changed
-  }
-
-  let playersChanged: boolean | undefined
-  if (opts.players) {
-    const p = await fetchPlayers(auth, season, derived.status.latestScoringPeriod)
-    if (p.ok) {
-      playersChanged = opts.check ? undefined : writeJsonIfChanged(join(RAW_DIR, String(season), 'players.json'), p.body)
-      changed = changed || Boolean(playersChanged)
-    } else {
-      console.warn(`  ${season} players: ${p.status} ${p.error}`)
+    // Preserve keeperSince/originType from the previous derive; crossSeason recomputes them anyway.
+    const prevDerived = readJsonIfExists<SeasonData>(derivedPath)
+    if (prevDerived?.rosters) {
+      for (const [teamId, roster] of Object.entries(derived.rosters)) {
+        for (const e of roster) {
+          const p = prevDerived.rosters[teamId]?.find((x) => x.playerId === e.playerId)
+          if (p?.keeperSince) {
+            e.keeperSince = p.keeperSince
+            e.originType = p.originType
+          }
+        }
+      }
     }
+    changed = writeJsonIfChanged(derivedPath, derived) || changed
+    changed = writeJsonIfChanged(txDerivedPath, derivedTx) || changed
   }
 
-  return { season, outcome, derived, changed, playersChanged }
+  if (opts.players) {
+    console.warn(`  ${season}: --players (kona_player_info) is not implemented in v2; skipping`)
+  }
+
+  return { season, outcome, derived, changed, txNote: tx.note }
 }
 
 async function main(): Promise<number> {
@@ -143,7 +216,7 @@ async function main(): Promise<number> {
   for (let y = from; y <= to; y++) seasons.add(y)
 
   console.log(
-    `${args.check ? '[check] ' : ''}league ${auth.leagueId} · seasons ${from}–${to}${args.players ? ' · +players' : ''}`,
+    `${args.check ? '[check] ' : ''}league ${auth.leagueId} · seasons ${from}–${to}${args.tx ? ' · refresh tx archives' : ''}`,
   )
 
   const results = new Map<number, SeasonResult>()
@@ -175,12 +248,14 @@ async function main(): Promise<number> {
     const o = r.outcome
     if (o.ok) {
       const d = r.derived!
-      const champ = d.championTeamId != null ? d.teams.find((t) => t.id === d.championTeamId)?.name : undefined
-      const state = d.status.isComplete ? `complete${champ ? ` · champion: ${champ}` : ''}` : `live · matchup ${d.status.currentMatchupPeriod}`
-      const players = r.playersChanged === undefined ? '' : r.playersChanged ? ' · players changed' : ' · players unchanged'
+      const champ = d.championTeamId != null ? d.teams.find((t) => t.id === d.championTeamId) : undefined
+      const state = d.status.isComplete
+        ? `complete${champ ? ` · champion: ${champ.managerShort} (${champ.name})` : ''}`
+        : `live · matchup ${d.status.currentMatchupPeriod}`
       console.log(
-        `${season}    200     ${o.source.padEnd(13)}  ${formatBytes(o.bytes).padStart(7)}  ${r.changed ? 'changed  ' : 'unchanged'} · ${d.teams.length} teams · ${state}${players}`,
+        `${season}    200     ${o.source.padEnd(13)}  ${formatBytes(o.bytes).padStart(7)}  ${r.changed ? 'changed  ' : 'unchanged'} · ${d.teams.length} teams · ${state}`,
       )
+      if (r.txNote) console.log(`${''.padEnd(48)}${r.txNote}`)
       anyChanged ||= r.changed
     } else {
       const f = isFatal(season, o, currentYear)
@@ -189,13 +264,31 @@ async function main(): Promise<number> {
     }
   }
 
-  // ---- Index --------------------------------------------------------------
+  // ---- Cross-season + index ----------------------------------------------
+  if (!args.check) {
+    // Names for players who appear only as draft picks (drafted, then dropped before season end).
+    const extraPath = join(RAW_DIR, 'players-extra.json')
+    const extra = readJsonIfExists<PlayerDirectory>(extraPath) ?? {}
+    let x = runCrossSeason(DERIVED_DIR, auth.leagueId, currentYear, extra)
+    const missing = missingPlayerIds(DERIVED_DIR, readJsonIfExists<PlayerDirectory>(join(DERIVED_DIR, 'players.json')) ?? {})
+    if (missing.length) {
+      const found = await fetchPlayerNames(auth, currentYear, missing)
+      for (const p of found) extra[String(p.id)] = playerRef(p)
+      for (const id of missing) extra[String(id)] ??= { id, name: `Player #${id}`, positionId: -1, proTeamId: 0 }
+      writeJsonIfChanged(extraPath, extra)
+      x = runCrossSeason(DERIVED_DIR, auth.leagueId, currentYear, extra)
+      console.log(`
+resolved ${found.length}/${missing.length} missing player names`)
+    }
+    anyChanged ||= x.changed
+    console.log('')
+    console.log(`cross-season: ${x.seasons.length} seasons · ${x.franchises} franchises · ${x.players} players${x.changed ? ' · changed' : ''}`)
+  }
+
   const indexPath = join(DERIVED_DIR, 'index.json')
   const prevIndex = readJsonIfExists<SeasonIndex>(indexPath)
   const entries = new Map<number, SeasonIndexEntry>()
-
-  // Seasons already on disk from earlier runs (e.g. when --season narrowed this run).
-  for (const y of existingDerivedSeasons()) {
+  for (const y of listDerivedSeasons(DERIVED_DIR)) {
     const d = readJsonIfExists<SeasonData>(join(DERIVED_DIR, `${y}.json`))
     if (d) entries.set(y, indexEntryFromSeason(d, y === currentYear))
   }
@@ -227,7 +320,6 @@ async function main(): Promise<number> {
   })
   if (!args.check) {
     const idxChanged = writeJsonIfChanged(indexPath, index)
-    console.log('')
     console.log(`index.json ${idxChanged ? 'updated' : 'unchanged'} · league: ${index.leagueName}`)
   } else {
     console.log('')
@@ -235,8 +327,10 @@ async function main(): Promise<number> {
   }
 
   if (fatal) {
-    console.error('\nFATAL: current-season fetch failed. If the status is 401, the espn_s2 cookie has probably expired: ' +
-      're-copy it from your browser and update .env / the ESPN_S2 repository secret.')
+    console.error(
+      '\nFATAL: current-season fetch failed. If the status is 401, the espn_s2 cookie has probably expired: ' +
+        're-copy it from your browser and update .env / the ESPN_S2 repository secret.',
+    )
     return 1
   }
   return 0

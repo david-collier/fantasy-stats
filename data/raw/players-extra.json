@@ -1,0 +1,376 @@
+{
+  "0": {
+    "id": 0,
+    "name": "Player #0",
+    "positionId": -1,
+    "proTeamId": 0
+  },
+  "4570": {
+    "id": 4570,
+    "name": "Ichiro Suzuki",
+    "positionId": 9,
+    "proTeamId": 12,
+    "eligibleSlots": [
+      10,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "28688": {
+    "id": 28688,
+    "name": "Joakim Soria",
+    "positionId": 11,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      13,
+      15,
+      16,
+      17
+    ]
+  },
+  "28841": {
+    "id": 28841,
+    "name": "Justin Upton",
+    "positionId": 10,
+    "proTeamId": 12,
+    "eligibleSlots": [
+      11,
+      12,
+      16,
+      17
+    ]
+  },
+  "28958": {
+    "id": 28958,
+    "name": "David Price",
+    "positionId": 11,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      13,
+      15,
+      16,
+      17
+    ]
+  },
+  "29174": {
+    "id": 29174,
+    "name": "Brett Gardner",
+    "positionId": 8,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      9,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "30173": {
+    "id": 30173,
+    "name": "Wilson Ramos",
+    "positionId": 2,
+    "proTeamId": 13,
+    "eligibleSlots": [
+      0,
+      12,
+      16,
+      17
+    ]
+  },
+  "30945": {
+    "id": 30945,
+    "name": "Greg Holland",
+    "positionId": 11,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      13,
+      15,
+      16,
+      17
+    ]
+  },
+  "31214": {
+    "id": 31214,
+    "name": "Matt Harvey",
+    "positionId": 1,
+    "proTeamId": 1,
+    "eligibleSlots": [
+      13,
+      14,
+      16,
+      17
+    ]
+  },
+  "31376": {
+    "id": 31376,
+    "name": "Didi Gregorius",
+    "positionId": 6,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      4,
+      6,
+      19,
+      12,
+      16,
+      17
+    ]
+  },
+  "31413": {
+    "id": 31413,
+    "name": "Kole Calhoun",
+    "positionId": 3,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      1,
+      7,
+      19,
+      12,
+      16,
+      17
+    ]
+  },
+  "31945": {
+    "id": 31945,
+    "name": "Trevor Rosenthal",
+    "positionId": 11,
+    "proTeamId": 6,
+    "eligibleSlots": [
+      13,
+      15,
+      16,
+      17
+    ]
+  },
+  "31973": {
+    "id": 31973,
+    "name": "Jonathan Villar",
+    "positionId": 4,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      2,
+      6,
+      19,
+      12,
+      16,
+      17
+    ]
+  },
+  "32014": {
+    "id": 32014,
+    "name": "Trevor Bauer",
+    "positionId": 1,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      13,
+      14,
+      16,
+      17
+    ]
+  },
+  "32046": {
+    "id": 32046,
+    "name": "James McCann",
+    "positionId": 2,
+    "proTeamId": 29,
+    "eligibleSlots": [
+      0,
+      12,
+      16,
+      17
+    ]
+  },
+  "32087": {
+    "id": 32087,
+    "name": "Joe Panik",
+    "positionId": 5,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      3,
+      7,
+      19,
+      12,
+      16,
+      17
+    ]
+  },
+  "32217": {
+    "id": 32217,
+    "name": "Tommy La Stella",
+    "positionId": 10,
+    "proTeamId": 12,
+    "eligibleSlots": [
+      11,
+      12,
+      16,
+      17
+    ]
+  },
+  "32362": {
+    "id": 32362,
+    "name": "Jackie Bradley Jr.",
+    "positionId": 8,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      9,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "32518": {
+    "id": 32518,
+    "name": "Archie Bradley",
+    "positionId": 11,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      13,
+      15,
+      16,
+      17
+    ]
+  },
+  "32956": {
+    "id": 32956,
+    "name": "Alex Dickerson",
+    "positionId": 10,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      11,
+      12,
+      16,
+      17
+    ]
+  },
+  "32961": {
+    "id": 32961,
+    "name": "Austin Nola",
+    "positionId": 2,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      0,
+      12,
+      16,
+      17
+    ]
+  },
+  "33188": {
+    "id": 33188,
+    "name": "Clint Frazier",
+    "positionId": 9,
+    "proTeamId": 0,
+    "eligibleSlots": [
+      10,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "33652": {
+    "id": 33652,
+    "name": "Amir Garrett",
+    "positionId": 11,
+    "proTeamId": 14,
+    "eligibleSlots": [
+      13,
+      15,
+      16,
+      17
+    ]
+  },
+  "35779": {
+    "id": 35779,
+    "name": "Tim Locastro",
+    "positionId": 7,
+    "proTeamId": 25,
+    "eligibleSlots": [
+      1,
+      7,
+      19,
+      8,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "36037": {
+    "id": 36037,
+    "name": "Tim Tebow",
+    "positionId": 7,
+    "proTeamId": 21,
+    "eligibleSlots": [
+      8,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "36167": {
+    "id": 36167,
+    "name": "Ryan Sherriff",
+    "positionId": 11,
+    "proTeamId": 2,
+    "eligibleSlots": [
+      13,
+      15,
+      16,
+      17
+    ]
+  },
+  "39897": {
+    "id": 39897,
+    "name": "Cristian Pache",
+    "positionId": 9,
+    "proTeamId": 21,
+    "eligibleSlots": [
+      9,
+      10,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "41185": {
+    "id": 41185,
+    "name": "Kyler Murray",
+    "positionId": 8,
+    "proTeamId": 11,
+    "eligibleSlots": [
+      9,
+      5,
+      12,
+      16,
+      17
+    ]
+  },
+  "41218": {
+    "id": 41218,
+    "name": "Deivi Garcia",
+    "positionId": 1,
+    "proTeamId": 8,
+    "eligibleSlots": [
+      13,
+      14,
+      16,
+      17
+    ]
+  },
+  "5136757": {
+    "id": 5136757,
+    "name": "Spencer Arrighetti",
+    "positionId": 1,
+    "proTeamId": 18,
+    "eligibleSlots": [
+      13,
+      14,
+      16,
+      17
+    ]
+  }
+}
