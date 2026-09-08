@@ -1,0 +1,62 @@
+{
+  "leagueId": 1295435853,
+  "leagueName": "Bangin’ Trash Can Dynasty League",
+  "lastUpdated": "2026-09-07T21:35:43.286Z",
+  "currentSeason": 2026,
+  "seasons": [
+    {
+      "seasonId": 2026,
+      "status": "ok",
+      "httpStatus": 200,
+      "isCurrent": true,
+      "isComplete": false,
+      "championTeamId": null,
+      "championName": null
+    },
+    {
+      "seasonId": 2025,
+      "status": "ok",
+      "httpStatus": 200,
+      "isCurrent": false,
+      "isComplete": true,
+      "championTeamId": 3,
+      "championName": "Crocheted Webbs"
+    },
+    {
+      "seasonId": 2024,
+      "status": "ok",
+      "httpStatus": 200,
+      "isCurrent": false,
+      "isComplete": true,
+      "championTeamId": 1,
+      "championName": "Volpe's Log Cabin"
+    },
+    {
+      "seasonId": 2023,
+      "status": "ok",
+      "httpStatus": 200,
+      "isCurrent": false,
+      "isComplete": true,
+      "championTeamId": 12,
+      "championName": "Atlanta Not Doug"
+    },
+    {
+      "seasonId": 2022,
+      "status": "ok",
+      "httpStatus": 200,
+      "isCurrent": false,
+      "isComplete": true,
+      "championTeamId": 10,
+      "championName": "JRod Show"
+    },
+    {
+      "seasonId": 2021,
+      "status": "ok",
+      "httpStatus": 200,
+      "isCurrent": false,
+      "isComplete": true,
+      "championTeamId": 8,
+      "championName": "A Drive Into Deep Left Field"
+    }
+  ]
+}

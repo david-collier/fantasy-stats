@@ -1,0 +1,33 @@
+# GitHub disables scheduled workflows after 60 days without repository
+# activity. During the season the data commits count as activity; this
+# monthly stamp covers the off-season. Nothing reads .github/keepalive.
+
+name: Keepalive
+
+on:
+  schedule:
+    - cron: '17 3 1 * *' # monthly
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: keepalive
+  cancel-in-progress: false
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stamp and push
+        run: |
+          set -euo pipefail
+          date -u +'%Y-%m-%dT%H:%M:%SZ' > .github/keepalive
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/keepalive
+          git commit -m "chore: keepalive stamp so scheduled workflows stay enabled"
+          git push

@@ -1,0 +1,6 @@
+{
+  "source": "leagueHistory",
+  "status": 200,
+  "url": "https://lm-api-reads.fantasy.espn.com/apis/v3/games/flb/leagueHistory/1295435853?seasonId=2021&view=mSettings&view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mStandings&view=mDraftDetail&view=mTransactions2",
+  "fetchedAt": "2026-09-07T21:35:37.201Z"
+}

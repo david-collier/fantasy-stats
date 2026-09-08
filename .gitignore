@@ -1,0 +1,13 @@
+# secrets — never commit
+.env
+.env.*.local
+.espn-auth.json
+
+# build / deps
+node_modules/
+dist/
+*.tsbuildinfo
+
+# misc
+.DS_Store
+npm-debug.log*

@@ -1,0 +1,95 @@
+# Fetch league data from ESPN, commit it if anything changed, build the site,
+# and deploy to GitHub Pages — all in one workflow.
+#
+# Why one workflow: pushes made with the default GITHUB_TOKEN never trigger
+# other workflows (GitHub's loop guard), so a separate deploy.yml would not
+# run after the bot's data commit. Building here means new data ships at once.
+#
+# Failure = alarm: if the current season returns 401 the espn_s2 cookie has
+# expired. The fetch step exits 1, nothing is committed, the last good site
+# stays live, and GitHub emails the repo owner. Re-copy the cookie from your
+# browser and update the ESPN_S2 secret (see README).
+
+name: Refresh data and deploy
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # every 6 hours, UTC
+  workflow_dispatch:
+    inputs:
+      players:
+        description: 'Also capture kona_player_info (large, volatile)'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**' # bot data pushes don't trigger anyway; this keeps intent clear
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-and-deploy
+  cancel-in-progress: false # never cancel a run mid-commit
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # Code pushes just rebuild from committed data; scheduled/manual runs fetch.
+      - name: Fetch ESPN data
+        if: github.event_name != 'push'
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+        run: |
+          if [ "${{ inputs.players }}" = "true" ]; then
+            npm run fetch -- --players
+          else
+            npm run fetch
+          fi
+
+      - name: Commit data if changed
+        if: github.event_name != 'push'
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "No data changes — nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "data: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push
+
+      - name: Typecheck and build
+        run: npm run build # GITHUB_REPOSITORY is set by Actions -> Vite base=/<repo>/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
