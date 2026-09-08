@@ -18855,6 +18855,28 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "51c0b095-9cf4-41db-aec6-e873d63f0e84",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1788876299817,
+      "teamId": 5,
+      "scoringPeriodId": 168,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 41125,
+          "fromTeamId": 0,
+          "toTeamId": 5
+        },
+        {
+          "type": "DROP",
+          "playerId": 5214984,
+          "fromTeamId": 5,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
@@ -21962,6 +21984,19 @@
         15,
         16,
         17
+      ]
+    },
+    "41125": {
+      "id": 41125,
+      "name": "Drew Anderson",
+      "positionId": 1,
+      "proTeamId": 6,
+      "eligibleSlots": [
+        13,
+        14,
+        16,
+        17,
+        15
       ]
     },
     "41165": {
