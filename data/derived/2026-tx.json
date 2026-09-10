@@ -18997,6 +18997,50 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "489c0572-8fe7-4607-a156-3897edbd52fa",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1789050394864,
+      "teamId": 7,
+      "scoringPeriodId": 170,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 5124004,
+          "fromTeamId": 0,
+          "toTeamId": 7
+        },
+        {
+          "type": "DROP",
+          "playerId": 41587,
+          "fromTeamId": 7,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "f37af304-40f8-433b-a6ed-5c508b0bda2d",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1789052025672,
+      "teamId": 3,
+      "scoringPeriodId": 170,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 5102682,
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "type": "DROP",
+          "playerId": 4301067,
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
@@ -26282,6 +26326,21 @@
         17
       ]
     },
+    "5102682": {
+      "id": 5102682,
+      "name": "Josue De Paula",
+      "positionId": 7,
+      "proTeamId": 19,
+      "eligibleSlots": [
+        8,
+        10,
+        5,
+        11,
+        12,
+        16,
+        17
+      ]
+    },
     "5116839": {
       "id": 5116839,
       "name": "Brent Headrick",
@@ -26302,6 +26361,18 @@
       "eligibleSlots": [
         13,
         14,
+        16,
+        17
+      ]
+    },
+    "5124004": {
+      "id": 5124004,
+      "name": "Ethan Salas",
+      "positionId": 2,
+      "proTeamId": 25,
+      "eligibleSlots": [
+        0,
+        12,
         16,
         17
       ]

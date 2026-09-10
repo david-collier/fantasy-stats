@@ -15763,6 +15763,21 @@
       17
     ]
   },
+  "5102682": {
+    "id": 5102682,
+    "name": "Josue De Paula",
+    "positionId": 7,
+    "proTeamId": 19,
+    "eligibleSlots": [
+      8,
+      10,
+      5,
+      11,
+      12,
+      16,
+      17
+    ]
+  },
   "5116839": {
     "id": 5116839,
     "name": "Brent Headrick",
@@ -15832,6 +15847,18 @@
     "eligibleSlots": [
       13,
       14,
+      16,
+      17
+    ]
+  },
+  "5124004": {
+    "id": 5124004,
+    "name": "Ethan Salas",
+    "positionId": 2,
+    "proTeamId": 25,
+    "eligibleSlots": [
+      0,
+      12,
       16,
       17
     ]
