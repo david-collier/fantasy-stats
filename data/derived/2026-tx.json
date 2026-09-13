@@ -19233,6 +19233,28 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "ac7c1831-3cf1-45b3-9748-41e24c0c7019",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1789244308991,
+      "teamId": 11,
+      "scoringPeriodId": 172,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 4417203,
+          "fromTeamId": 0,
+          "toTeamId": 11
+        },
+        {
+          "type": "DROP",
+          "playerId": 5129576,
+          "fromTeamId": 11,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
