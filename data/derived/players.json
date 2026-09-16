@@ -9285,7 +9285,7 @@
     "id": 41199,
     "name": "Shane McClanahan",
     "positionId": 1,
-    "proTeamId": 30,
+    "proTeamId": 2,
     "eligibleSlots": [
       13,
       14,
@@ -15424,7 +15424,8 @@
       19,
       12,
       16,
-      17
+      17,
+      11
     ]
   },
   "5007807": {
