@@ -51980,7 +51980,7 @@
               "acquisitionDate": null,
               "acquisitionType": null,
               "injuryStatus": "NORMAL",
-              "lineupSlotId": 16,
+              "lineupSlotId": 1,
               "pendingTransactionIds": null,
               "playerId": 31127,
               "playerPoolEntry": {
@@ -52445,7 +52445,7 @@
               "acquisitionDate": null,
               "acquisitionType": null,
               "injuryStatus": "NORMAL",
-              "lineupSlotId": 1,
+              "lineupSlotId": 16,
               "pendingTransactionIds": null,
               "playerId": 32532,
               "playerPoolEntry": {
@@ -57492,7 +57492,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Alvarez",
-                  "lastNewsDate": 1789526479000,
+                  "lastNewsDate": 1789734574000,
                   "proTeamId": 18,
                   "stats": [],
                   "universeId": 1
@@ -58550,7 +58550,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Sandlin",
-                  "lastNewsDate": 1789334022000,
+                  "lastNewsDate": 1789736346000,
                   "proTeamId": 4,
                   "stats": [],
                   "universeId": 1
@@ -60017,7 +60017,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Alvarez",
-                  "lastNewsDate": 1789526479000,
+                  "lastNewsDate": 1789734574000,
                   "proTeamId": 18,
                   "stats": [
                     {
@@ -62222,7 +62222,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Alvarez",
-                  "lastNewsDate": 1789526479000,
+                  "lastNewsDate": 1789734574000,
                   "proTeamId": 18,
                   "stats": [
                     {
@@ -76261,7 +76261,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Butler",
-                  "lastNewsDate": 1789361097000,
+                  "lastNewsDate": 1789734053000,
                   "proTeamId": 11,
                   "stats": [],
                   "universeId": 1
@@ -77958,7 +77958,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Butler",
-                  "lastNewsDate": 1789361097000,
+                  "lastNewsDate": 1789734053000,
                   "proTeamId": 11,
                   "stats": [
                     {
@@ -79960,7 +79960,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Butler",
-                  "lastNewsDate": 1789361097000,
+                  "lastNewsDate": 1789734053000,
                   "proTeamId": 11,
                   "stats": [
                     {
@@ -81139,7 +81139,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Stewart",
-                  "lastNewsDate": 1788733163000,
+                  "lastNewsDate": 1789733494000,
                   "proTeamId": 17,
                   "stats": [],
                   "universeId": 2
@@ -83296,7 +83296,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Stewart",
-                  "lastNewsDate": 1788733163000,
+                  "lastNewsDate": 1789733494000,
                   "proTeamId": 17,
                   "stats": [
                     {
@@ -85016,7 +85016,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Stewart",
-                  "lastNewsDate": 1788733163000,
+                  "lastNewsDate": 1789733494000,
                   "proTeamId": 17,
                   "stats": [
                     {
@@ -91807,7 +91807,7 @@
                   "injured": false,
                   "injuryStatus": "DAY_TO_DAY",
                   "lastName": "Pederson",
-                  "lastNewsDate": 1789676427000,
+                  "lastNewsDate": 1789734564000,
                   "proTeamId": 13,
                   "stats": [],
                   "universeId": 1
@@ -106001,7 +106001,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Cantillo",
-                  "lastNewsDate": 1789261548000,
+                  "lastNewsDate": 1789734193000,
                   "proTeamId": 5,
                   "stats": [],
                   "universeId": 1
@@ -110701,7 +110701,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Pena",
-                  "lastNewsDate": 1789526538000,
+                  "lastNewsDate": 1789735067000,
                   "proTeamId": 18,
                   "stats": [],
                   "universeId": 1
@@ -113477,7 +113477,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Pena",
-                  "lastNewsDate": 1789526538000,
+                  "lastNewsDate": 1789735067000,
                   "proTeamId": 18,
                   "stats": [
                     {
@@ -115374,7 +115374,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Pena",
-                  "lastNewsDate": 1789526538000,
+                  "lastNewsDate": 1789735067000,
                   "proTeamId": 18,
                   "stats": [
                     {
@@ -116282,9 +116282,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.03,
-                  "percentOwned": 97.18,
-                  "percentStarted": 88.83
+                  "percentChange": 0.07,
+                  "percentOwned": 97.2,
+                  "percentStarted": 95.17
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -116768,9 +116768,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.03,
-                  "percentOwned": 88.79,
-                  "percentStarted": 80.37
+                  "percentChange": 0.08,
+                  "percentOwned": 88.84,
+                  "percentStarted": 86.09
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -117254,9 +117254,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -2.99,
-                  "percentOwned": 85.36,
-                  "percentStarted": 60.58
+                  "percentChange": -2.24,
+                  "percentOwned": 84.66,
+                  "percentStarted": 52.95
                 },
                 "proGamePlayerDetail": {
                   "401815279": {
@@ -117783,9 +117783,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.13,
-                  "percentOwned": 85.79,
-                  "percentStarted": 74.21
+                  "percentChange": -0.07,
+                  "percentOwned": 85.75,
+                  "percentStarted": 72.82
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 23,
@@ -118310,9 +118310,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.12,
-                  "percentOwned": 84.83,
-                  "percentStarted": 73.62
+                  "percentChange": 0,
+                  "percentOwned": 84.84,
+                  "percentStarted": 73.49
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -118847,9 +118847,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.04,
+                  "percentChange": 0,
                   "percentOwned": 99.19,
-                  "percentStarted": 80.8
+                  "percentStarted": 81.05
                 },
                 "proGamePlayerDetail": {
                   "401814721": {
@@ -119453,9 +119453,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.2,
-                  "percentOwned": 90.42,
-                  "percentStarted": 74.41
+                  "percentChange": -0.11,
+                  "percentOwned": 90.38,
+                  "percentStarted": 76.52
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 1,
@@ -119929,9 +119929,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.16,
-                  "percentOwned": 62.73,
-                  "percentStarted": 47.09
+                  "percentChange": 0.36,
+                  "percentOwned": 62.89,
+                  "percentStarted": 49.67
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -120408,7 +120408,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": 0,
                   "percentOwned": 99.72,
-                  "percentStarted": 91.63
+                  "percentStarted": 95.26
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -120877,9 +120877,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.32,
-                  "percentOwned": 83.2,
-                  "percentStarted": 62.59
+                  "percentChange": 0.1,
+                  "percentOwned": 83.22,
+                  "percentStarted": 62.26
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 23,
@@ -121409,9 +121409,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.11,
-                  "percentOwned": 95.08,
-                  "percentStarted": 89.73
+                  "percentChange": -0.01,
+                  "percentOwned": 95.07,
+                  "percentStarted": 89.42
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 6,
@@ -121859,9 +121859,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.21,
-                  "percentOwned": 31.42,
-                  "percentStarted": 16.22
+                  "percentChange": 0.07,
+                  "percentOwned": 31.41,
+                  "percentStarted": 15.3
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 23,
@@ -122302,9 +122302,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.95,
-                  "percentOwned": 28.91,
-                  "percentStarted": 17.01
+                  "percentChange": -0.58,
+                  "percentOwned": 28.72,
+                  "percentStarted": 16.81
                 },
                 "proGamePlayerDetail": {
                   "401814726": {
@@ -122934,9 +122934,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.53,
-                  "percentOwned": 44.09,
-                  "percentStarted": 34.91
+                  "percentChange": -0.45,
+                  "percentOwned": 43.91,
+                  "percentStarted": 33.78
                 },
                 "proGamePlayerDetail": {
                   "401815543": {
@@ -123490,9 +123490,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.35,
-                  "percentOwned": 52.32,
-                  "percentStarted": 42.78
+                  "percentChange": -0.41,
+                  "percentOwned": 52.17,
+                  "percentStarted": 43.23
                 },
                 "proGamePlayerDetail": {
                   "401814715": {
@@ -124107,9 +124107,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.44,
-                  "percentOwned": 78.45,
-                  "percentStarted": 76.09
+                  "percentChange": 0.21,
+                  "percentOwned": 78.56,
+                  "percentStarted": 75.82
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 27,
@@ -124634,9 +124634,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.35,
-                  "percentOwned": 92.43,
-                  "percentStarted": 73.45
+                  "percentChange": -1.13,
+                  "percentOwned": 92.06,
+                  "percentStarted": 57.22
                 },
                 "proGamePlayerDetail": {
                   "401814727": {
@@ -125445,9 +125445,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.02,
-                  "percentOwned": 90.12,
-                  "percentStarted": 78.96
+                  "percentChange": -0.11,
+                  "percentOwned": 90.09,
+                  "percentStarted": 75.88
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 3,
@@ -125964,8 +125964,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.05,
-                  "percentOwned": 11.32,
-                  "percentStarted": 5.64
+                  "percentOwned": 11.31,
+                  "percentStarted": 5.83
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -126322,9 +126322,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.11,
-                  "percentOwned": 3.98,
-                  "percentStarted": 1.9
+                  "percentChange": -0.08,
+                  "percentOwned": 3.96,
+                  "percentStarted": 1.65
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 9,
@@ -126722,9 +126722,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
+                  "percentChange": -0.03,
                   "percentOwned": 49.07,
-                  "percentStarted": 37.39
+                  "percentStarted": 36.33
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 22,
@@ -127269,9 +127269,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
-                  "percentOwned": 47.64,
-                  "percentStarted": 43.83
+                  "percentChange": -0.28,
+                  "percentOwned": 47.51,
+                  "percentStarted": 40.78
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 13,
@@ -127790,9 +127790,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
-                  "percentOwned": 10.36,
-                  "percentStarted": 3.81
+                  "percentChange": -0.03,
+                  "percentOwned": 10.35,
+                  "percentStarted": 3.59
                 },
                 "proGamePlayerDetail": {
                   "401814878": {
@@ -128300,9 +128300,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -3.02,
-                  "percentOwned": 24.7,
-                  "percentStarted": 16.96
+                  "percentChange": -2.31,
+                  "percentOwned": 23.91,
+                  "percentStarted": 12.23
                 },
                 "proGamePlayerDetail": {
                   "401815539": {
@@ -128840,9 +128840,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.12,
-                  "percentOwned": 15.18,
-                  "percentStarted": 9.84
+                  "percentChange": -0.08,
+                  "percentOwned": 15.17,
+                  "percentStarted": 9.01
                 },
                 "proGamePlayerDetail": {
                   "401814726": {
@@ -129441,9 +129441,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 5.17,
-                  "percentOwned": 39.93,
-                  "percentStarted": 28.25
+                  "percentChange": 7.48,
+                  "percentOwned": 42.51,
+                  "percentStarted": 38.63
                 },
                 "proGamePlayerDetail": {
                   "401815673": {
@@ -130182,13 +130182,13 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Pena",
-                "lastNewsDate": 1789526538000,
+                "lastNewsDate": 1789735067000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.54,
-                  "percentOwned": 62.89,
-                  "percentStarted": 48
+                  "percentChange": 0.4,
+                  "percentOwned": 63.06,
+                  "percentStarted": 47.78
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -130713,9 +130713,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 97.05,
-                  "percentStarted": 85.02
+                  "percentChange": 0.02,
+                  "percentOwned": 97.06,
+                  "percentStarted": 88.32
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 15,
@@ -131180,9 +131180,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.04,
-                  "percentOwned": 92.77,
-                  "percentStarted": 89.08
+                  "percentChange": 0.06,
+                  "percentOwned": 92.81,
+                  "percentStarted": 88.87
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 22,
@@ -131729,9 +131729,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
-                  "percentOwned": 58.66,
-                  "percentStarted": 52.77
+                  "percentChange": -0.23,
+                  "percentOwned": 58.58,
+                  "percentStarted": 51.74
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -132248,9 +132248,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -2.47,
-                  "percentOwned": 64.44,
-                  "percentStarted": 36.91
+                  "percentChange": -2.07,
+                  "percentOwned": 63.7,
+                  "percentStarted": 33.69
                 },
                 "proGamePlayerDetail": {
                   "401815292": {
@@ -132801,8 +132801,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0,
-                  "percentOwned": 6.42,
-                  "percentStarted": 1.96
+                  "percentOwned": 6.43,
+                  "percentStarted": 1.89
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 6,
@@ -133143,8 +133143,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.01,
-                  "percentOwned": 59.08,
-                  "percentStarted": 41.68
+                  "percentOwned": 59.09,
+                  "percentStarted": 41.26
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 21,
@@ -133494,9 +133494,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.13,
-                  "percentOwned": 57.54,
-                  "percentStarted": 50.03
+                  "percentChange": 0.11,
+                  "percentOwned": 57.6,
+                  "percentStarted": 50.05
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 17,
@@ -133984,9 +133984,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.16,
-                  "percentOwned": 7.88,
-                  "percentStarted": 5.69
+                  "percentChange": -0.57,
+                  "percentOwned": 7.75,
+                  "percentStarted": 5.23
                 },
                 "proGamePlayerDetail": {
                   "401814707": {
@@ -134653,9 +134653,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 40.01,
-                  "percentStarted": 24.59
+                  "percentChange": -0.01,
+                  "percentOwned": 40.02,
+                  "percentStarted": 24.48
                 },
                 "proGamePlayerDetail": {
                   "401814759": {
@@ -135044,9 +135044,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.05,
-                  "percentOwned": 43.72,
-                  "percentStarted": 31.85
+                  "percentChange": -0.16,
+                  "percentOwned": 43.68,
+                  "percentStarted": 30.91
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 7,
@@ -135530,9 +135530,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.23,
-                  "percentOwned": 40.77,
-                  "percentStarted": 31.12
+                  "percentChange": 0.07,
+                  "percentOwned": 40.79,
+                  "percentStarted": 30.41
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -136051,9 +136051,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.11,
-                  "percentOwned": 82.23,
-                  "percentStarted": 60.58
+                  "percentChange": -0.08,
+                  "percentOwned": 82.2,
+                  "percentStarted": 61.77
                 },
                 "proGamePlayerDetail": {
                   "401814690": {
@@ -136698,8 +136698,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.21,
-                  "percentOwned": 56.81,
-                  "percentStarted": 42.27
+                  "percentOwned": 56.74,
+                  "percentStarted": 42
                 },
                 "proGamePlayerDetail": {
                   "401814711": {
@@ -137331,9 +137331,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.48,
-                  "percentOwned": 97.37,
-                  "percentStarted": 61.21
+                  "percentChange": -0.39,
+                  "percentOwned": 97.21,
+                  "percentStarted": 61.15
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -137804,7 +137804,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": 0,
                   "percentOwned": 99.49,
-                  "percentStarted": 86.28
+                  "percentStarted": 90.25
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 29,
@@ -138282,9 +138282,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.14,
-                  "percentOwned": 23.51,
-                  "percentStarted": 10.01
+                  "percentChange": -0.11,
+                  "percentOwned": 23.48,
+                  "percentStarted": 9.84
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 1,
@@ -138750,9 +138750,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.04,
+                  "percentChange": -0.02,
                   "percentOwned": 23.07,
-                  "percentStarted": 9.74
+                  "percentStarted": 9.72
                 },
                 "proGamePlayerDetail": {
                   "401816015": {
@@ -139125,9 +139125,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.53,
-                  "percentOwned": 64.6,
-                  "percentStarted": 38.15
+                  "percentChange": -0.47,
+                  "percentOwned": 64.46,
+                  "percentStarted": 37.08
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 26,
@@ -139584,9 +139584,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.17,
-                  "percentOwned": 87.45,
-                  "percentStarted": 52.02
+                  "percentChange": 1.55,
+                  "percentOwned": 87.93,
+                  "percentStarted": 69.98
                 },
                 "proGamePlayerDetail": {
                   "401815447": {
@@ -140104,9 +140104,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.22,
-                  "percentOwned": 44.65,
-                  "percentStarted": 32.36
+                  "percentChange": -0.36,
+                  "percentOwned": 44.5,
+                  "percentStarted": 30.03
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 7,
@@ -140611,9 +140611,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.41,
-                  "percentOwned": 81.48,
-                  "percentStarted": 59.38
+                  "percentChange": 0.34,
+                  "percentOwned": 81.56,
+                  "percentStarted": 54.26
                 },
                 "proGamePlayerDetail": {
                   "401815059": {
@@ -141196,9 +141196,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.06,
-                  "percentOwned": 79.89,
-                  "percentStarted": 73.11
+                  "percentChange": -0.2,
+                  "percentOwned": 79.82,
+                  "percentStarted": 71.43
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -141716,9 +141716,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.06,
-                  "percentOwned": 21.4,
-                  "percentStarted": 15.77
+                  "percentChange": 0.04,
+                  "percentOwned": 21.44,
+                  "percentStarted": 16.65
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -142196,9 +142196,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.13,
-                  "percentOwned": 14.23,
-                  "percentStarted": 9.77
+                  "percentChange": -0.05,
+                  "percentOwned": 14.21,
+                  "percentStarted": 11.02
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 26,
@@ -142634,9 +142634,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.74,
-                  "percentOwned": 73.15,
-                  "percentStarted": 56.13
+                  "percentChange": 0.93,
+                  "percentOwned": 73.49,
+                  "percentStarted": 60.28
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 29,
@@ -143104,9 +143104,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.15,
-                  "percentOwned": 60.53,
-                  "percentStarted": 57.33
+                  "percentChange": -0.37,
+                  "percentOwned": 60.29,
+                  "percentStarted": 56.92
                 },
                 "proGamePlayerDetail": {
                   "401814713": {
@@ -143653,9 +143653,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
-                  "percentOwned": 21.31,
-                  "percentStarted": 11.17
+                  "percentChange": 0.03,
+                  "percentOwned": 21.32,
+                  "percentStarted": 11.57
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 1,
@@ -144247,9 +144247,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.13,
-                  "percentOwned": 22.38,
-                  "percentStarted": 15.81
+                  "percentChange": -1.31,
+                  "percentOwned": 21.97,
+                  "percentStarted": 13.85
                 },
                 "proGamePlayerDetail": {
                   "401814725": {
@@ -144941,9 +144941,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.11,
-                  "percentOwned": 63.45,
-                  "percentStarted": 44.19
+                  "percentChange": 0.23,
+                  "percentOwned": 63.55,
+                  "percentStarted": 47.29
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 20,
@@ -145405,9 +145405,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
+                  "percentChange": 0.01,
                   "percentOwned": 9.15,
-                  "percentStarted": 7.18
+                  "percentStarted": 7.5
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -145889,9 +145889,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.05,
+                  "percentChange": -0.06,
                   "percentOwned": 83.57,
-                  "percentStarted": 72.22
+                  "percentStarted": 70.35
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 22,
@@ -146410,9 +146410,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.06,
-                  "percentOwned": 79.3,
-                  "percentStarted": 27.74
+                  "percentChange": -0.05,
+                  "percentOwned": 79.29,
+                  "percentStarted": 27.53
                 },
                 "proGamePlayerDetail": {
                   "401814689": {
@@ -146781,9 +146781,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.02,
-                  "percentOwned": 98.4,
-                  "percentStarted": 92.94
+                  "percentChange": -0.04,
+                  "percentOwned": 98.39,
+                  "percentStarted": 92.99
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 8,
@@ -147268,9 +147268,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.07,
-                  "percentOwned": 96.21,
-                  "percentStarted": 86.02
+                  "percentChange": 0.08,
+                  "percentOwned": 96.23,
+                  "percentStarted": 89.75
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 16,
@@ -147740,9 +147740,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
+                  "percentChange": 0,
                   "percentOwned": 99.27,
-                  "percentStarted": 80.23
+                  "percentStarted": 84.39
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -148217,8 +148217,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.2,
-                  "percentOwned": 88.66,
-                  "percentStarted": 67.68
+                  "percentOwned": 88.56,
+                  "percentStarted": 67.06
                 },
                 "proGamePlayerDetail": {
                   "401814702": {
@@ -148838,9 +148838,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.1,
-                  "percentOwned": 98.53,
-                  "percentStarted": 80.18
+                  "percentChange": -0.08,
+                  "percentOwned": 98.5,
+                  "percentStarted": 83.57
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 29,
@@ -149311,9 +149311,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.23,
-                  "percentOwned": 19.18,
-                  "percentStarted": 11.24
+                  "percentChange": 0.25,
+                  "percentOwned": 19.25,
+                  "percentStarted": 11.17
                 },
                 "proGamePlayerDetail": {
                   "401814716": {
@@ -149937,9 +149937,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
-                  "percentOwned": 31.76,
-                  "percentStarted": 29.33
+                  "percentChange": -0.19,
+                  "percentOwned": 31.7,
+                  "percentStarted": 28.14
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 21,
@@ -150379,9 +150379,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.32,
-                  "percentOwned": 60.8,
-                  "percentStarted": 56.38
+                  "percentChange": 0.34,
+                  "percentOwned": 60.97,
+                  "percentStarted": 56.6
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 8,
@@ -150875,9 +150875,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.17,
-                  "percentOwned": 40.23,
-                  "percentStarted": 32.23
+                  "percentChange": -0.09,
+                  "percentOwned": 40.21,
+                  "percentStarted": 31.48
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -151406,9 +151406,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.95,
-                  "percentOwned": 49.91,
-                  "percentStarted": 43.11
+                  "percentChange": 1.67,
+                  "percentOwned": 50.5,
+                  "percentStarted": 43.42
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 30,
@@ -151931,9 +151931,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.3,
-                  "percentOwned": 82.63,
-                  "percentStarted": 68.12
+                  "percentChange": 0.04,
+                  "percentOwned": 82.65,
+                  "percentStarted": 67.31
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 6,
@@ -152451,9 +152451,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.33,
-                  "percentOwned": 38.23,
-                  "percentStarted": 31.7
+                  "percentChange": 0.04,
+                  "percentOwned": 38.25,
+                  "percentStarted": 30.75
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 30,
@@ -152972,9 +152972,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.15,
-                  "percentOwned": 17.79,
-                  "percentStarted": 8.54
+                  "percentChange": 0.1,
+                  "percentOwned": 17.83,
+                  "percentStarted": 8.28
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 13,
@@ -153493,9 +153493,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.07,
+                  "percentChange": -0.04,
                   "percentOwned": 3.45,
-                  "percentStarted": 2.35
+                  "percentStarted": 2.55
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 28,
@@ -153957,9 +153957,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.05,
-                  "percentOwned": 15.26,
-                  "percentStarted": 10.87
+                  "percentChange": 0.29,
+                  "percentOwned": 15.5,
+                  "percentStarted": 11.24
                 },
                 "proGamePlayerDetail": {
                   "401814755": {
@@ -154046,9 +154046,13 @@
                     "lineupOrder": null,
                     "starterStatus": "PROBABLE"
                   },
-                  "401817002": {
+                  "401816987": {
                     "lineupOrder": null,
                     "starterStatus": "PROBABLE"
+                  },
+                  "401817002": {
+                    "lineupOrder": null,
+                    "starterStatus": "NOTSTARTING"
                   },
                   "401817078": {
                     "lineupOrder": null,
@@ -154078,7 +154082,8 @@
                   "401816786": "PROBABLE",
                   "401816856": "PROBABLE",
                   "401816925": "PROBABLE",
-                  "401817002": "PROBABLE",
+                  "401816987": "PROBABLE",
+                  "401817002": "NOTSTARTING",
                   "401817078": "PROBABLE"
                 },
                 "stats": [
@@ -154506,7 +154511,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": 0,
                   "percentOwned": 0.6,
-                  "percentStarted": 0.22
+                  "percentStarted": 0.23
                 },
                 "proGamePlayerDetail": {
                   "401815890": {
@@ -154830,7 +154835,7 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
+                  "percentChange": 0,
                   "percentOwned": 0.24,
                   "percentStarted": 0.1
                 },
@@ -155225,9 +155230,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.04,
-                  "percentOwned": 72.2,
-                  "percentStarted": 63.09
+                  "percentChange": -0.09,
+                  "percentOwned": 72.16,
+                  "percentStarted": 60.6
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -155761,9 +155766,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.12,
-                  "percentOwned": 26.35,
-                  "percentStarted": 23.46
+                  "percentChange": -0.39,
+                  "percentOwned": 26.15,
+                  "percentStarted": 22.14
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 11,
@@ -156293,9 +156298,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.06,
-                  "percentOwned": 39.61,
-                  "percentStarted": 24.21
+                  "percentChange": -0.01,
+                  "percentOwned": 39.62,
+                  "percentStarted": 23.97
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 11,
@@ -156620,9 +156625,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.03,
+                  "percentChange": -0.02,
                   "percentOwned": 38.45,
-                  "percentStarted": 17.75
+                  "percentStarted": 17.74
                 },
                 "proGamePlayerDetail": {
                   "401815197": {
@@ -156995,9 +157000,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
-                  "percentOwned": 38.31,
-                  "percentStarted": 23.11
+                  "percentChange": 0,
+                  "percentOwned": 38.32,
+                  "percentStarted": 22.38
                 },
                 "proGamePlayerDetail": {
                   "401815256": {
@@ -157586,9 +157591,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.24,
-                  "percentOwned": 9.77,
-                  "percentStarted": 7.92
+                  "percentChange": -0.41,
+                  "percentOwned": 9.6,
+                  "percentStarted": 6.66
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -158108,9 +158113,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
+                  "percentChange": 0.02,
                   "percentOwned": 98.26,
-                  "percentStarted": 94.06
+                  "percentStarted": 93.89
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 8,
@@ -158640,9 +158645,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.11,
-                  "percentOwned": 65.36,
-                  "percentStarted": 56.09
+                  "percentChange": -0.09,
+                  "percentOwned": 65.33,
+                  "percentStarted": 54.2
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 13,
@@ -159172,9 +159177,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
-                  "percentOwned": 99.78,
-                  "percentStarted": 96.48
+                  "percentChange": 0,
+                  "percentOwned": 99.77,
+                  "percentStarted": 96.43
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 25,
@@ -159697,9 +159702,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.36,
-                  "percentOwned": 71.53,
-                  "percentStarted": 30.79
+                  "percentChange": -0.3,
+                  "percentOwned": 71.45,
+                  "percentStarted": 30.03
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 9,
@@ -160093,8 +160098,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0.02,
-                  "percentOwned": 99.6,
-                  "percentStarted": 93.47
+                  "percentOwned": 99.61,
+                  "percentStarted": 96.22
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 16,
@@ -160571,9 +160576,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.41,
-                  "percentOwned": 88.86,
-                  "percentStarted": 77.67
+                  "percentChange": -1.35,
+                  "percentOwned": 88.54,
+                  "percentStarted": 69.67
                 },
                 "proGamePlayerDetail": {
                   "401814706": {
@@ -161259,9 +161264,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.56,
-                  "percentOwned": 72.01,
-                  "percentStarted": 63.09
+                  "percentChange": -3.35,
+                  "percentOwned": 70.98,
+                  "percentStarted": 56.38
                 },
                 "proGamePlayerDetail": {
                   "401814706": {
@@ -161945,9 +161950,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
-                  "percentOwned": 61.23,
-                  "percentStarted": 50.66
+                  "percentChange": -0.09,
+                  "percentOwned": 61.2,
+                  "percentStarted": 49.34
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 13,
@@ -162469,9 +162474,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.7,
-                  "percentOwned": 92.77,
-                  "percentStarted": 60.22
+                  "percentChange": -0.48,
+                  "percentOwned": 92.61,
+                  "percentStarted": 58.09
                 },
                 "proGamePlayerDetail": {
                   "401814728": {
@@ -163067,9 +163072,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.1,
+                  "percentChange": 0,
                   "percentOwned": 94.89,
-                  "percentStarted": 91.1
+                  "percentStarted": 90.68
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 4,
@@ -163592,9 +163597,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.2,
-                  "percentOwned": 85.77,
-                  "percentStarted": 72.23
+                  "percentChange": 0.23,
+                  "percentOwned": 85.84,
+                  "percentStarted": 82.71
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 14,
@@ -164073,9 +164078,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.5,
-                  "percentOwned": 23.45,
-                  "percentStarted": 17.34
+                  "percentChange": 0.95,
+                  "percentOwned": 23.93,
+                  "percentStarted": 20.03
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -164462,9 +164467,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.11,
-                  "percentOwned": 11.81,
-                  "percentStarted": 10.47
+                  "percentChange": -0.37,
+                  "percentOwned": 11.67,
+                  "percentStarted": 9.71
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 21,
@@ -164896,9 +164901,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.38,
-                  "percentOwned": 62.15,
-                  "percentStarted": 47.44
+                  "percentChange": 0.41,
+                  "percentOwned": 62.28,
+                  "percentStarted": 47.61
                 },
                 "proGamePlayerDetail": {
                   "401814700": {
@@ -165535,9 +165540,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.21,
+                  "percentChange": -0.07,
                   "percentOwned": 79.63,
-                  "percentStarted": 72.46
+                  "percentStarted": 76.79
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -165970,7 +165975,7 @@
             "acquisitionDate": 1784465863004,
             "acquisitionType": "ADD",
             "injuryStatus": "NORMAL",
-            "lineupSlotId": 16,
+            "lineupSlotId": 1,
             "pendingTransactionIds": null,
             "playerId": 31127,
             "playerPoolEntry": {
@@ -166027,9 +166032,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.06,
-                  "percentOwned": 63.74,
-                  "percentStarted": 54.37
+                  "percentChange": -0.09,
+                  "percentOwned": 63.71,
+                  "percentStarted": 52.32
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 7,
@@ -166542,9 +166547,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 7.23,
-                  "percentOwned": 40.1,
-                  "percentStarted": 15.22
+                  "percentChange": 10.13,
+                  "percentOwned": 43.27,
+                  "percentStarted": 34.08
                 },
                 "proGamePlayerDetail": {
                   "401814734": {
@@ -167165,7 +167170,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": -0.01,
                   "percentOwned": 6.68,
-                  "percentStarted": 0.66
+                  "percentStarted": 0.63
                 },
                 "proGamePlayerDetail": {
                   "401814715": {
@@ -167522,9 +167527,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.4,
-                  "percentOwned": 12.11,
-                  "percentStarted": 8.3
+                  "percentChange": -0.25,
+                  "percentOwned": 12.03,
+                  "percentStarted": 8.9
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -167949,9 +167954,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.78,
-                  "percentOwned": 32.45,
-                  "percentStarted": 20.38
+                  "percentChange": 1.32,
+                  "percentOwned": 32.93,
+                  "percentStarted": 20.18
                 },
                 "proGamePlayerDetail": {
                   "401815874": {
@@ -168515,9 +168520,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.52,
-                  "percentOwned": 70.88,
-                  "percentStarted": 56.37
+                  "percentChange": -0.35,
+                  "percentOwned": 70.76,
+                  "percentStarted": 58.53
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 24,
@@ -168985,9 +168990,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.25,
-                  "percentOwned": 7.14,
-                  "percentStarted": 2.76
+                  "percentChange": 0.29,
+                  "percentOwned": 7.21,
+                  "percentStarted": 2.64
                 },
                 "proGamePlayerDetail": {
                   "401816352": {
@@ -169456,9 +169461,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.72,
-                  "percentOwned": 14.24,
-                  "percentStarted": 12.79
+                  "percentChange": 0.06,
+                  "percentOwned": 14.23,
+                  "percentStarted": 12.14
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 27,
@@ -169902,9 +169907,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.26,
-                  "percentOwned": 18.8,
-                  "percentStarted": 12.75
+                  "percentChange": -0.22,
+                  "percentOwned": 18.7,
+                  "percentStarted": 10.44
                 },
                 "proGamePlayerDetail": {
                   "401816319": {
@@ -170436,9 +170441,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.16,
-                  "percentOwned": 49.59,
-                  "percentStarted": 32.9
+                  "percentChange": 0.01,
+                  "percentOwned": 49.54,
+                  "percentStarted": 36.41
                 },
                 "proGamePlayerDetail": {
                   "401814734": {
@@ -171006,7 +171011,7 @@
             "acquisitionDate": 1789644656080,
             "acquisitionType": "ADD",
             "injuryStatus": "NORMAL",
-            "lineupSlotId": 1,
+            "lineupSlotId": 16,
             "pendingTransactionIds": null,
             "playerId": 32532,
             "playerPoolEntry": {
@@ -171059,9 +171064,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
-                  "percentOwned": 49.6,
-                  "percentStarted": 30.79
+                  "percentChange": -0.84,
+                  "percentOwned": 49.11,
+                  "percentStarted": 27.01
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -171582,9 +171587,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.07,
-                  "percentOwned": 11.23,
-                  "percentStarted": 9.39
+                  "percentChange": 0.26,
+                  "percentOwned": 11.35,
+                  "percentStarted": 10.55
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 1,
@@ -172037,9 +172042,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.69,
-                  "percentOwned": 11.36,
-                  "percentStarted": 5.87
+                  "percentChange": 2.28,
+                  "percentOwned": 12.02,
+                  "percentStarted": 9.52
                 },
                 "proGamePlayerDetail": {
                   "401815423": {
@@ -172482,7 +172487,7 @@
           "22": 4
         },
         "misc": 0,
-        "moveToActive": 620,
+        "moveToActive": 621,
         "moveToIR": 23,
         "paid": 0,
         "teamCharges": 0,
@@ -172658,9 +172663,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.34,
-                  "percentOwned": 94.44,
-                  "percentStarted": 72.71
+                  "percentChange": -0.31,
+                  "percentOwned": 94.36,
+                  "percentStarted": 69.52
                 },
                 "proGamePlayerDetail": {
                   "401814746": {
@@ -173251,9 +173256,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 99.35,
-                  "percentStarted": 87.61
+                  "percentChange": 0.01,
+                  "percentOwned": 99.34,
+                  "percentStarted": 84.35
                 },
                 "proGamePlayerDetail": {
                   "401814694": {
@@ -173900,9 +173905,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.18,
-                  "percentOwned": 97.84,
-                  "percentStarted": 82.86
+                  "percentChange": -0.13,
+                  "percentOwned": 97.8,
+                  "percentStarted": 77.99
                 },
                 "proGamePlayerDetail": {
                   "401815085": {
@@ -174521,13 +174526,13 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Alvarez",
-                "lastNewsDate": 1789526479000,
+                "lastNewsDate": 1789734574000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0,
                   "percentOwned": 99.77,
-                  "percentStarted": 96.51
+                  "percentStarted": 96.39
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -175045,8 +175050,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0,
-                  "percentOwned": 99.55,
-                  "percentStarted": 90.09
+                  "percentOwned": 99.54,
+                  "percentStarted": 88.23
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 22,
@@ -175563,9 +175568,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.22,
-                  "percentOwned": 94.04,
-                  "percentStarted": 78.31
+                  "percentChange": -0.16,
+                  "percentOwned": 93.99,
+                  "percentStarted": 83.16
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 24,
@@ -176008,9 +176013,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.34,
-                  "percentOwned": 75.85,
-                  "percentStarted": 73.56
+                  "percentChange": 0.22,
+                  "percentOwned": 75.97,
+                  "percentStarted": 73.71
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 30,
@@ -176496,9 +176501,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.13,
-                  "percentOwned": 99.39,
-                  "percentStarted": 80.85
+                  "percentChange": -0.18,
+                  "percentOwned": 99.34,
+                  "percentStarted": 85.66
                 },
                 "proGamePlayerDetail": {
                   "401814691": {
@@ -177114,9 +177119,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.06,
-                  "percentOwned": 20.18,
-                  "percentStarted": 18.08
+                  "percentChange": -0.18,
+                  "percentOwned": 20.15,
+                  "percentStarted": 17.23
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 4,
@@ -177521,9 +177526,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.25,
-                  "percentOwned": 12.02,
-                  "percentStarted": 8.83
+                  "percentChange": 0.45,
+                  "percentOwned": 12.19,
+                  "percentStarted": 9.98
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -177987,9 +177992,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.42,
-                  "percentOwned": 78.23,
-                  "percentStarted": 63.04
+                  "percentChange": 0.41,
+                  "percentOwned": 78.35,
+                  "percentStarted": 61.17
                 },
                 "proGamePlayerDetail": {
                   "401814714": {
@@ -178633,9 +178638,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
-                  "percentOwned": 8.41,
-                  "percentStarted": 0.97
+                  "percentChange": 0,
+                  "percentOwned": 8.42,
+                  "percentStarted": 0.95
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 25,
@@ -178859,7 +178864,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": -0.02,
                   "percentOwned": 3.82,
-                  "percentStarted": 2.74
+                  "percentStarted": 2.47
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 4,
@@ -179298,9 +179303,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.36,
-                  "percentOwned": 93.97,
-                  "percentStarted": 81.93
+                  "percentChange": 0.24,
+                  "percentOwned": 94.02,
+                  "percentStarted": 80.59
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -179831,9 +179836,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.74,
-                  "percentOwned": 22.54,
-                  "percentStarted": 19.57
+                  "percentChange": 0.32,
+                  "percentOwned": 22.64,
+                  "percentStarted": 18.69
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 6,
@@ -180273,9 +180278,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.27,
-                  "percentOwned": 94.4,
-                  "percentStarted": 85.29
+                  "percentChange": -0.8,
+                  "percentOwned": 94.18,
+                  "percentStarted": 78.06
                 },
                 "proGamePlayerDetail": {
                   "401814708": {
@@ -180954,9 +180959,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.06,
+                  "percentChange": 0.01,
                   "percentOwned": 98.9,
-                  "percentStarted": 94.52
+                  "percentStarted": 94.38
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 22,
@@ -181480,9 +181485,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.09,
-                  "percentOwned": 48.71,
-                  "percentStarted": 18.88
+                  "percentChange": -0.14,
+                  "percentOwned": 48.67,
+                  "percentStarted": 18.48
                 },
                 "proGamePlayerDetail": {
                   "401814478": {
@@ -181988,9 +181993,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.6,
-                  "percentOwned": 56.62,
-                  "percentStarted": 50.16
+                  "percentChange": 0.01,
+                  "percentOwned": 56.59,
+                  "percentStarted": 49.19
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 9,
@@ -182515,9 +182520,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.28,
-                  "percentOwned": 17.42,
-                  "percentStarted": 15.2
+                  "percentChange": 0.21,
+                  "percentOwned": 17.62,
+                  "percentStarted": 15.41
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -183056,9 +183061,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.5,
-                  "percentOwned": 42.4,
-                  "percentStarted": 36.22
+                  "percentChange": 0.88,
+                  "percentOwned": 42.7,
+                  "percentStarted": 35.33
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 7,
@@ -183539,9 +183544,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 3,
-                  "percentOwned": 18.65,
-                  "percentStarted": 10.88
+                  "percentChange": 4.54,
+                  "percentOwned": 20.36,
+                  "percentStarted": 15.83
                 },
                 "proGamePlayerDetail": {
                   "401814731": {
@@ -184186,9 +184191,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.38,
-                  "percentOwned": 6.05,
-                  "percentStarted": 3.23
+                  "percentChange": 0.42,
+                  "percentOwned": 6.18,
+                  "percentStarted": 4.24
                 },
                 "proGamePlayerDetail": {
                   "401815608": {
@@ -184730,9 +184735,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.43,
-                  "percentOwned": 10.28,
-                  "percentStarted": 7.47
+                  "percentChange": -0.29,
+                  "percentOwned": 10.16,
+                  "percentStarted": 7.82
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 24,
@@ -185200,9 +185205,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.12,
+                  "percentChange": -0.06,
                   "percentOwned": 27.13,
-                  "percentStarted": 12.97
+                  "percentStarted": 13.54
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 28,
@@ -185671,9 +185676,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.03,
-                  "percentOwned": 8.21,
-                  "percentStarted": 7.52
+                  "percentChange": 0.02,
+                  "percentOwned": 8.23,
+                  "percentStarted": 7.51
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -186162,13 +186167,13 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Sandlin",
-                "lastNewsDate": 1789334022000,
+                "lastNewsDate": 1789736346000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.74,
-                  "percentOwned": 1.19,
-                  "percentStarted": 0.43
+                  "percentChange": 1.01,
+                  "percentOwned": 1.5,
+                  "percentStarted": 1.38
                 },
                 "proGamePlayerDetail": {
                   "401815522": {
@@ -186733,9 +186738,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.54,
-                  "percentOwned": 82.84,
-                  "percentStarted": 63.44
+                  "percentChange": -0.47,
+                  "percentOwned": 82.67,
+                  "percentStarted": 61.24
                 },
                 "proGamePlayerDetail": {
                   "401814732": {
@@ -187365,13 +187370,13 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Stewart",
-                "lastNewsDate": 1788733163000,
+                "lastNewsDate": 1789733494000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.18,
-                  "percentOwned": 95.97,
-                  "percentStarted": 91.91
+                  "percentChange": 0.11,
+                  "percentOwned": 96,
+                  "percentStarted": 91.56
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 17,
@@ -187861,9 +187866,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.33,
-                  "percentOwned": 53.67,
-                  "percentStarted": 41.35
+                  "percentChange": 0.04,
+                  "percentOwned": 53.72,
+                  "percentStarted": 43.79
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 14,
@@ -188244,9 +188249,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.06,
-                  "percentOwned": 81.78,
-                  "percentStarted": 66.97
+                  "percentChange": 0.01,
+                  "percentOwned": 81.82,
+                  "percentStarted": 63.81
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 4,
@@ -188685,9 +188690,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.06,
-                  "percentOwned": 96.95,
-                  "percentStarted": 87.78
+                  "percentChange": 0.01,
+                  "percentOwned": 96.96,
+                  "percentStarted": 90.97
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 24,
@@ -189154,9 +189159,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.21,
-                  "percentOwned": 76.24,
-                  "percentStarted": 31.9
+                  "percentChange": -0.22,
+                  "percentOwned": 76.18,
+                  "percentStarted": 29.78
                 },
                 "proGamePlayerDetail": {
                   "401814738": {
@@ -189726,9 +189731,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.06,
-                  "percentOwned": 78.49,
-                  "percentStarted": 55.26
+                  "percentChange": 0.01,
+                  "percentOwned": 78.47,
+                  "percentStarted": 54.31
                 },
                 "proGamePlayerDetail": {
                   "401814695": {
@@ -190380,9 +190385,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.99,
-                  "percentOwned": 83.65,
-                  "percentStarted": 67.44
+                  "percentChange": -0.93,
+                  "percentOwned": 83.37,
+                  "percentStarted": 64.04
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 27,
@@ -190864,9 +190869,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.08,
-                  "percentOwned": 64.84,
-                  "percentStarted": 53.98
+                  "percentChange": -0.14,
+                  "percentOwned": 64.79,
+                  "percentStarted": 51.7
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -191389,9 +191394,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.18,
-                  "percentOwned": 94.86,
-                  "percentStarted": 85.9
+                  "percentChange": -0.6,
+                  "percentOwned": 94.72,
+                  "percentStarted": 79.44
                 },
                 "proGamePlayerDetail": {
                   "401814697": {
@@ -192065,8 +192070,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0,
-                  "percentOwned": 99.52,
-                  "percentStarted": 50.64
+                  "percentOwned": 99.51,
+                  "percentStarted": 48.66
                 },
                 "proGamePlayerDetail": {
                   "401814760": {
@@ -192697,9 +192702,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.55,
-                  "percentOwned": 96.62,
-                  "percentStarted": 76.22
+                  "percentChange": 0.75,
+                  "percentOwned": 96.86,
+                  "percentStarted": 87.95
                 },
                 "proGamePlayerDetail": {
                   "401814719": {
@@ -193327,9 +193332,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 12.05,
-                  "percentStarted": 10.02
+                  "percentChange": -0.18,
+                  "percentOwned": 11.98,
+                  "percentStarted": 9.18
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -193862,9 +193867,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.22,
-                  "percentOwned": 49.93,
-                  "percentStarted": 32.75
+                  "percentChange": -0.15,
+                  "percentOwned": 49.89,
+                  "percentStarted": 34.08
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 26,
@@ -194334,9 +194339,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
+                  "percentChange": -0.02,
                   "percentOwned": 32.97,
-                  "percentStarted": 13.86
+                  "percentStarted": 13.67
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 11,
@@ -194633,9 +194638,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
-                  "percentOwned": 16.95,
-                  "percentStarted": 14.59
+                  "percentChange": 0.11,
+                  "percentOwned": 16.99,
+                  "percentStarted": 15.7
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 14,
@@ -195115,9 +195120,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.27,
-                  "percentOwned": 35.76,
-                  "percentStarted": 32.6
+                  "percentChange": -5,
+                  "percentOwned": 34.52,
+                  "percentStarted": 27.14
                 },
                 "proGamePlayerDetail": {
                   "401815086": {
@@ -195693,9 +195698,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.14,
-                  "percentOwned": 68.4,
-                  "percentStarted": 55.55
+                  "percentChange": 0.05,
+                  "percentOwned": 68.44,
+                  "percentStarted": 57.98
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -196167,9 +196172,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -2.74,
-                  "percentOwned": 26.44,
-                  "percentStarted": 19.56
+                  "percentChange": -1.99,
+                  "percentOwned": 25.72,
+                  "percentStarted": 15.79
                 },
                 "proGamePlayerDetail": {
                   "401815159": {
@@ -196666,9 +196671,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.75,
-                  "percentOwned": 43.06,
-                  "percentStarted": 30.79
+                  "percentChange": -0.36,
+                  "percentOwned": 42.93,
+                  "percentStarted": 29.83
                 },
                 "proGamePlayerDetail": {
                   "401815099": {
@@ -197273,9 +197278,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.02,
+                  "percentChange": -0.04,
                   "percentOwned": 23.91,
-                  "percentStarted": 9.14
+                  "percentStarted": 8.88
                 },
                 "proGamePlayerDetail": {
                   "401814746": {
@@ -197777,9 +197782,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.62,
-                  "percentOwned": 52.3,
-                  "percentStarted": 37.23
+                  "percentChange": 0.64,
+                  "percentOwned": 52.47,
+                  "percentStarted": 35.96
                 },
                 "proGamePlayerDetail": {
                   "401814772": {
@@ -198410,9 +198415,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.09,
-                  "percentOwned": 3.39,
-                  "percentStarted": 2.86
+                  "percentChange": 0,
+                  "percentOwned": 3.38,
+                  "percentStarted": 2.91
                 },
                 "proGamePlayerDetail": {
                   "401816886": {
@@ -198820,9 +198825,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
-                  "percentOwned": 5.07,
-                  "percentStarted": 4.59
+                  "percentChange": -0.13,
+                  "percentOwned": 4.98,
+                  "percentStarted": 4.42
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 3,
@@ -199362,9 +199367,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.24,
+                  "percentChange": -0.07,
                   "percentOwned": 66.44,
-                  "percentStarted": 60.32
+                  "percentStarted": 58.85
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 27,
@@ -199783,7 +199788,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": -0.02,
                   "percentOwned": 1.56,
-                  "percentStarted": 0.79
+                  "percentStarted": 0.8
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -200431,9 +200436,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.25,
-                  "percentOwned": 5.05,
-                  "percentStarted": 3.16
+                  "percentChange": -0.19,
+                  "percentOwned": 5,
+                  "percentStarted": 3.36
                 },
                 "proGamePlayerDetail": {
                   "401814739": {
@@ -201142,9 +201147,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.07,
-                  "percentOwned": 50.35,
-                  "percentStarted": 38.37
+                  "percentChange": -0.15,
+                  "percentOwned": 50.32,
+                  "percentStarted": 36.4
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -201598,9 +201603,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.12,
+                  "percentChange": -0.06,
                   "percentOwned": 69.09,
-                  "percentStarted": 54.52
+                  "percentStarted": 55.74
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 16,
@@ -202072,9 +202077,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
-                  "percentOwned": 9.65,
-                  "percentStarted": 7.79
+                  "percentChange": -0.03,
+                  "percentOwned": 9.64,
+                  "percentStarted": 7.33
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 13,
@@ -202595,9 +202600,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.11,
-                  "percentOwned": 39.03,
-                  "percentStarted": 26.58
+                  "percentChange": 0.03,
+                  "percentOwned": 39.07,
+                  "percentStarted": 28.05
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 16,
@@ -203073,9 +203078,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.05,
-                  "percentOwned": 97.16,
-                  "percentStarted": 81.22
+                  "percentChange": 0.06,
+                  "percentOwned": 97.18,
+                  "percentStarted": 85.05
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -203549,9 +203554,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.07,
+                  "percentChange": 0.02,
                   "percentOwned": 96.53,
-                  "percentStarted": 76.22
+                  "percentStarted": 76.31
                 },
                 "proGamePlayerDetail": {
                   "401814705": {
@@ -204184,9 +204189,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.35,
-                  "percentOwned": 72.57,
-                  "percentStarted": 50.09
+                  "percentChange": -0.26,
+                  "percentOwned": 72.6,
+                  "percentStarted": 49.88
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 11,
@@ -204643,9 +204648,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.13,
-                  "percentOwned": 34.97,
-                  "percentStarted": 26.64
+                  "percentChange": -0.09,
+                  "percentOwned": 34.95,
+                  "percentStarted": 25.56
                 },
                 "proGamePlayerDetail": {
                   "401814689": {
@@ -205293,7 +205298,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": -0.02,
                   "percentOwned": 19.4,
-                  "percentStarted": 8.08
+                  "percentStarted": 7.88
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -205719,9 +205724,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.15,
-                  "percentOwned": 95.48,
-                  "percentStarted": 85.9
+                  "percentChange": -0.1,
+                  "percentOwned": 95.44,
+                  "percentStarted": 88.48
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 16,
@@ -206190,8 +206195,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.01,
-                  "percentOwned": 53.56,
-                  "percentStarted": 35.14
+                  "percentOwned": 53.54,
+                  "percentStarted": 34.86
                 },
                 "proGamePlayerDetail": {
                   "401814698": {
@@ -206772,9 +206777,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.58,
-                  "percentOwned": 57.17,
-                  "percentStarted": 48.34
+                  "percentChange": -0.32,
+                  "percentOwned": 57.09,
+                  "percentStarted": 53.17
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 24,
@@ -207255,9 +207260,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.09,
-                  "percentOwned": 19.02,
-                  "percentStarted": 13.43
+                  "percentChange": 0.33,
+                  "percentOwned": 19.17,
+                  "percentStarted": 14.74
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 29,
@@ -207725,8 +207730,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.06,
-                  "percentOwned": 14.76,
-                  "percentStarted": 8.81
+                  "percentOwned": 14.72,
+                  "percentStarted": 8.64
                 },
                 "proGamePlayerDetail": {
                   "401814834": {
@@ -208332,9 +208337,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.11,
-                  "percentOwned": 61.23,
-                  "percentStarted": 48.17
+                  "percentChange": -0.16,
+                  "percentOwned": 61.18,
+                  "percentStarted": 47.14
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 3,
@@ -208858,13 +208863,13 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Cantillo",
-                "lastNewsDate": 1789261548000,
+                "lastNewsDate": 1789734193000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.22,
-                  "percentOwned": 20.86,
-                  "percentStarted": 15.39
+                  "percentChange": 0.47,
+                  "percentOwned": 21.06,
+                  "percentStarted": 17.65
                 },
                 "proGamePlayerDetail": {
                   "401814719": {
@@ -209489,9 +209494,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
+                  "percentChange": -0.01,
                   "percentOwned": 14.6,
-                  "percentStarted": 2.84
+                  "percentStarted": 2.83
                 },
                 "proGamePlayerDetail": {
                   "401814478": {
@@ -209883,9 +209888,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.09,
-                  "percentOwned": 29.85,
-                  "percentStarted": 19.82
+                  "percentChange": -0.05,
+                  "percentOwned": 29.83,
+                  "percentStarted": 21.81
                 },
                 "proGamePlayerDetail": {
                   "401815331": {
@@ -210465,9 +210470,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.04,
-                  "percentOwned": 45.94,
-                  "percentStarted": 27.77
+                  "percentChange": -0.06,
+                  "percentOwned": 45.92,
+                  "percentStarted": 27.46
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 11,
@@ -210788,9 +210793,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.05,
-                  "percentOwned": 5.9,
-                  "percentStarted": 3
+                  "percentChange": -0.04,
+                  "percentOwned": 5.89,
+                  "percentStarted": 2.95
                 },
                 "proGamePlayerDetail": {
                   "401815513": {
@@ -211304,9 +211309,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.92,
-                  "percentOwned": 13.28,
-                  "percentStarted": 10.41
+                  "percentChange": -0.71,
+                  "percentOwned": 13,
+                  "percentStarted": 9.7
                 },
                 "proGamePlayerDetail": {
                   "401814817": {
@@ -211919,8 +211924,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0,
-                  "percentOwned": 1.59,
-                  "percentStarted": 0.82
+                  "percentOwned": 1.6,
+                  "percentStarted": 0.83
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 29,
@@ -212285,9 +212290,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.22,
-                  "percentOwned": 5.44,
-                  "percentStarted": 3.02
+                  "percentChange": 1.66,
+                  "percentOwned": 5.93,
+                  "percentStarted": 5.13
                 },
                 "proGamePlayerDetail": {
                   "401815800": {
@@ -212830,9 +212835,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
-                  "percentOwned": 12.57,
-                  "percentStarted": 12.01
+                  "percentChange": 0.07,
+                  "percentOwned": 12.6,
+                  "percentStarted": 12.03
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 30,
@@ -213319,7 +213324,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": -0.02,
                   "percentOwned": 3.88,
-                  "percentStarted": 2.32
+                  "percentStarted": 1.94
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 9,
@@ -213756,9 +213761,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.13,
-                  "percentOwned": 8.92,
-                  "percentStarted": 5.5
+                  "percentChange": -0.11,
+                  "percentOwned": 8.88,
+                  "percentStarted": 4.48
                 },
                 "proGamePlayerDetail": {
                   "401815340": {
@@ -214361,9 +214366,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.16,
-                  "percentOwned": 47.33,
-                  "percentStarted": 26.27
+                  "percentChange": -0.14,
+                  "percentOwned": 47.34,
+                  "percentStarted": 25.84
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 23,
@@ -214836,9 +214841,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.1,
+                  "percentChange": -0.01,
                   "percentOwned": 1.73,
-                  "percentStarted": 0.84
+                  "percentStarted": 0.65
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 25,
@@ -215354,9 +215359,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.23,
-                  "percentOwned": 89.39,
-                  "percentStarted": 74.33
+                  "percentChange": -0.19,
+                  "percentOwned": 89.33,
+                  "percentStarted": 76.96
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 16,
@@ -215826,9 +215831,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.07,
+                  "percentChange": 0.01,
                   "percentOwned": 25.02,
-                  "percentStarted": 15.67
+                  "percentStarted": 13.93
                 },
                 "proGamePlayerDetail": {
                   "401814761": {
@@ -216454,9 +216459,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.02,
-                  "percentOwned": 93.75,
-                  "percentStarted": 80.61
+                  "percentChange": -0.03,
+                  "percentOwned": 93.74,
+                  "percentStarted": 84.03
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 28,
@@ -216928,9 +216933,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -1.15,
-                  "percentOwned": 64.51,
-                  "percentStarted": 53.71
+                  "percentChange": -0.98,
+                  "percentOwned": 64.14,
+                  "percentStarted": 51.83
                 },
                 "proGamePlayerDetail": {
                   "401814721": {
@@ -217572,9 +217577,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.09,
-                  "percentOwned": 84.72,
-                  "percentStarted": 63.72
+                  "percentChange": 0.26,
+                  "percentOwned": 84.79,
+                  "percentStarted": 65.89
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -218043,9 +218048,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 99.29,
-                  "percentStarted": 82.02
+                  "percentChange": 0.01,
+                  "percentOwned": 99.3,
+                  "percentStarted": 79.44
                 },
                 "proGamePlayerDetail": {
                   "401814701": {
@@ -218673,9 +218678,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
-                  "percentOwned": 99.76,
-                  "percentStarted": 85.24
+                  "percentChange": 0,
+                  "percentOwned": 99.75,
+                  "percentStarted": 84.92
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 21,
@@ -219194,9 +219199,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.03,
-                  "percentOwned": 93.81,
-                  "percentStarted": 86.3
+                  "percentChange": -0.11,
+                  "percentOwned": 93.79,
+                  "percentStarted": 84.8
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 25,
@@ -219721,9 +219726,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.19,
+                  "percentChange": -0.07,
                   "percentOwned": 63.28,
-                  "percentStarted": 49.72
+                  "percentStarted": 48.68
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 13,
@@ -220246,9 +220251,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.59,
-                  "percentOwned": 56.34,
-                  "percentStarted": 41.6
+                  "percentChange": 0.03,
+                  "percentOwned": 56.29,
+                  "percentStarted": 40.19
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -220760,9 +220765,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.45,
-                  "percentOwned": 95.44,
-                  "percentStarted": 81.86
+                  "percentChange": 0.58,
+                  "percentOwned": 95.61,
+                  "percentStarted": 88.29
                 },
                 "proGamePlayerDetail": {
                   "401814738": {
@@ -221356,9 +221361,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
-                  "percentOwned": 86.91,
-                  "percentStarted": 63.36
+                  "percentChange": 0.04,
+                  "percentOwned": 86.9,
+                  "percentStarted": 59.9
                 },
                 "proGamePlayerDetail": {
                   "401814692": {
@@ -221972,9 +221977,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 4.93,
-                  "percentOwned": 40.65,
-                  "percentStarted": 18.24
+                  "percentChange": 7.25,
+                  "percentOwned": 43.19,
+                  "percentStarted": 34.59
                 },
                 "proGamePlayerDetail": {
                   "401814744": {
@@ -222533,9 +222538,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -1.5,
-                  "percentOwned": 75.83,
-                  "percentStarted": 62.4
+                  "percentChange": -1.3,
+                  "percentOwned": 75.39,
+                  "percentStarted": 52.31
                 },
                 "proGamePlayerDetail": {
                   "401815190": {
@@ -223102,9 +223107,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.39,
-                  "percentOwned": 86.17,
-                  "percentStarted": 68.29
+                  "percentChange": -0.31,
+                  "percentOwned": 86.03,
+                  "percentStarted": 72.22
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -223571,9 +223576,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 2.11,
-                  "percentOwned": 77.63,
-                  "percentStarted": 48.52
+                  "percentChange": 2.99,
+                  "percentOwned": 78.7,
+                  "percentStarted": 66.6
                 },
                 "proGamePlayerDetail": {
                   "401814698": {
@@ -224218,9 +224223,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.11,
-                  "percentOwned": 5.94,
-                  "percentStarted": 4.34
+                  "percentChange": -0.09,
+                  "percentOwned": 5.92,
+                  "percentStarted": 4.41
                 },
                 "proGamePlayerDetail": {
                   "401814861": {
@@ -224731,9 +224736,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.16,
-                  "percentOwned": 55.06,
-                  "percentStarted": 32.52
+                  "percentChange": -0.17,
+                  "percentOwned": 54.95,
+                  "percentStarted": 31.84
                 },
                 "proGamePlayerDetail": {
                   "401814692": {
@@ -225348,13 +225353,13 @@
                 "injured": false,
                 "injuryStatus": "DAY_TO_DAY",
                 "lastName": "Pederson",
-                "lastNewsDate": 1789676427000,
+                "lastNewsDate": 1789734564000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.05,
-                  "percentOwned": 2,
-                  "percentStarted": 1.08
+                  "percentChange": -0.03,
+                  "percentOwned": 1.99,
+                  "percentStarted": 0.98
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 13,
@@ -225828,9 +225833,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
+                  "percentChange": -0.02,
                   "percentOwned": 32.52,
-                  "percentStarted": 12.03
+                  "percentStarted": 11.98
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -226211,9 +226216,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.51,
-                  "percentOwned": 17.31,
-                  "percentStarted": 8.16
+                  "percentChange": -0.41,
+                  "percentOwned": 17.16,
+                  "percentStarted": 7.81
                 },
                 "proGamePlayerDetail": {
                   "401816636": {
@@ -226611,9 +226616,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.53,
-                  "percentOwned": 30.55,
-                  "percentStarted": 23.27
+                  "percentChange": -0.48,
+                  "percentOwned": 30.37,
+                  "percentStarted": 21.17
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 4,
@@ -227093,9 +227098,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.19,
-                  "percentOwned": 9.96,
-                  "percentStarted": 7.06
+                  "percentChange": -0.04,
+                  "percentOwned": 9.94,
+                  "percentStarted": 7.9
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 1,
@@ -227562,9 +227567,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.27,
-                  "percentOwned": 11.35,
-                  "percentStarted": 9.72
+                  "percentChange": -0.35,
+                  "percentOwned": 11.22,
+                  "percentStarted": 8.81
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 4,
@@ -228044,9 +228049,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
+                  "percentChange": 0.01,
                   "percentOwned": 0.57,
-                  "percentStarted": 0.22
+                  "percentStarted": 0.24
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -228427,9 +228432,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.22,
-                  "percentOwned": 2.14,
-                  "percentStarted": 1.2
+                  "percentChange": 0.3,
+                  "percentOwned": 2.27,
+                  "percentStarted": 1.73
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 26,
@@ -228970,9 +228975,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.05,
+                  "percentChange": -0.08,
                   "percentOwned": 59.08,
-                  "percentStarted": 36.14
+                  "percentStarted": 34.81
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 8,
@@ -229405,9 +229410,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 32.14,
-                  "percentStarted": 24.79
+                  "percentChange": -0.01,
+                  "percentOwned": 32.15,
+                  "percentStarted": 24.85
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 28,
@@ -229878,9 +229883,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.13,
-                  "percentOwned": 61.41,
-                  "percentStarted": 25.03
+                  "percentChange": -0.17,
+                  "percentOwned": 61.39,
+                  "percentStarted": 23.74
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -230274,9 +230279,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 2.67,
-                  "percentOwned": 76.62,
-                  "percentStarted": 55.4
+                  "percentChange": 3.54,
+                  "percentOwned": 77.74,
+                  "percentStarted": 65.93
                 },
                 "proGamePlayerDetail": {
                   "401814742": {
@@ -230898,9 +230903,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.06,
+                  "percentChange": 0.01,
                   "percentOwned": 22.99,
-                  "percentStarted": 8.86
+                  "percentStarted": 8.43
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 8,
@@ -231421,9 +231426,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.29,
-                  "percentOwned": 92.33,
-                  "percentStarted": 90.73
+                  "percentChange": -1.02,
+                  "percentOwned": 91.65,
+                  "percentStarted": 89.41
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -231918,9 +231923,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
+                  "percentChange": 0,
                   "percentOwned": 4.43,
-                  "percentStarted": 1.79
+                  "percentStarted": 1.72
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 4,
@@ -232441,8 +232446,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0,
-                  "percentOwned": 1.56,
-                  "percentStarted": 0.8
+                  "percentOwned": 1.57,
+                  "percentStarted": 0.78
                 },
                 "proGamePlayerDetail": {
                   "401814696": {
@@ -232797,9 +232802,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
-                  "percentOwned": 46.04,
-                  "percentStarted": 35.67
+                  "percentChange": -0.07,
+                  "percentOwned": 46.02,
+                  "percentStarted": 34.75
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 6,
@@ -233309,9 +233314,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.46,
-                  "percentOwned": 39.8,
-                  "percentStarted": 34.54
+                  "percentChange": 0.27,
+                  "percentOwned": 39.85,
+                  "percentStarted": 34.68
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 9,
@@ -233852,8 +233857,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.01,
-                  "percentOwned": 7.99,
-                  "percentStarted": 5.51
+                  "percentOwned": 8,
+                  "percentStarted": 5.26
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 18,
@@ -234369,9 +234374,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.33,
-                  "percentOwned": 21.64,
-                  "percentStarted": 13.38
+                  "percentChange": -0.29,
+                  "percentOwned": 21.53,
+                  "percentStarted": 13.23
                 },
                 "proGamePlayerDetail": {
                   "401814749": {
@@ -235001,9 +235006,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 5.18,
-                  "percentStarted": 1.71
+                  "percentChange": 0.01,
+                  "percentOwned": 5.19,
+                  "percentStarted": 1.69
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 21,
@@ -235322,9 +235327,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.56,
-                  "percentOwned": 71.99,
-                  "percentStarted": 62.67
+                  "percentChange": -3.81,
+                  "percentOwned": 71.02,
+                  "percentStarted": 51.77
                 },
                 "proGamePlayerDetail": {
                   "401814711": {
@@ -236007,9 +236012,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.16,
-                  "percentOwned": 60.96,
-                  "percentStarted": 26.61
+                  "percentChange": -0.13,
+                  "percentOwned": 60.91,
+                  "percentStarted": 26.36
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 11,
@@ -236327,9 +236332,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.14,
-                  "percentOwned": 96.73,
-                  "percentStarted": 66.27
+                  "percentChange": -0.1,
+                  "percentOwned": 96.71,
+                  "percentStarted": 64.66
                 },
                 "proGamePlayerDetail": {
                   "401814702": {
@@ -236896,9 +236901,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.11,
-                  "percentOwned": 99.39,
-                  "percentStarted": 83.91
+                  "percentChange": 0.14,
+                  "percentOwned": 99.43,
+                  "percentStarted": 91.83
                 },
                 "proGamePlayerDetail": {
                   "401814693": {
@@ -237542,9 +237547,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.34,
-                  "percentOwned": 90.42,
-                  "percentStarted": 83.99
+                  "percentChange": 0.16,
+                  "percentOwned": 90.5,
+                  "percentStarted": 83.35
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 25,
@@ -238078,9 +238083,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.12,
-                  "percentOwned": 76.25,
-                  "percentStarted": 65.54
+                  "percentChange": -0.25,
+                  "percentOwned": 76.16,
+                  "percentStarted": 63.39
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 21,
@@ -238601,9 +238606,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
-                  "percentOwned": 94.16,
-                  "percentStarted": 84.68
+                  "percentChange": 0.06,
+                  "percentOwned": 94.2,
+                  "percentStarted": 87.92
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -239077,8 +239082,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.27,
-                  "percentOwned": 55,
-                  "percentStarted": 32.02
+                  "percentOwned": 54.9,
+                  "percentStarted": 31.06
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 7,
@@ -239601,9 +239606,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.26,
-                  "percentOwned": 96.95,
-                  "percentStarted": 80.33
+                  "percentChange": -0.16,
+                  "percentOwned": 96.89,
+                  "percentStarted": 79.31
                 },
                 "proGamePlayerDetail": {
                   "401814700": {
@@ -240239,9 +240244,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.11,
-                  "percentOwned": 96.91,
-                  "percentStarted": 74.8
+                  "percentChange": 0.09,
+                  "percentOwned": 96.92,
+                  "percentStarted": 80.17
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 20,
@@ -240711,9 +240716,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.07,
-                  "percentOwned": 99.41,
-                  "percentStarted": 89.61
+                  "percentChange": -0.05,
+                  "percentOwned": 99.4,
+                  "percentStarted": 87.06
                 },
                 "proGamePlayerDetail": {
                   "401814699": {
@@ -241332,9 +241337,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.34,
-                  "percentOwned": 81.81,
-                  "percentStarted": 64.25
+                  "percentChange": 0.36,
+                  "percentOwned": 81.9,
+                  "percentStarted": 59.44
                 },
                 "proGamePlayerDetail": {
                   "401814693": {
@@ -241981,8 +241986,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0.32,
-                  "percentOwned": 12.14,
-                  "percentStarted": 6.86
+                  "percentOwned": 12.2,
+                  "percentStarted": 7.16
                 },
                 "proGamePlayerDetail": {
                   "401816450": {
@@ -242513,9 +242518,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.16,
-                  "percentOwned": 73.24,
-                  "percentStarted": 66.31
+                  "percentChange": -0.03,
+                  "percentOwned": 73.41,
+                  "percentStarted": 66.55
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 8,
@@ -243361,9 +243366,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.42,
-                  "percentOwned": 81.84,
-                  "percentStarted": 63.38
+                  "percentChange": -0.32,
+                  "percentOwned": 81.69,
+                  "percentStarted": 62.65
                 },
                 "proGamePlayerDetail": {
                   "401814688": {
@@ -244004,9 +244009,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.23,
-                  "percentOwned": 37.63,
-                  "percentStarted": 11.92
+                  "percentChange": -0.22,
+                  "percentOwned": 37.56,
+                  "percentStarted": 11.46
                 },
                 "proGamePlayerDetail": {
                   "401814759": {
@@ -244515,9 +244520,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.04,
-                  "percentOwned": 98.7,
-                  "percentStarted": 86.78
+                  "percentChange": -0.03,
+                  "percentOwned": 98.69,
+                  "percentStarted": 92
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 15,
@@ -244985,9 +244990,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.12,
+                  "percentChange": -0.07,
                   "percentOwned": 94.5,
-                  "percentStarted": 79.94
+                  "percentStarted": 79.8
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -245467,9 +245472,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 3.5,
-                  "percentOwned": 68.41,
-                  "percentStarted": 42.59
+                  "percentChange": 4.9,
+                  "percentOwned": 69.95,
+                  "percentStarted": 53.58
                 },
                 "proGamePlayerDetail": {
                   "401814701": {
@@ -245990,9 +245995,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.6,
-                  "percentOwned": 93.41,
-                  "percentStarted": 86.5
+                  "percentChange": 0.56,
+                  "percentOwned": 93.56,
+                  "percentStarted": 85.48
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -246519,9 +246524,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.39,
-                  "percentOwned": 87.74,
-                  "percentStarted": 56.6
+                  "percentChange": 1.84,
+                  "percentOwned": 88.35,
+                  "percentStarted": 68.28
                 },
                 "proGamePlayerDetail": {
                   "401814718": {
@@ -247068,9 +247073,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.03,
-                  "percentOwned": 96.49,
-                  "percentStarted": 87.09
+                  "percentChange": -0.06,
+                  "percentOwned": 96.46,
+                  "percentStarted": 86.84
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 8,
@@ -247598,9 +247603,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.02,
-                  "percentOwned": 90.55,
-                  "percentStarted": 74.6
+                  "percentChange": -0.01,
+                  "percentOwned": 90.56,
+                  "percentStarted": 78.48
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 15,
@@ -248072,9 +248077,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.3,
-                  "percentOwned": 61.94,
-                  "percentStarted": 40.64
+                  "percentChange": -0.17,
+                  "percentOwned": 61.93,
+                  "percentStarted": 39.28
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -248553,9 +248558,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.04,
-                  "percentOwned": 43.41,
-                  "percentStarted": 38.69
+                  "percentChange": -0.05,
+                  "percentOwned": 43.38,
+                  "percentStarted": 38.59
                 },
                 "proGamePlayerDetail": {
                   "401814748": {
@@ -249176,9 +249181,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.03,
-                  "percentOwned": 93.96,
-                  "percentStarted": 77.58
+                  "percentChange": 0.06,
+                  "percentOwned": 93.98,
+                  "percentStarted": 81.12
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -249654,9 +249659,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
+                  "percentChange": 0.02,
                   "percentOwned": 2.33,
-                  "percentStarted": 1.57
+                  "percentStarted": 1.54
                 },
                 "proGamePlayerDetail": {
                   "401814723": {
@@ -250216,9 +250221,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.36,
-                  "percentOwned": 77.42,
-                  "percentStarted": 53.66
+                  "percentChange": 2,
+                  "percentOwned": 78.03,
+                  "percentStarted": 64.66
                 },
                 "proGamePlayerDetail": {
                   "401814718": {
@@ -250843,9 +250848,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -1.41,
-                  "percentOwned": 65.87,
-                  "percentStarted": 44.35
+                  "percentChange": -1.03,
+                  "percentOwned": 65.52,
+                  "percentStarted": 42.32
                 },
                 "proGamePlayerDetail": {
                   "401814740": {
@@ -251402,9 +251407,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.2,
-                  "percentOwned": 30.73,
-                  "percentStarted": 20.17
+                  "percentChange": -0.08,
+                  "percentOwned": 30.7,
+                  "percentStarted": 19.04
                 },
                 "proGamePlayerDetail": {
                   "401814736": {
@@ -252406,9 +252411,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.12,
-                  "percentOwned": 9.79,
-                  "percentStarted": 6
+                  "percentChange": 0.05,
+                  "percentOwned": 9.78,
+                  "percentStarted": 6.72
                 },
                 "proGamePlayerDetail": {
                   "401814823": {
@@ -253012,9 +253017,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.8,
-                  "percentOwned": 27.71,
-                  "percentStarted": 20.12
+                  "percentChange": 2.63,
+                  "percentOwned": 28.61,
+                  "percentStarted": 25.08
                 },
                 "proGamePlayerDetail": {
                   "401814980": {
@@ -253585,9 +253590,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.87,
-                  "percentOwned": 31.08,
-                  "percentStarted": 13.83
+                  "percentChange": -0.68,
+                  "percentOwned": 30.83,
+                  "percentStarted": 14.68
                 },
                 "proGamePlayerDetail": {
                   "401814747": {
@@ -254161,9 +254166,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.06,
-                  "percentOwned": 40.75,
-                  "percentStarted": 23.11
+                  "percentChange": 0.07,
+                  "percentOwned": 40.76,
+                  "percentStarted": 24.55
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 14,
@@ -254626,9 +254631,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.13,
-                  "percentOwned": 55.3,
-                  "percentStarted": 50.91
+                  "percentChange": -0.26,
+                  "percentOwned": 55.24,
+                  "percentStarted": 49.04
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 9,
@@ -255153,9 +255158,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.1,
-                  "percentOwned": 16.46,
-                  "percentStarted": 10.23
+                  "percentChange": -0.06,
+                  "percentOwned": 16.43,
+                  "percentStarted": 11.78
                 },
                 "proGamePlayerDetail": {
                   "401814725": {
@@ -255776,9 +255781,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.32,
-                  "percentOwned": 3.02,
-                  "percentStarted": 1.9
+                  "percentChange": 0.44,
+                  "percentOwned": 3.15,
+                  "percentStarted": 2.74
                 },
                 "proGamePlayerDetail": {
                   "401815474": {
@@ -256355,9 +256360,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
-                  "percentOwned": 4.35,
-                  "percentStarted": 2.23
+                  "percentChange": 0.01,
+                  "percentOwned": 4.36,
+                  "percentStarted": 2.34
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -256823,9 +256828,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.22,
-                  "percentOwned": 3.34,
-                  "percentStarted": 2.04
+                  "percentChange": 0.3,
+                  "percentOwned": 3.46,
+                  "percentStarted": 2.5
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 1,
@@ -257292,9 +257297,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.02,
+                  "percentChange": 0,
                   "percentOwned": 2.52,
-                  "percentStarted": 1.01
+                  "percentStarted": 1.16
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 12,
@@ -257792,9 +257797,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.1,
-                  "percentOwned": 63.43,
-                  "percentStarted": 48.65
+                  "percentChange": 0.06,
+                  "percentOwned": 63.47,
+                  "percentStarted": 50.49
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 14,
@@ -258267,9 +258272,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.07,
-                  "percentOwned": 85.61,
-                  "percentStarted": 34.67
+                  "percentChange": 0.11,
+                  "percentOwned": 85.64,
+                  "percentStarted": 33.87
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -258660,9 +258665,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.49,
-                  "percentOwned": 82.35,
-                  "percentStarted": 68.13
+                  "percentChange": 0.22,
+                  "percentOwned": 82.45,
+                  "percentStarted": 66.99
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 23,
@@ -259176,9 +259181,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.09,
-                  "percentOwned": 82.79,
-                  "percentStarted": 73.33
+                  "percentChange": 0.2,
+                  "percentOwned": 82.88,
+                  "percentStarted": 78.44
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 15,
@@ -259660,9 +259665,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.06,
-                  "percentOwned": 76.54,
-                  "percentStarted": 66.66
+                  "percentChange": -0.13,
+                  "percentOwned": 76.49,
+                  "percentStarted": 63.47
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 6,
@@ -260178,9 +260183,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.05,
-                  "percentOwned": 99.34,
-                  "percentStarted": 84.78
+                  "percentChange": 0.07,
+                  "percentOwned": 99.36,
+                  "percentStarted": 92.22
                 },
                 "proGamePlayerDetail": {
                   "401814707": {
@@ -260800,9 +260805,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.06,
+                  "percentChange": 0.05,
                   "percentOwned": 97.09,
-                  "percentStarted": 82.22
+                  "percentStarted": 77.55
                 },
                 "proGamePlayerDetail": {
                   "401814754": {
@@ -261437,8 +261442,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": 0.02,
-                  "percentOwned": 98.09,
-                  "percentStarted": 81.57
+                  "percentOwned": 98.1,
+                  "percentStarted": 85.89
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 15,
@@ -261911,9 +261916,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
-                  "percentOwned": 92.56,
-                  "percentStarted": 83.11
+                  "percentChange": -0.13,
+                  "percentOwned": 92.52,
+                  "percentStarted": 82.1
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 30,
@@ -262437,9 +262442,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.1,
-                  "percentOwned": 59.8,
-                  "percentStarted": 50.66
+                  "percentChange": -0.06,
+                  "percentOwned": 59.76,
+                  "percentStarted": 49.43
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -262964,9 +262969,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.04,
+                  "percentChange": 0.01,
                   "percentOwned": 98.73,
-                  "percentStarted": 92.82
+                  "percentStarted": 92.65
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 17,
@@ -263484,9 +263489,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.12,
-                  "percentOwned": 70.27,
-                  "percentStarted": 54.94
+                  "percentChange": -0.05,
+                  "percentOwned": 70.25,
+                  "percentStarted": 53.3
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -264002,9 +264007,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.07,
-                  "percentOwned": 88.07,
-                  "percentStarted": 70.91
+                  "percentChange": -0.15,
+                  "percentOwned": 88.05,
+                  "percentStarted": 69.56
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 21,
@@ -264530,9 +264535,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.18,
-                  "percentOwned": 90.56,
-                  "percentStarted": 67.23
+                  "percentChange": -0.09,
+                  "percentOwned": 90.53,
+                  "percentStarted": 70.87
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 14,
@@ -265002,9 +265007,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.03,
-                  "percentOwned": 99.12,
-                  "percentStarted": 86.5
+                  "percentChange": -0.04,
+                  "percentOwned": 99.11,
+                  "percentStarted": 83.63
                 },
                 "proGamePlayerDetail": {
                   "401814696": {
@@ -265626,9 +265631,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.69,
-                  "percentOwned": 70.96,
-                  "percentStarted": 54.98
+                  "percentChange": -0.33,
+                  "percentOwned": 70.82,
+                  "percentStarted": 50.36
                 },
                 "proGamePlayerDetail": {
                   "401814710": {
@@ -266272,9 +266277,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.04,
-                  "percentOwned": 26.6,
-                  "percentStarted": 20.79
+                  "percentChange": -0.08,
+                  "percentOwned": 26.56,
+                  "percentStarted": 19.48
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 22,
@@ -266810,9 +266815,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.21,
-                  "percentOwned": 91.35,
-                  "percentStarted": 82.03
+                  "percentChange": 0.03,
+                  "percentOwned": 91.36,
+                  "percentStarted": 81.32
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 22,
@@ -267344,9 +267349,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.92,
-                  "percentOwned": 48.15,
-                  "percentStarted": 37.71
+                  "percentChange": -4.04,
+                  "percentOwned": 47.04,
+                  "percentStarted": 35.13
                 },
                 "proGamePlayerDetail": {
                   "401814745": {
@@ -267999,9 +268004,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.01,
-                  "percentOwned": 6.53,
-                  "percentStarted": 2.36
+                  "percentChange": 0.01,
+                  "percentOwned": 6.55,
+                  "percentStarted": 2.3
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -268409,9 +268414,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.25,
-                  "percentOwned": 59.67,
-                  "percentStarted": 48.65
+                  "percentChange": -3.52,
+                  "percentOwned": 58.79,
+                  "percentStarted": 38.84
                 },
                 "proGamePlayerDetail": {
                   "401814713": {
@@ -269105,9 +269110,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.09,
-                  "percentOwned": 37.13,
-                  "percentStarted": 35.46
+                  "percentChange": -0.36,
+                  "percentOwned": 37.01,
+                  "percentStarted": 34.22
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 9,
@@ -269631,9 +269636,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
-                  "percentOwned": 10.7,
-                  "percentStarted": 6.92
+                  "percentChange": 0.07,
+                  "percentOwned": 10.72,
+                  "percentStarted": 5.97
                 },
                 "proGamePlayerDetail": {
                   "401815058": {
@@ -270155,9 +270160,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.96,
-                  "percentOwned": 23.23,
-                  "percentStarted": 14.73
+                  "percentChange": 3.08,
+                  "percentOwned": 24.38,
+                  "percentStarted": 21.34
                 },
                 "proGamePlayerDetail": {
                   "401814744": {
@@ -270782,9 +270787,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.91,
-                  "percentOwned": 15.87,
-                  "percentStarted": 9.03
+                  "percentChange": -0.63,
+                  "percentOwned": 15.66,
+                  "percentStarted": 8.88
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 24,
@@ -271173,9 +271178,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.22,
-                  "percentOwned": 13.67,
-                  "percentStarted": 9.45
+                  "percentChange": -0.18,
+                  "percentOwned": 13.6,
+                  "percentStarted": 8.93
                 },
                 "proGamePlayerDetail": {
                   "401814735": {
@@ -271773,9 +271778,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 1.34,
-                  "percentOwned": 3.43,
-                  "percentStarted": 1.35
+                  "percentChange": 1.82,
+                  "percentOwned": 4,
+                  "percentStarted": 3.33
                 },
                 "proGamePlayerDetail": {
                   "401815045": {
@@ -272440,9 +272445,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.05,
-                  "percentOwned": 41.54,
-                  "percentStarted": 11.93
+                  "percentChange": 0.02,
+                  "percentOwned": 41.56,
+                  "percentStarted": 11.86
                 },
                 "proGamePlayerDetail": {
                   "401815118": {
@@ -272831,9 +272836,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.04,
-                  "percentOwned": 34.59,
-                  "percentStarted": 22.86
+                  "percentChange": 0.13,
+                  "percentOwned": 34.66,
+                  "percentStarted": 24.1
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -273296,7 +273301,7 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
+                  "percentChange": -0.01,
                   "percentOwned": 7.26,
                   "percentStarted": 1.64
                 },
@@ -273563,9 +273568,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.05,
-                  "percentOwned": 91.39,
-                  "percentStarted": 67.69
+                  "percentChange": -0.01,
+                  "percentOwned": 91.38,
+                  "percentStarted": 61.36
                 },
                 "proGamePlayerDetail": {
                   "401814695": {
@@ -274148,7 +274153,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": 0,
                   "percentOwned": 99.82,
-                  "percentStarted": 97.95
+                  "percentStarted": 97.84
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 30,
@@ -274675,9 +274680,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.02,
-                  "percentOwned": 99,
-                  "percentStarted": 77.05
+                  "percentChange": -0.01,
+                  "percentOwned": 98.99,
+                  "percentStarted": 80.86
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 20,
@@ -275101,9 +275106,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.04,
-                  "percentOwned": 97.18,
-                  "percentStarted": 83.18
+                  "percentChange": 0.03,
+                  "percentOwned": 97.19,
+                  "percentStarted": 88.68
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 1,
@@ -275575,9 +275580,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.01,
+                  "percentChange": 0,
                   "percentOwned": 99.54,
-                  "percentStarted": 98.26
+                  "percentStarted": 98.22
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 25,
@@ -276074,9 +276079,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.15,
-                  "percentOwned": 73.66,
-                  "percentStarted": 42.76
+                  "percentChange": -0.11,
+                  "percentOwned": 73.65,
+                  "percentStarted": 42.27
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 10,
@@ -276501,9 +276506,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -1.39,
-                  "percentOwned": 83.64,
-                  "percentStarted": 67.38
+                  "percentChange": -1.04,
+                  "percentOwned": 83.31,
+                  "percentStarted": 66.08
                 },
                 "proGamePlayerDetail": {
                   "401814705": {
@@ -277122,9 +277127,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 68.04,
-                  "percentStarted": 50.69
+                  "percentChange": -0.01,
+                  "percentOwned": 68.03,
+                  "percentStarted": 50.5
                 },
                 "proGamePlayerDetail": {
                   "401814709": {
@@ -277745,7 +277750,7 @@
                   "averageDraftPosition": 260,
                   "percentChange": 0,
                   "percentOwned": 99.8,
-                  "percentStarted": 94.79
+                  "percentStarted": 94.47
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 7,
@@ -278225,9 +278230,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.27,
-                  "percentOwned": 62.42,
-                  "percentStarted": 43.9
+                  "percentChange": -0.38,
+                  "percentOwned": 62.28,
+                  "percentStarted": 40.76
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 2,
@@ -278753,9 +278758,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -1.52,
-                  "percentOwned": 72.93,
-                  "percentStarted": 30.23
+                  "percentChange": -1.16,
+                  "percentOwned": 72.49,
+                  "percentStarted": 33.12
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 24,
@@ -279101,9 +279106,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.24,
-                  "percentOwned": 89.67,
-                  "percentStarted": 79.67
+                  "percentChange": 0.08,
+                  "percentOwned": 89.68,
+                  "percentStarted": 78.12
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 30,
@@ -279623,9 +279628,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -2.07,
-                  "percentOwned": 70.18,
-                  "percentStarted": 58.39
+                  "percentChange": -1.76,
+                  "percentOwned": 69.58,
+                  "percentStarted": 50.81
                 },
                 "proGamePlayerDetail": {
                   "401814745": {
@@ -280261,9 +280266,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -1.02,
-                  "percentOwned": 57.71,
-                  "percentStarted": 38.13
+                  "percentChange": -0.75,
+                  "percentOwned": 57.46,
+                  "percentStarted": 39.11
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 5,
@@ -280683,13 +280688,13 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Butler",
-                "lastNewsDate": 1789361097000,
+                "lastNewsDate": 1789734053000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.3,
-                  "percentOwned": 15.84,
-                  "percentStarted": 11.4
+                  "percentChange": 0.23,
+                  "percentOwned": 15.93,
+                  "percentStarted": 11.04
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 11,
@@ -281213,9 +281218,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0,
-                  "percentOwned": 1.38,
-                  "percentStarted": 0.76
+                  "percentChange": -0.01,
+                  "percentOwned": 1.37,
+                  "percentStarted": 0.66
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 27,
@@ -281729,9 +281734,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.08,
-                  "percentOwned": 35.74,
-                  "percentStarted": 33.11
+                  "percentChange": -0.04,
+                  "percentOwned": 35.76,
+                  "percentStarted": 33.01
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 19,
@@ -282219,9 +282224,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.39,
-                  "percentOwned": 19.86,
-                  "percentStarted": 18.53
+                  "percentChange": 0.27,
+                  "percentOwned": 19.99,
+                  "percentStarted": 18.84
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 25,
@@ -282715,8 +282720,8 @@
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
                   "percentChange": -0.03,
-                  "percentOwned": 8.02,
-                  "percentStarted": 5.09
+                  "percentOwned": 8.01,
+                  "percentStarted": 5.25
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 14,
@@ -283189,9 +283194,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.16,
-                  "percentOwned": 17.03,
-                  "percentStarted": 14.89
+                  "percentChange": -0.11,
+                  "percentOwned": 17.02,
+                  "percentStarted": 14.67
                 },
                 "proGamePlayerDetail": {
                   "401814806": {
@@ -283715,9 +283720,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": 0.52,
-                  "percentOwned": 29.74,
-                  "percentStarted": 28.53
+                  "percentChange": 0.38,
+                  "percentOwned": 29.92,
+                  "percentStarted": 28.72
                 },
                 "proGamePlayerDetail": {
                   "401814952": {
@@ -284274,9 +284279,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.85,
-                  "percentOwned": 59.37,
-                  "percentStarted": 6.96
+                  "percentChange": -0.75,
+                  "percentOwned": 59.13,
+                  "percentStarted": 6.86
                 },
                 "proGamePlayerDetail": {
                   "401814724": {
@@ -284703,9 +284708,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.05,
-                  "percentOwned": 44.4,
-                  "percentStarted": 30.37
+                  "percentChange": 0,
+                  "percentOwned": 44.42,
+                  "percentStarted": 30.26
                 },
                 "proGamePlayerDetail": {
                   "401814691": {
@@ -285069,9 +285074,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.02,
-                  "percentOwned": 94.13,
-                  "percentStarted": 81.01
+                  "percentChange": 0.02,
+                  "percentOwned": 94.14,
+                  "percentStarted": 83.94
                 },
                 "proGamePlayerDetail": {},
                 "proTeamId": 15,
@@ -285540,9 +285545,9 @@
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
-                  "percentChange": -0.56,
-                  "percentOwned": 10.99,
-                  "percentStarted": 3.52
+                  "percentChange": -0.41,
+                  "percentOwned": 10.85,
+                  "percentStarted": 3.27
                 },
                 "proGamePlayerDetail": {
                   "401816860": {
@@ -286073,6 +286078,45 @@
       ],
       "memberId": "{AF20200C-8ACA-4E69-B0A6-322A79DE2DDA}",
       "proposedDate": 1789723599526,
+      "rating": 0,
+      "scoringPeriodId": 178,
+      "skipTransactionCounters": false,
+      "status": "EXECUTED",
+      "subOrder": 0,
+      "teamId": 4,
+      "type": "ROSTER"
+    },
+    {
+      "bidAmount": 0,
+      "executionType": "EXECUTE",
+      "id": "6f517221-019c-4243-a310-4792aef6541d",
+      "isActingAsTeamOwner": false,
+      "isLeagueManager": false,
+      "isPending": false,
+      "items": [
+        {
+          "fromLineupSlotId": 1,
+          "fromTeamId": 0,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 32532,
+          "toLineupSlotId": 16,
+          "toTeamId": 0,
+          "type": "LINEUP"
+        },
+        {
+          "fromLineupSlotId": 16,
+          "fromTeamId": 0,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 31127,
+          "toLineupSlotId": 1,
+          "toTeamId": 0,
+          "type": "LINEUP"
+        }
+      ],
+      "memberId": "{AF20200C-8ACA-4E69-B0A6-322A79DE2DDA}",
+      "proposedDate": 1789730160048,
       "rating": 0,
       "scoringPeriodId": 178,
       "skipTransactionCounters": false,

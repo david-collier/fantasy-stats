@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-09-18T10:21:17.984Z",
+  "fetchedAt": "2026-09-18T15:34:37.695Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -19679,7 +19679,7 @@
       },
       {
         "playerId": 31127,
-        "lineupSlotId": 16,
+        "lineupSlotId": 1,
         "acquisitionType": "ADD",
         "acquisitionDate": 1784465863004,
         "injuryStatus": "NORMAL",
@@ -19769,7 +19769,7 @@
       },
       {
         "playerId": 32532,
-        "lineupSlotId": 1,
+        "lineupSlotId": 16,
         "acquisitionType": "ADD",
         "acquisitionDate": 1789644656080,
         "injuryStatus": "NORMAL",
