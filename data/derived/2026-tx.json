@@ -19875,6 +19875,44 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "3a1d7e16-4786-4e98-96ea-0cf378bbd626",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790096024765,
+      "teamId": 5,
+      "scoringPeriodId": 182,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 40947,
+          "fromTeamId": 0,
+          "toTeamId": 5
+        },
+        {
+          "type": "DROP",
+          "playerId": 5214984,
+          "fromTeamId": 5,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "d6445628-0868-4778-8881-a1cd7ed73dcd",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790106579620,
+      "teamId": 11,
+      "scoringPeriodId": 182,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 32968,
+          "fromTeamId": 0,
+          "toTeamId": 11
+        }
+      ]
     }
   ],
   "players": {
