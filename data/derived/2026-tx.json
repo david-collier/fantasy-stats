@@ -19979,6 +19979,50 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "f0e88b4d-d68c-49fb-8391-c1bb527dd415",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790190974898,
+      "teamId": 4,
+      "scoringPeriodId": 183,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 41355,
+          "fromTeamId": 0,
+          "toTeamId": 4
+        },
+        {
+          "type": "DROP",
+          "playerId": 36581,
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "a635722a-e19c-4bf5-8d5c-a218156aa5d0",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790194217822,
+      "teamId": 5,
+      "scoringPeriodId": 183,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 5202600,
+          "fromTeamId": 0,
+          "toTeamId": 5
+        },
+        {
+          "type": "DROP",
+          "playerId": 33793,
+          "fromTeamId": 5,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
@@ -27875,6 +27919,18 @@
         16,
         17,
         14
+      ]
+    },
+    "5202600": {
+      "id": 5202600,
+      "name": "Brandyn Garcia",
+      "positionId": 11,
+      "proTeamId": 29,
+      "eligibleSlots": [
+        13,
+        15,
+        16,
+        17
       ]
     },
     "5204351": {
