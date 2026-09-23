@@ -19935,6 +19935,50 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "18f1a6a1-a16e-4844-b583-d725ea60ae67",
+      "type": "WAIVER",
+      "status": "EXECUTED",
+      "date": 1790154049762,
+      "teamId": 4,
+      "scoringPeriodId": 183,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 4424112,
+          "fromTeamId": 0,
+          "toTeamId": 4
+        },
+        {
+          "type": "DROP",
+          "playerId": 32532,
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "86e3e74a-e3a6-456b-8e37-9a8db34b0f59",
+      "type": "WAIVER",
+      "status": "EXECUTED",
+      "date": 1790154049765,
+      "teamId": 4,
+      "scoringPeriodId": 183,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 35135,
+          "fromTeamId": 0,
+          "toTeamId": 4
+        },
+        {
+          "type": "DROP",
+          "playerId": 4345278,
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
@@ -23955,7 +23999,8 @@
         12,
         16,
         17,
-        11
+        11,
+        2
       ]
     },
     "42403": {
@@ -26863,7 +26908,9 @@
         16,
         17,
         8,
-        5
+        5,
+        3,
+        7
       ]
     },
     "5001153": {
