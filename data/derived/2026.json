@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-09-23T10:34:36.539Z",
+  "fetchedAt": "2026-09-23T15:53:27.617Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -19684,7 +19684,7 @@
       },
       {
         "playerId": 34973,
-        "lineupSlotId": 13,
+        "lineupSlotId": 16,
         "acquisitionType": "ADD",
         "acquisitionDate": 1786587315085,
         "injuryStatus": "NORMAL",
@@ -19745,7 +19745,7 @@
       },
       {
         "playerId": 5132011,
-        "lineupSlotId": 14,
+        "lineupSlotId": 13,
         "acquisitionType": "ADD",
         "acquisitionDate": 1789108343124,
         "injuryStatus": "NORMAL",
@@ -19761,7 +19761,7 @@
       },
       {
         "playerId": 4917865,
-        "lineupSlotId": 15,
+        "lineupSlotId": 13,
         "acquisitionType": "ADD",
         "acquisitionDate": 1789939943010,
         "injuryStatus": "NORMAL",
@@ -19769,7 +19769,7 @@
       },
       {
         "playerId": 29630,
-        "lineupSlotId": 13,
+        "lineupSlotId": 15,
         "acquisitionType": "ADD",
         "acquisitionDate": 1789939964259,
         "injuryStatus": "NORMAL",
@@ -19777,7 +19777,7 @@
       },
       {
         "playerId": 4424112,
-        "lineupSlotId": 16,
+        "lineupSlotId": 14,
         "acquisitionType": "ADD",
         "acquisitionDate": 1790154049765,
         "injuryStatus": "NORMAL",
@@ -20014,7 +20014,7 @@
       },
       {
         "playerId": 4999876,
-        "lineupSlotId": 4,
+        "lineupSlotId": 16,
         "acquisitionType": "ADD",
         "acquisitionDate": 1789304881880,
         "injuryStatus": "NORMAL",
@@ -21608,7 +21608,7 @@
     "11": [
       {
         "playerId": 32078,
-        "lineupSlotId": 16,
+        "lineupSlotId": 5,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910273,
         "injuryStatus": "NORMAL",
@@ -21660,7 +21660,7 @@
       },
       {
         "playerId": 4345620,
-        "lineupSlotId": 16,
+        "lineupSlotId": 0,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -21703,7 +21703,7 @@
       },
       {
         "playerId": 36185,
-        "lineupSlotId": 5,
+        "lineupSlotId": 16,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -21763,7 +21763,7 @@
       },
       {
         "playerId": 42178,
-        "lineupSlotId": 0,
+        "lineupSlotId": 16,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -21849,7 +21849,7 @@
       },
       {
         "playerId": 33709,
-        "lineupSlotId": 16,
+        "lineupSlotId": 13,
         "acquisitionType": "ADD",
         "acquisitionDate": 1779784612731,
         "injuryStatus": "NORMAL",
@@ -25895,7 +25895,7 @@
         "75": 61,
         "76": 0,
         "77": 0,
-        "81": 122
+        "81": 123
       }
     },
     "32081": {
@@ -30145,7 +30145,7 @@
         "75": 81,
         "76": 0,
         "77": 0,
-        "81": 157
+        "81": 158
       }
     },
     "37515": {
@@ -30263,7 +30263,7 @@
         "75": 72,
         "76": 0,
         "77": 0,
-        "81": 138
+        "81": 139
       }
     },
     "37793": {
@@ -33969,7 +33969,7 @@
         "75": 68,
         "76": 0,
         "77": 0,
-        "81": 136
+        "81": 137
       }
     },
     "42214": {
@@ -34265,7 +34265,7 @@
         "75": 77,
         "76": 0,
         "77": 0,
-        "81": 148
+        "81": 149
       }
     },
     "42403": {
@@ -35330,7 +35330,7 @@
         "75": 80,
         "76": 0,
         "77": 0,
-        "81": 155
+        "81": 156
       }
     },
     "42584": {
@@ -36806,7 +36806,7 @@
         "75": 77,
         "76": 0,
         "77": 0,
-        "81": 142
+        "81": 143
       }
     },
     "4345621": {
@@ -38326,7 +38326,7 @@
         "75": 66,
         "76": 0,
         "77": 0,
-        "81": 125
+        "81": 126
       }
     },
     "4683375": {
@@ -40683,7 +40683,7 @@
         "75": 69,
         "76": 0,
         "77": 0,
-        "81": 131
+        "81": 132
       }
     },
     "4920835": {
@@ -42058,7 +42058,7 @@
         "75": 29,
         "76": 0,
         "77": 0,
-        "81": 55
+        "81": 56
       }
     },
     "5014349": {
@@ -43356,7 +43356,7 @@
         "75": 78,
         "76": 0,
         "77": 0,
-        "81": 150
+        "81": 151
       }
     },
     "5134638": {
@@ -43593,7 +43593,7 @@
         "75": 26,
         "76": 0,
         "77": 0,
-        "81": 47
+        "81": 48
       }
     },
     "5149064": {
@@ -43834,7 +43834,7 @@
         "75": 83,
         "76": 0,
         "77": 0,
-        "81": 152
+        "81": 153
       }
     },
     "5149102": {
