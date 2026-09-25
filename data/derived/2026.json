@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-09-25T10:55:20.051Z",
+  "fetchedAt": "2026-09-25T16:16:02.858Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -18882,7 +18882,7 @@
       },
       {
         "playerId": 4810190,
-        "lineupSlotId": 12,
+        "lineupSlotId": 0,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910273,
         "injuryStatus": "NORMAL",
@@ -18947,7 +18947,7 @@
       },
       {
         "playerId": 33224,
-        "lineupSlotId": 16,
+        "lineupSlotId": 15,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -18960,7 +18960,7 @@
       },
       {
         "playerId": 33403,
-        "lineupSlotId": 15,
+        "lineupSlotId": 13,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -19016,7 +19016,7 @@
       },
       {
         "playerId": 4781491,
-        "lineupSlotId": 16,
+        "lineupSlotId": 12,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -19031,7 +19031,7 @@
       },
       {
         "playerId": 35241,
-        "lineupSlotId": 14,
+        "lineupSlotId": 13,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -19046,7 +19046,7 @@
       },
       {
         "playerId": 4311625,
-        "lineupSlotId": 13,
+        "lineupSlotId": 16,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -19121,7 +19121,7 @@
       },
       {
         "playerId": 33859,
-        "lineupSlotId": 16,
+        "lineupSlotId": 12,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -19159,7 +19159,7 @@
       },
       {
         "playerId": 4966140,
-        "lineupSlotId": 13,
+        "lineupSlotId": 14,
         "acquisitionType": "ADD",
         "acquisitionDate": 1777301611499,
         "injuryStatus": "NORMAL",
@@ -19183,7 +19183,7 @@
       },
       {
         "playerId": 5149064,
-        "lineupSlotId": 12,
+        "lineupSlotId": 16,
         "acquisitionType": "ADD",
         "acquisitionDate": 1777911256324,
         "injuryStatus": "NORMAL",
@@ -19207,7 +19207,7 @@
       },
       {
         "playerId": 4917646,
-        "lineupSlotId": 0,
+        "lineupSlotId": 16,
         "acquisitionType": "TRADE",
         "acquisitionDate": 1786051143597,
         "injuryStatus": "NORMAL",
@@ -21627,7 +21627,7 @@
       },
       {
         "playerId": 39961,
-        "lineupSlotId": 12,
+        "lineupSlotId": 2,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910273,
         "injuryStatus": "NORMAL",
@@ -21653,7 +21653,7 @@
       },
       {
         "playerId": 4345620,
-        "lineupSlotId": 16,
+        "lineupSlotId": 0,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -21756,7 +21756,7 @@
       },
       {
         "playerId": 42178,
-        "lineupSlotId": 0,
+        "lineupSlotId": 16,
         "acquisitionType": "DRAFT",
         "acquisitionDate": 1773710910274,
         "injuryStatus": "NORMAL",
@@ -21786,7 +21786,7 @@
       },
       {
         "playerId": 35002,
-        "lineupSlotId": 16,
+        "lineupSlotId": 12,
         "acquisitionType": "TRADE",
         "acquisitionDate": 1773834233951,
         "injuryStatus": "NORMAL",
@@ -21818,7 +21818,7 @@
       },
       {
         "playerId": 39572,
-        "lineupSlotId": 2,
+        "lineupSlotId": 16,
         "acquisitionType": "ADD",
         "acquisitionDate": 1775809916678,
         "injuryStatus": "NORMAL",
@@ -28662,7 +28662,7 @@
         "75": 67,
         "76": 0,
         "77": 0,
-        "81": 153
+        "81": 154
       }
     },
     "34943": {
@@ -32776,7 +32776,7 @@
         "75": 69,
         "76": 0,
         "77": 0,
-        "81": 156
+        "81": 157
       }
     },
     "41221": {
@@ -33435,7 +33435,7 @@
         "75": 67,
         "76": 0,
         "77": 0,
-        "81": 148
+        "81": 149
       }
     },
     "41773": {
@@ -33788,7 +33788,7 @@
         "75": 49,
         "76": 0,
         "77": 0,
-        "81": 97
+        "81": 98
       }
     },
     "42179": {
@@ -34435,7 +34435,7 @@
         "75": 69,
         "76": 0,
         "77": 0,
-        "81": 157
+        "81": 158
       }
     },
     "42417": {
@@ -35920,7 +35920,7 @@
         "75": 63,
         "76": 0,
         "77": 0,
-        "81": 141
+        "81": 142
       }
     },
     "4297835": {
@@ -38499,7 +38499,7 @@
         "75": 71,
         "76": 0,
         "77": 0,
-        "81": 159
+        "81": 160
       }
     },
     "4717903": {
@@ -41572,7 +41572,7 @@
         "75": 71,
         "76": 0,
         "77": 0,
-        "81": 154
+        "81": 155
       }
     },
     "5001153": {
@@ -41690,7 +41690,7 @@
         "75": 70,
         "76": 0,
         "77": 0,
-        "81": 149
+        "81": 150
       }
     },
     "5007707": {
@@ -42347,7 +42347,7 @@
         "75": 28,
         "76": 0,
         "77": 0,
-        "81": 52
+        "81": 53
       }
     },
     "5080771": {
