@@ -22887,7 +22887,8 @@
         13,
         14,
         16,
-        17
+        17,
+        15
       ]
     },
     "40635": {
@@ -23699,7 +23700,7 @@
       "id": 41337,
       "name": "Camilo Doval",
       "positionId": 11,
-      "proTeamId": 23,
+      "proTeamId": 26,
       "eligibleSlots": [
         13,
         15,
