@@ -20045,6 +20045,94 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "72fe50f1-086d-4820-ac43-79fb3c24d94b",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790291085257,
+      "teamId": 4,
+      "scoringPeriodId": 184,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 41208,
+          "fromTeamId": 0,
+          "toTeamId": 4
+        },
+        {
+          "type": "DROP",
+          "playerId": 5129576,
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "69cb219b-c967-4628-9431-34606928667c",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790295560278,
+      "teamId": 5,
+      "scoringPeriodId": 184,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 5194333,
+          "fromTeamId": 0,
+          "toTeamId": 5
+        },
+        {
+          "type": "DROP",
+          "playerId": 4999876,
+          "fromTeamId": 5,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "6cd47e16-953c-4eb4-a7fb-dbf72be4671f",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790297288175,
+      "teamId": 11,
+      "scoringPeriodId": 184,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 4721302,
+          "fromTeamId": 0,
+          "toTeamId": 11
+        },
+        {
+          "type": "DROP",
+          "playerId": 32968,
+          "fromTeamId": 11,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "7fdb984e-56e2-4e53-a748-d683325b2c79",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790297332881,
+      "teamId": 11,
+      "scoringPeriodId": 184,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 4918251,
+          "fromTeamId": 0,
+          "toTeamId": 11
+        },
+        {
+          "type": "DROP",
+          "playerId": 5006093,
+          "fromTeamId": 11,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
