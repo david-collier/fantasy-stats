@@ -20155,6 +20155,50 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "ad858cfd-d8fe-497a-b569-94c4bd1adbf2",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790438888445,
+      "teamId": 5,
+      "scoringPeriodId": 186,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 41382,
+          "fromTeamId": 0,
+          "toTeamId": 5
+        },
+        {
+          "type": "DROP",
+          "playerId": 4300668,
+          "fromTeamId": 5,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "id": "3cc52ab0-96a1-4df2-8004-6c209f583cc2",
+      "type": "FREEAGENT",
+      "status": "EXECUTED",
+      "date": 1790439124772,
+      "teamId": 5,
+      "scoringPeriodId": 186,
+      "items": [
+        {
+          "type": "ADD",
+          "playerId": 4142414,
+          "fromTeamId": 0,
+          "toTeamId": 5
+        },
+        {
+          "type": "DROP",
+          "playerId": 39674,
+          "fromTeamId": 5,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
@@ -24747,6 +24791,18 @@
         19,
         11,
         12,
+        16,
+        17
+      ]
+    },
+    "4142414": {
+      "id": 4142414,
+      "name": "Yuki Matsui",
+      "positionId": 11,
+      "proTeamId": 25,
+      "eligibleSlots": [
+        13,
+        15,
         16,
         17
       ]
