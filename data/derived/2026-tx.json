@@ -20199,6 +20199,22 @@
           "toTeamId": 0
         }
       ]
+    },
+    {
+      "id": "3d50aa8d-de71-4c73-8cb5-1edd58c6a159",
+      "type": "ROSTER",
+      "status": "EXECUTED",
+      "date": 1790456981867,
+      "teamId": 8,
+      "scoringPeriodId": 186,
+      "items": [
+        {
+          "type": "DROP",
+          "playerId": 31392,
+          "fromTeamId": 8,
+          "toTeamId": 0
+        }
+      ]
     }
   ],
   "players": {
