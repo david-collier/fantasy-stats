@@ -181,7 +181,7 @@
           },
           "playoffSeed": 4,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": true
         }
@@ -357,7 +357,7 @@
           },
           "playoffSeed": 8,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": false
         }
@@ -533,7 +533,7 @@
           },
           "playoffSeed": 12,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": false
         }
@@ -710,7 +710,7 @@
           },
           "playoffSeed": 6,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": true
         }
@@ -886,7 +886,7 @@
           },
           "playoffSeed": 1,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": true
         }
@@ -1062,7 +1062,7 @@
           },
           "playoffSeed": 3,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": true
         }
@@ -1238,7 +1238,7 @@
           },
           "playoffSeed": 9,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": false
         }
@@ -1414,7 +1414,7 @@
           },
           "playoffSeed": 7,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": false
         }
@@ -1594,7 +1594,7 @@
           },
           "playoffSeed": 11,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": false
         }
@@ -1770,7 +1770,7 @@
           },
           "playoffSeed": 10,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": false
         }
@@ -1946,7 +1946,7 @@
           },
           "playoffSeed": 2,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": true
         }
@@ -2122,7 +2122,7 @@
           },
           "playoffSeed": 5,
           "finalRank": 0,
-          "isComplete": false,
+          "isComplete": true,
           "champion": false,
           "madePlayoffs": true
         }

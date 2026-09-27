@@ -1,7 +1,7 @@
 {
   "leagueId": 1295435853,
   "leagueName": "Bangin’ Trash Can Dynasty League",
-  "lastUpdated": "2026-09-27T02:56:59.887Z",
+  "lastUpdated": "2026-09-27T11:08:44.945Z",
   "currentSeason": 2026,
   "seasons": [
     {
@@ -9,10 +9,11 @@
       "status": "ok",
       "httpStatus": 200,
       "isCurrent": true,
-      "isComplete": false,
+      "isComplete": true,
       "championTeamId": null,
       "championName": null,
       "championManager": null,
+      "podium": [],
       "hasTransactions": true
     },
     {
