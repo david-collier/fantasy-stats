@@ -51731,7 +51731,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Clement",
-                  "lastNewsDate": 1789846922000,
+                  "lastNewsDate": 1790788285000,
                   "proTeamId": 14,
                   "stats": [
                     {
@@ -59418,7 +59418,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rice",
-                  "lastNewsDate": 1790217781000,
+                  "lastNewsDate": 1790785952000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -60930,7 +60930,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Schlittler",
-                  "lastNewsDate": 1790532673000,
+                  "lastNewsDate": 1790786482000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -64472,7 +64472,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Nola",
-                  "lastNewsDate": 1790512193000,
+                  "lastNewsDate": 1790791205000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -66807,10 +66807,10 @@
                     "12": 1
                   },
                   "id": 5080767,
-                  "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Anthony",
-                  "lastNewsDate": 1790740006000,
+                  "lastNewsDate": 1790787498000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -68964,7 +68964,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Duran",
-                  "lastNewsDate": 1790258263000,
+                  "lastNewsDate": 1790797568000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -70264,7 +70264,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Smith",
-                  "lastNewsDate": 1790638233000,
+                  "lastNewsDate": 1790791967000,
                   "proTeamId": 4,
                   "stats": [
                     {
@@ -76118,7 +76118,7 @@
                   "injured": true,
                   "injuryStatus": "TEN_DAY_DL",
                   "lastName": "Varsho",
-                  "lastNewsDate": 1790290986000,
+                  "lastNewsDate": 1790795990000,
                   "proTeamId": 18,
                   "stats": [
                     {
@@ -80699,7 +80699,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Boyd",
-                  "lastNewsDate": 1790638585000,
+                  "lastNewsDate": 1790791641000,
                   "proTeamId": 16,
                   "stats": [
                     {
@@ -85031,7 +85031,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Tolle",
-                  "lastNewsDate": 1790614498000,
+                  "lastNewsDate": 1790789513000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -85236,7 +85236,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Paredes",
-                  "lastNewsDate": 1790487786000,
+                  "lastNewsDate": 1790799564000,
                   "proTeamId": 18,
                   "stats": [
                     {
@@ -88570,7 +88570,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Schlittler",
-                "lastNewsDate": 1790532673000,
+                "lastNewsDate": 1790786482000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -90202,7 +90202,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Rice",
-                "lastNewsDate": 1790217781000,
+                "lastNewsDate": 1790785952000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -101639,7 +101639,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Paredes",
-                "lastNewsDate": 1790487786000,
+                "lastNewsDate": 1790799564000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -111232,7 +111232,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Tolle",
-                "lastNewsDate": 1790614498000,
+                "lastNewsDate": 1790789513000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -136724,8 +136724,8 @@
                   "12": 24
                 },
                 "id": 42360,
-                "injured": true,
-                "injuryStatus": "TEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Mead",
                 "lastNewsDate": 1790169639000,
                 "ownership": {
@@ -162525,7 +162525,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Duran",
-                "lastNewsDate": 1790258263000,
+                "lastNewsDate": 1790797568000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -170368,7 +170368,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Smith",
-                "lastNewsDate": 1790638233000,
+                "lastNewsDate": 1790791967000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -178524,7 +178524,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Boyd",
-                "lastNewsDate": 1790638585000,
+                "lastNewsDate": 1790791641000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -208036,7 +208036,7 @@
                 "injured": true,
                 "injuryStatus": "TEN_DAY_DL",
                 "lastName": "Varsho",
-                "lastNewsDate": 1790290986000,
+                "lastNewsDate": 1790795990000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -243613,7 +243613,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Nola",
-                "lastNewsDate": 1790512193000,
+                "lastNewsDate": 1790791205000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -254361,10 +254361,10 @@
                   "12": 1
                 },
                 "id": 5080767,
-                "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Anthony",
-                "lastNewsDate": 1790740006000,
+                "lastNewsDate": 1790787498000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
