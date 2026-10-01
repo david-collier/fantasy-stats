@@ -53027,9 +53027,9 @@
                   },
                   "id": 34973,
                   "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injuryStatus": "DAY_TO_DAY",
                   "lastName": "Mahle",
-                  "lastNewsDate": 1790301740000,
+                  "lastNewsDate": 1790805927000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -57872,7 +57872,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Sanchez",
-                  "lastNewsDate": 1790389217000,
+                  "lastNewsDate": 1790807102000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -62768,7 +62768,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bohm",
-                  "lastNewsDate": 1788980869000,
+                  "lastNewsDate": 1790804975000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -66810,7 +66810,7 @@
                   "injured": true,
                   "injuryStatus": "OUT",
                   "lastName": "Anthony",
-                  "lastNewsDate": 1790787498000,
+                  "lastNewsDate": 1790800941000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -136094,9 +136094,9 @@
                 },
                 "id": 34973,
                 "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injuryStatus": "DAY_TO_DAY",
                 "lastName": "Mahle",
-                "lastNewsDate": 1790301740000,
+                "lastNewsDate": 1790805927000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -136727,7 +136727,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Mead",
-                "lastNewsDate": 1790169639000,
+                "lastNewsDate": 1790803701000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -144753,7 +144753,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Sanchez",
-                "lastNewsDate": 1790389217000,
+                "lastNewsDate": 1790807102000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -246322,7 +246322,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bohm",
-                "lastNewsDate": 1788980869000,
+                "lastNewsDate": 1790804975000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -254364,7 +254364,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Anthony",
-                "lastNewsDate": 1790787498000,
+                "lastNewsDate": 1790800941000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
