@@ -64075,7 +64075,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Marsh",
-                  "lastNewsDate": 1789245094000,
+                  "lastNewsDate": 1790888305000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -64472,7 +64472,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Nola",
-                  "lastNewsDate": 1790791205000,
+                  "lastNewsDate": 1790863918000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -78752,7 +78752,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Pivetta",
-                  "lastNewsDate": 1790319238000,
+                  "lastNewsDate": 1790871577000,
                   "proTeamId": 25,
                   "stats": [
                     {
@@ -81786,10 +81786,10 @@
                     "10": 1
                   },
                   "id": 5148963,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Jenkins",
-                  "lastNewsDate": 1790182822000,
+                  "lastNewsDate": 1790879283000,
                   "proTeamId": 9,
                   "stats": [
                     {
@@ -129448,7 +129448,7 @@
                 "injured": true,
                 "injuryStatus": "TEN_DAY_DL",
                 "lastName": "Buxton",
-                "lastNewsDate": 1789160368000,
+                "lastNewsDate": 1790865751000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -183492,10 +183492,10 @@
                   "10": 1
                 },
                 "id": 5148963,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Jenkins",
-                "lastNewsDate": 1790182822000,
+                "lastNewsDate": 1790879283000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -214630,7 +214630,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Gausman",
-                "lastNewsDate": 1790774395000,
+                "lastNewsDate": 1790869659000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -216785,7 +216785,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Pivetta",
-                "lastNewsDate": 1790319238000,
+                "lastNewsDate": 1790871577000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -237905,7 +237905,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Marsh",
-                "lastNewsDate": 1789245094000,
+                "lastNewsDate": 1790888305000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -240023,7 +240023,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Nola",
-                "lastNewsDate": 1790791205000,
+                "lastNewsDate": 1790863918000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
