@@ -56169,7 +56169,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Sale",
-                  "lastNewsDate": 1790914374000,
+                  "lastNewsDate": 1790960886000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -71512,9 +71512,9 @@
                   },
                   "id": 4679983,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Simpson",
-                  "lastNewsDate": 1790466581000,
+                  "lastNewsDate": 1790963853000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -73666,7 +73666,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Skubal",
-                  "lastNewsDate": 1790400495000,
+                  "lastNewsDate": 1790962890000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -74070,7 +74070,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ray",
-                  "lastNewsDate": 1790230575000,
+                  "lastNewsDate": 1790973317000,
                   "proTeamId": 25,
                   "stats": [
                     {
@@ -76116,7 +76116,7 @@
                   },
                   "id": 40963,
                   "injured": true,
-                  "injuryStatus": "TEN_DAY_DL",
+                  "injuryStatus": "OUT",
                   "lastName": "Varsho",
                   "lastNewsDate": 1790795990000,
                   "proTeamId": 18,
@@ -79849,7 +79849,7 @@
                   "injured": true,
                   "injuryStatus": "FIFTEEN_DAY_DL",
                   "lastName": "Perez",
-                  "lastNewsDate": 1790284249000,
+                  "lastNewsDate": 1790961254000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -83333,7 +83333,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rodon",
-                  "lastNewsDate": 1790541989000,
+                  "lastNewsDate": 1790965430000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -84234,7 +84234,7 @@
                   "injured": true,
                   "injuryStatus": "TEN_DAY_DL",
                   "lastName": "Judge",
-                  "lastNewsDate": 1790690520000,
+                  "lastNewsDate": 1790963662000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -101974,7 +101974,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Rodon",
-                "lastNewsDate": 1790541989000,
+                "lastNewsDate": 1790965430000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -107169,7 +107169,7 @@
                 "injured": true,
                 "injuryStatus": "TEN_DAY_DL",
                 "lastName": "Judge",
-                "lastNewsDate": 1790690520000,
+                "lastNewsDate": 1790963662000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -121235,9 +121235,9 @@
                 },
                 "id": 4679983,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Simpson",
-                "lastNewsDate": 1790466581000,
+                "lastNewsDate": 1790963853000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -146348,7 +146348,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Sale",
-                "lastNewsDate": 1790914374000,
+                "lastNewsDate": 1790960886000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -187160,7 +187160,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Ray",
-                "lastNewsDate": 1790230575000,
+                "lastNewsDate": 1790973317000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -188315,7 +188315,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Skubal",
-                "lastNewsDate": 1790400495000,
+                "lastNewsDate": 1790962890000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -205114,7 +205114,7 @@
                 },
                 "id": 40963,
                 "injured": true,
-                "injuryStatus": "TEN_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Varsho",
                 "lastNewsDate": 1790795990000,
                 "ownership": {
@@ -215276,7 +215276,7 @@
                 },
                 "id": 41199,
                 "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "McClanahan",
                 "lastNewsDate": 1790204563000,
                 "ownership": {
@@ -223845,7 +223845,7 @@
                 "injured": true,
                 "injuryStatus": "FIFTEEN_DAY_DL",
                 "lastName": "Perez",
-                "lastNewsDate": 1790284249000,
+                "lastNewsDate": 1790961254000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
