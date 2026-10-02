@@ -56169,7 +56169,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Sale",
-                  "lastNewsDate": 1790719675000,
+                  "lastNewsDate": 1790914374000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -64472,7 +64472,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Nola",
-                  "lastNewsDate": 1790863918000,
+                  "lastNewsDate": 1790915837000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -78656,7 +78656,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Harris II",
-                  "lastNewsDate": 1790527787000,
+                  "lastNewsDate": 1790915246000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -85867,7 +85867,7 @@
       2025
     ],
     "requestedMatchupPeriodId": 22,
-    "standingsUpdateDate": 1790845504603,
+    "standingsUpdateDate": 1790931802056,
     "teamsJoined": 12,
     "transactionScoringPeriod": 188,
     "waiverLastExecutionDate": 1790586463673,
@@ -146348,7 +146348,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Sale",
-                "lastNewsDate": 1790719675000,
+                "lastNewsDate": 1790914374000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -218914,7 +218914,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Harris II",
-                "lastNewsDate": 1790527787000,
+                "lastNewsDate": 1790915246000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -240023,7 +240023,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Nola",
-                "lastNewsDate": 1790863918000,
+                "lastNewsDate": 1790915837000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
