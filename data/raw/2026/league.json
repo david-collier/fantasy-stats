@@ -60831,10 +60831,10 @@
                     "3": 152
                   },
                   "id": 35066,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Naylor",
-                  "lastNewsDate": 1790490756000,
+                  "lastNewsDate": 1791225420000,
                   "proTeamId": 12,
                   "stats": [
                     {
@@ -66810,7 +66810,7 @@
                   "injured": true,
                   "injuryStatus": "OUT",
                   "lastName": "Anthony",
-                  "lastNewsDate": 1790800941000,
+                  "lastNewsDate": 1791213907000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -72321,7 +72321,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Durbin",
-                  "lastNewsDate": 1788637244000,
+                  "lastNewsDate": 1791214739000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -73969,10 +73969,10 @@
                     "10": 23
                   },
                   "id": 41292,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Raleigh",
-                  "lastNewsDate": 1790547914000,
+                  "lastNewsDate": 1791224836000,
                   "proTeamId": 12,
                   "stats": [
                     {
@@ -83333,7 +83333,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rodon",
-                  "lastNewsDate": 1790965430000,
+                  "lastNewsDate": 1791237429000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -89669,10 +89669,10 @@
                   "3": 152
                 },
                 "id": 35066,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Naylor",
-                "lastNewsDate": 1790490756000,
+                "lastNewsDate": 1791225420000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -102158,7 +102158,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Rodon",
-                "lastNewsDate": 1790965430000,
+                "lastNewsDate": 1791237429000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -117049,7 +117049,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Crochet",
-                "lastNewsDate": 1790692225000,
+                "lastNewsDate": 1791216722000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -121778,7 +121778,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Durbin",
-                "lastNewsDate": 1788637244000,
+                "lastNewsDate": 1791214739000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -190354,10 +190354,10 @@
                   "10": 23
                 },
                 "id": 41292,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Raleigh",
-                "lastNewsDate": 1790547914000,
+                "lastNewsDate": 1791224836000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -254364,7 +254364,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Anthony",
-                "lastNewsDate": 1790800941000,
+                "lastNewsDate": 1791213907000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
