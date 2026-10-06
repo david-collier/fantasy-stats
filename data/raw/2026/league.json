@@ -53027,9 +53027,9 @@
                   },
                   "id": 34973,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Mahle",
-                  "lastNewsDate": 1790805927000,
+                  "lastNewsDate": 1791313824000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -63367,7 +63367,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Muncy",
-                  "lastNewsDate": 1791146681000,
+                  "lastNewsDate": 1791313066000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -63567,7 +63567,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Acuna Jr.",
-                  "lastNewsDate": 1790527625000,
+                  "lastNewsDate": 1791319037000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -68665,7 +68665,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Edman",
-                  "lastNewsDate": 1790374799000,
+                  "lastNewsDate": 1791313385000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -69974,7 +69974,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ohtani",
-                  "lastNewsDate": 1790201159000,
+                  "lastNewsDate": 1791312914000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -136094,9 +136094,9 @@
                 },
                 "id": 34973,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Mahle",
-                "lastNewsDate": 1790805927000,
+                "lastNewsDate": 1791313824000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -163687,7 +163687,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Ohtani",
-                "lastNewsDate": 1790201159000,
+                "lastNewsDate": 1791312914000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -165033,7 +165033,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Edman",
-                "lastNewsDate": 1790374799000,
+                "lastNewsDate": 1791313385000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -236642,7 +236642,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Acuna Jr.",
-                "lastNewsDate": 1790527625000,
+                "lastNewsDate": 1791319037000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -237608,7 +237608,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Muncy",
-                "lastNewsDate": 1791146681000,
+                "lastNewsDate": 1791313066000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
