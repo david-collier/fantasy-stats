@@ -63067,7 +63067,7 @@
                   },
                   "id": 39572,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Arraez",
                   "lastNewsDate": 1790618395000,
                   "proTeamId": 22,
@@ -67909,7 +67909,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Martinez",
-                  "lastNewsDate": 1790544919000,
+                  "lastNewsDate": 1791247025000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -82488,7 +82488,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Williams",
-                  "lastNewsDate": 1790400831000,
+                  "lastNewsDate": 1791257074000,
                   "proTeamId": 5,
                   "stats": [
                     {
@@ -83433,7 +83433,7 @@
                   },
                   "id": 42464,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Moreno",
                   "lastNewsDate": 1790533513000,
                   "proTeamId": 29,
@@ -113273,7 +113273,7 @@
                 },
                 "id": 42464,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Moreno",
                 "lastNewsDate": 1790533513000,
                 "ownership": {
@@ -175736,7 +175736,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Williams",
-                "lastNewsDate": 1790400831000,
+                "lastNewsDate": 1791257074000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -242031,7 +242031,7 @@
                 },
                 "id": 39572,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Arraez",
                 "lastNewsDate": 1790618395000,
                 "ownership": {
@@ -255764,7 +255764,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Martinez",
-                "lastNewsDate": 1790544919000,
+                "lastNewsDate": 1791247025000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
