@@ -63567,7 +63567,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Acuna Jr.",
-                  "lastNewsDate": 1791319037000,
+                  "lastNewsDate": 1791401100000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -63971,7 +63971,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Gasser",
-                  "lastNewsDate": 1790428660000,
+                  "lastNewsDate": 1791396063000,
                   "proTeamId": 8,
                   "stats": [
                     {
@@ -67206,9 +67206,9 @@
                   },
                   "id": 40917,
                   "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injuryStatus": "DAY_TO_DAY",
                   "lastName": "Morejon",
-                  "lastNewsDate": 1788930643000,
+                  "lastNewsDate": 1791378637000,
                   "proTeamId": 25,
                   "stats": [
                     {
@@ -67514,7 +67514,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Chisholm Jr.",
-                  "lastNewsDate": 1790710945000,
+                  "lastNewsDate": 1791403587000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -67607,10 +67607,10 @@
                     "11": 66
                   },
                   "id": 4730225,
-                  "injured": true,
-                  "injuryStatus": "PATERNITY",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Miller",
-                  "lastNewsDate": 1791334466000,
+                  "lastNewsDate": 1791406411000,
                   "proTeamId": 25,
                   "stats": [
                     {
@@ -68665,7 +68665,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Edman",
-                  "lastNewsDate": 1791313385000,
+                  "lastNewsDate": 1791398545000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -71514,7 +71514,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Simpson",
-                  "lastNewsDate": 1790963853000,
+                  "lastNewsDate": 1791404310000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -81193,7 +81193,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "O'Brien",
-                  "lastNewsDate": 1789941166000,
+                  "lastNewsDate": 1791380546000,
                   "proTeamId": 24,
                   "stats": [
                     {
@@ -122311,7 +122311,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Simpson",
-                "lastNewsDate": 1790963853000,
+                "lastNewsDate": 1791404310000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -165033,7 +165033,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Edman",
-                "lastNewsDate": 1791313385000,
+                "lastNewsDate": 1791398545000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -179117,7 +179117,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "O'Brien",
-                "lastNewsDate": 1789941166000,
+                "lastNewsDate": 1791380546000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -236642,7 +236642,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Acuna Jr.",
-                "lastNewsDate": 1791319037000,
+                "lastNewsDate": 1791401100000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -246841,7 +246841,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Gasser",
-                "lastNewsDate": 1790428660000,
+                "lastNewsDate": 1791396063000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -251636,10 +251636,10 @@
                   "11": 66
                 },
                 "id": 4730225,
-                "injured": true,
-                "injuryStatus": "PATERNITY",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Miller",
-                "lastNewsDate": 1791334466000,
+                "lastNewsDate": 1791406411000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -252138,7 +252138,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Chisholm Jr.",
-                "lastNewsDate": 1790710945000,
+                "lastNewsDate": 1791403587000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -257880,9 +257880,9 @@
                 },
                 "id": 40917,
                 "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injuryStatus": "DAY_TO_DAY",
                 "lastName": "Morejon",
-                "lastNewsDate": 1788930643000,
+                "lastNewsDate": 1791378637000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
