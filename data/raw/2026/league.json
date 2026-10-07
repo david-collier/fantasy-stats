@@ -67607,10 +67607,10 @@
                     "11": 66
                   },
                   "id": 4730225,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "PATERNITY",
                   "lastName": "Miller",
-                  "lastNewsDate": 1791179819000,
+                  "lastNewsDate": 1791334466000,
                   "proTeamId": 25,
                   "stats": [
                     {
@@ -251636,10 +251636,10 @@
                   "11": 66
                 },
                 "id": 4730225,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "PATERNITY",
                 "lastName": "Miller",
-                "lastNewsDate": 1791179819000,
+                "lastNewsDate": 1791334466000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
