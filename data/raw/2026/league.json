@@ -54124,7 +54124,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "King",
-                  "lastNewsDate": 1791180798000,
+                  "lastNewsDate": 1791352100000,
                   "proTeamId": 25,
                   "stats": [
                     {
@@ -56169,7 +56169,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Sale",
-                  "lastNewsDate": 1791139811000,
+                  "lastNewsDate": 1791350924000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -72421,7 +72421,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Contreras",
-                  "lastNewsDate": 1790526392000,
+                  "lastNewsDate": 1791352425000,
                   "proTeamId": 8,
                   "stats": [
                     {
@@ -75913,7 +75913,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Yamamoto",
-                  "lastNewsDate": 1790231313000,
+                  "lastNewsDate": 1791350116000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -117558,7 +117558,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Contreras",
-                "lastNewsDate": 1790526392000,
+                "lastNewsDate": 1791352425000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -131898,7 +131898,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "King",
-                "lastNewsDate": 1791180798000,
+                "lastNewsDate": 1791352100000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -148095,7 +148095,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Sale",
-                "lastNewsDate": 1791139811000,
+                "lastNewsDate": 1791350924000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -215198,7 +215198,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Yamamoto",
-                "lastNewsDate": 1790231313000,
+                "lastNewsDate": 1791350116000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
