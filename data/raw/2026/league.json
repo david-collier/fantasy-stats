@@ -53029,7 +53029,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Mahle",
-                  "lastNewsDate": 1791313824000,
+                  "lastNewsDate": 1791430797000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -57773,7 +57773,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Baker",
-                  "lastNewsDate": 1791261381000,
+                  "lastNewsDate": 1791433874000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -67314,7 +67314,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Adell",
-                  "lastNewsDate": 1790546206000,
+                  "lastNewsDate": 1791429977000,
                   "proTeamId": 5,
                   "stats": [
                     {
@@ -67909,7 +67909,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Martinez",
-                  "lastNewsDate": 1791247025000,
+                  "lastNewsDate": 1791434816000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -70264,7 +70264,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Smith",
-                  "lastNewsDate": 1790954179000,
+                  "lastNewsDate": 1791431076000,
                   "proTeamId": 4,
                   "stats": [
                     {
@@ -71214,7 +71214,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ramirez",
-                  "lastNewsDate": 1790527538000,
+                  "lastNewsDate": 1791429778000,
                   "proTeamId": 5,
                   "stats": [
                     {
@@ -78957,7 +78957,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Griffin",
-                  "lastNewsDate": 1790215075000,
+                  "lastNewsDate": 1791430116000,
                   "proTeamId": 5,
                   "stats": [
                     {
@@ -118569,7 +118569,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Ramirez",
-                "lastNewsDate": 1790527538000,
+                "lastNewsDate": 1791429778000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -136096,7 +136096,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Mahle",
-                "lastNewsDate": 1791313824000,
+                "lastNewsDate": 1791430797000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -147607,7 +147607,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Baker",
-                "lastNewsDate": 1791261381000,
+                "lastNewsDate": 1791433874000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -168480,9 +168480,9 @@
                 },
                 "id": 42604,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Jax",
-                "lastNewsDate": 1790472128000,
+                "lastNewsDate": 1791435688000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -170368,7 +170368,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Smith",
-                "lastNewsDate": 1790954179000,
+                "lastNewsDate": 1791431076000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -210688,7 +210688,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Fried",
-                "lastNewsDate": 1791258553000,
+                "lastNewsDate": 1791433347000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -221333,7 +221333,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Glasnow",
-                "lastNewsDate": 1790319742000,
+                "lastNewsDate": 1791431436000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -225723,7 +225723,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Griffin",
-                "lastNewsDate": 1790215075000,
+                "lastNewsDate": 1791430116000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -248786,7 +248786,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Adell",
-                "lastNewsDate": 1790546206000,
+                "lastNewsDate": 1791429977000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -255764,7 +255764,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Martinez",
-                "lastNewsDate": 1791247025000,
+                "lastNewsDate": 1791434816000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
