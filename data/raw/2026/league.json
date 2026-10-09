@@ -60223,7 +60223,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Burke",
-                  "lastNewsDate": 1791257494000,
+                  "lastNewsDate": 1791568425000,
                   "proTeamId": 4,
                   "stats": [
                     {
@@ -74267,8 +74267,8 @@
                     "1": 26
                   },
                   "id": 41167,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Mize",
                   "lastNewsDate": 1790459218000,
                   "proTeamId": 25,
@@ -74574,7 +74574,7 @@
                   "injured": true,
                   "injuryStatus": "OUT",
                   "lastName": "Seager",
-                  "lastNewsDate": 1790632830000,
+                  "lastNewsDate": 1791573698000,
                   "proTeamId": 13,
                   "stats": [
                     {
@@ -82488,7 +82488,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Williams",
-                  "lastNewsDate": 1791257074000,
+                  "lastNewsDate": 1791577584000,
                   "proTeamId": 5,
                   "stats": [
                     {
@@ -93256,7 +93256,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Burke",
-                "lastNewsDate": 1791257494000,
+                "lastNewsDate": 1791568425000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -123833,7 +123833,7 @@
                 "injured": true,
                 "injuryStatus": "TEN_DAY_DL",
                 "lastName": "Jung",
-                "lastNewsDate": 1790447944000,
+                "lastNewsDate": 1791574045000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -175736,7 +175736,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Williams",
-                "lastNewsDate": 1791257074000,
+                "lastNewsDate": 1791577584000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -188604,8 +188604,8 @@
                   "1": 26
                 },
                 "id": 41167,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Mize",
                 "lastNewsDate": 1790459218000,
                 "ownership": {
@@ -192552,7 +192552,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Seager",
-                "lastNewsDate": 1790632830000,
+                "lastNewsDate": 1791573698000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
