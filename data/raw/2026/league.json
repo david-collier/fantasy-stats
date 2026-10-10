@@ -58066,10 +58066,10 @@
                     "11": 54
                   },
                   "id": 39674,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Whitlock",
-                  "lastNewsDate": 1789709241000,
+                  "lastNewsDate": 1791594465000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -73666,7 +73666,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Skubal",
-                  "lastNewsDate": 1790962890000,
+                  "lastNewsDate": 1791589148000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -190873,7 +190873,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Skubal",
-                "lastNewsDate": 1790962890000,
+                "lastNewsDate": 1791589148000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
