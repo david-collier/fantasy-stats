@@ -60223,7 +60223,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Burke",
-                  "lastNewsDate": 1791568425000,
+                  "lastNewsDate": 1791728658000,
                   "proTeamId": 4,
                   "stats": [
                     {
@@ -64964,7 +64964,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Guerrero Jr.",
-                  "lastNewsDate": 1790523672000,
+                  "lastNewsDate": 1791733461000,
                   "proTeamId": 14,
                   "stats": [
                     {
@@ -71214,7 +71214,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ramirez",
-                  "lastNewsDate": 1791429778000,
+                  "lastNewsDate": 1791726092000,
                   "proTeamId": 5,
                   "stats": [
                     {
@@ -72318,10 +72318,10 @@
                     "12": 2
                   },
                   "id": 5007615,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Durbin",
-                  "lastNewsDate": 1791214739000,
+                  "lastNewsDate": 1791731563000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -82488,7 +82488,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Williams",
-                  "lastNewsDate": 1791577584000,
+                  "lastNewsDate": 1791727617000,
                   "proTeamId": 5,
                   "stats": [
                     {
@@ -93256,7 +93256,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Burke",
-                "lastNewsDate": 1791568425000,
+                "lastNewsDate": 1791728658000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -118569,7 +118569,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Ramirez",
-                "lastNewsDate": 1791429778000,
+                "lastNewsDate": 1791726092000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -121775,10 +121775,10 @@
                   "12": 2
                 },
                 "id": 5007615,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Durbin",
-                "lastNewsDate": 1791214739000,
+                "lastNewsDate": 1791731563000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -175736,7 +175736,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Williams",
-                "lastNewsDate": 1791577584000,
+                "lastNewsDate": 1791727617000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -239694,7 +239694,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Guerrero Jr.",
-                "lastNewsDate": 1790523672000,
+                "lastNewsDate": 1791733461000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
