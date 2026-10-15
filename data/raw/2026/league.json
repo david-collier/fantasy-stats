@@ -61228,10 +61228,10 @@
                     "1": 20
                   },
                   "id": 5294127,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Melton",
-                  "lastNewsDate": 1790028822000,
+                  "lastNewsDate": 1792074144000,
                   "proTeamId": 6,
                   "stats": [
                     {
@@ -71915,7 +71915,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Turner",
-                  "lastNewsDate": 1789870041000,
+                  "lastNewsDate": 1792076286000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -92702,10 +92702,10 @@
                   "1": 20
                 },
                 "id": 5294127,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Melton",
-                "lastNewsDate": 1790028822000,
+                "lastNewsDate": 1792074144000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -116528,7 +116528,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Turner",
-                "lastNewsDate": 1789870041000,
+                "lastNewsDate": 1792076286000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
