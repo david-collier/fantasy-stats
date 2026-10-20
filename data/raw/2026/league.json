@@ -67206,7 +67206,7 @@
                   },
                   "id": 40917,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Morejon",
                   "lastNewsDate": 1791378637000,
                   "proTeamId": 25,
@@ -257880,7 +257880,7 @@
                 },
                 "id": 40917,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Morejon",
                 "lastNewsDate": 1791378637000,
                 "ownership": {
