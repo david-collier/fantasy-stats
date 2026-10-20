@@ -2,5 +2,5 @@
   "source": "seasons",
   "status": 200,
   "url": "https://lm-api-reads.fantasy.espn.com/apis/v3/games/flb/seasons/2026/segments/0/leagues/1295435853?view=mSettings&view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mStandings&view=mDraftDetail&view=mTransactions2",
-  "fetchedAt": "2026-10-20T02:53:47.379Z"
+  "fetchedAt": "2026-10-20T10:45:51.454Z"
 }
