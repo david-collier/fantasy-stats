@@ -84231,10 +84231,10 @@
                     "10": 7
                   },
                   "id": 33192,
-                  "injured": true,
-                  "injuryStatus": "TEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Judge",
-                  "lastNewsDate": 1791037061000,
+                  "lastNewsDate": 1792596332000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -107712,10 +107712,10 @@
                   "10": 7
                 },
                 "id": 33192,
-                "injured": true,
-                "injuryStatus": "TEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Judge",
-                "lastNewsDate": 1791037061000,
+                "lastNewsDate": 1792596332000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
