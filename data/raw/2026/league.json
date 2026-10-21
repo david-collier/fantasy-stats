@@ -64868,8 +64868,8 @@
                     "12": 14
                   },
                   "id": 4619839,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Rushing",
                   "lastNewsDate": 1790370745000,
                   "proTeamId": 19,
@@ -69974,7 +69974,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ohtani",
-                  "lastNewsDate": 1792261949000,
+                  "lastNewsDate": 1792614301000,
                   "proTeamId": 19,
                   "stats": [
                     {
@@ -73771,7 +73771,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Garcia Jr.",
-                  "lastNewsDate": 1789106484000,
+                  "lastNewsDate": 1792600773000,
                   "proTeamId": 10,
                   "stats": [
                     {
@@ -163687,7 +163687,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Ohtani",
-                "lastNewsDate": 1792261949000,
+                "lastNewsDate": 1792614301000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -195945,7 +195945,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Garcia Jr.",
-                "lastNewsDate": 1789106484000,
+                "lastNewsDate": 1792600773000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -210688,7 +210688,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Fried",
-                "lastNewsDate": 1791433347000,
+                "lastNewsDate": 1792600206000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -243127,8 +243127,8 @@
                   "12": 14
                 },
                 "id": 4619839,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Rushing",
                 "lastNewsDate": 1790370745000,
                 "ownership": {
