@@ -62165,8 +62165,8 @@
                     "11": 13
                   },
                   "id": 33860,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Lopez",
                   "lastNewsDate": 1789483231000,
                   "proTeamId": 15,
@@ -65254,8 +65254,8 @@
                     "1": 29
                   },
                   "id": 34943,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Cease",
                   "lastNewsDate": 1790370190000,
                   "proTeamId": 14,
@@ -66100,8 +66100,8 @@
                     "1": 3
                   },
                   "id": 39878,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Burnes",
                   "lastNewsDate": 1790623121000,
                   "proTeamId": 29,
@@ -74765,8 +74765,8 @@
                     "1": 29
                   },
                   "id": 4927516,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Burns",
                   "lastNewsDate": 1790178706000,
                   "proTeamId": 17,
@@ -79846,8 +79846,8 @@
                     "11": 4
                   },
                   "id": 31098,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Perez",
                   "lastNewsDate": 1790961254000,
                   "proTeamId": 15,
@@ -83834,8 +83834,8 @@
                     "12": 18
                   },
                   "id": 4917646,
-                  "injured": true,
-                  "injuryStatus": "SEVEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Basallo",
                   "lastNewsDate": 1790180349000,
                   "proTeamId": 1,
@@ -104806,7 +104806,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Woodruff",
-                "lastNewsDate": 1792526229000,
+                "lastNewsDate": 1792769951000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -108727,7 +108727,7 @@
                 },
                 "id": 5080633,
                 "injured": true,
-                "injuryStatus": "TEN_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Holliday",
                 "lastNewsDate": 1790177851000,
                 "ownership": {
@@ -114257,8 +114257,8 @@
                   "12": 18
                 },
                 "id": 4917646,
-                "injured": true,
-                "injuryStatus": "SEVEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Basallo",
                 "lastNewsDate": 1790180349000,
                 "ownership": {
@@ -183491,8 +183491,8 @@
                   "1": 20
                 },
                 "id": 5023852,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Jump",
                 "lastNewsDate": 1789498351000,
                 "ownership": {
@@ -193595,8 +193595,8 @@
                   "1": 29
                 },
                 "id": 4927516,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Burns",
                 "lastNewsDate": 1790178706000,
                 "ownership": {
@@ -227340,8 +227340,8 @@
                   "11": 4
                 },
                 "id": 31098,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Perez",
                 "lastNewsDate": 1790961254000,
                 "ownership": {
@@ -235376,8 +235376,8 @@
                   "1": 29
                 },
                 "id": 34943,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Cease",
                 "lastNewsDate": 1790370190000,
                 "ownership": {
@@ -260976,8 +260976,8 @@
                   "1": 3
                 },
                 "id": 39878,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Burnes",
                 "lastNewsDate": 1790623121000,
                 "ownership": {
