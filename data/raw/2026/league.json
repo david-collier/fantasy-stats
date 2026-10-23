@@ -104803,8 +104803,8 @@
                   "1": 9
                 },
                 "id": 37515,
-                "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Woodruff",
                 "lastNewsDate": 1792526229000,
                 "ownership": {
