@@ -54022,8 +54022,8 @@
                     "11": 61
                   },
                   "id": 40939,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Munoz",
                   "lastNewsDate": 1790384104000,
                   "proTeamId": 12,
@@ -59015,7 +59015,7 @@
                   },
                   "id": 39712,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Cruz",
                   "lastNewsDate": 1790529409000,
                   "proTeamId": 23,
@@ -62065,8 +62065,8 @@
                     "1": 23
                   },
                   "id": 4414215,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Scott",
                   "lastNewsDate": 1790106710000,
                   "proTeamId": 21,
@@ -62366,8 +62366,8 @@
                     "12": 5
                   },
                   "id": 4920835,
-                  "injured": true,
-                  "injuryStatus": "TEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Baez",
                   "lastNewsDate": 1789761303000,
                   "proTeamId": 24,
@@ -69869,8 +69869,8 @@
                     "11": 16
                   },
                   "id": 4867388,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Joyce",
                   "lastNewsDate": 1790288438000,
                   "proTeamId": 3,
@@ -74668,7 +74668,7 @@
                   },
                   "id": 5198748,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Anderson",
                   "lastNewsDate": 1790478705000,
                   "proTeamId": 12,
@@ -77106,8 +77106,8 @@
                     "11": 71
                   },
                   "id": 33841,
-                  "injured": true,
-                  "injuryStatus": "FIFTEEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Hoffman",
                   "lastNewsDate": 1790439228000,
                   "proTeamId": 9,
@@ -83936,8 +83936,8 @@
                     "12": 3
                   },
                   "id": 5149064,
-                  "injured": true,
-                  "injuryStatus": "SEVEN_DAY_DL",
+                  "injured": false,
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Eldridge",
                   "lastNewsDate": 1790032294000,
                   "proTeamId": 26,
@@ -90683,7 +90683,7 @@
                 },
                 "id": 39712,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Cruz",
                 "lastNewsDate": 1790529409000,
                 "ownership": {
@@ -112825,8 +112825,8 @@
                   "12": 3
                 },
                 "id": 5149064,
-                "injured": true,
-                "injuryStatus": "SEVEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Eldridge",
                 "lastNewsDate": 1790032294000,
                 "ownership": {
@@ -119054,8 +119054,8 @@
                   "1": 27
                 },
                 "id": 41216,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Webb",
                 "lastNewsDate": 1789778960000,
                 "ownership": {
@@ -123830,8 +123830,8 @@
                   "10": 4
                 },
                 "id": 42437,
-                "injured": true,
-                "injuryStatus": "TEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Jung",
                 "lastNewsDate": 1791574045000,
                 "ownership": {
@@ -130882,7 +130882,7 @@
                 },
                 "id": 32655,
                 "injured": true,
-                "injuryStatus": "TEN_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Buxton",
                 "lastNewsDate": 1790865751000,
                 "ownership": {
@@ -135597,8 +135597,8 @@
                   "11": 61
                 },
                 "id": 40939,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Munoz",
                 "lastNewsDate": 1790384104000,
                 "ownership": {
@@ -152514,8 +152514,8 @@
                   "1": 25
                 },
                 "id": 4297897,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Hancock",
                 "lastNewsDate": 1788109684000,
                 "ownership": {
@@ -160722,8 +160722,8 @@
                   "1": 28
                 },
                 "id": 41282,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Ashcraft",
                 "lastNewsDate": 1789764382000,
                 "ownership": {
@@ -170778,8 +170778,8 @@
                   "11": 16
                 },
                 "id": 4867388,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Joyce",
                 "lastNewsDate": 1790288438000,
                 "ownership": {
@@ -198251,8 +198251,8 @@
                   "12": 1
                 },
                 "id": 41773,
-                "injured": true,
-                "injuryStatus": "SEVEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Donovan",
                 "lastNewsDate": 1788479075000,
                 "ownership": {
@@ -198733,7 +198733,7 @@
                 },
                 "id": 5198748,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Anderson",
                 "lastNewsDate": 1790478705000,
                 "ownership": {
@@ -207536,8 +207536,8 @@
                   "11": 71
                 },
                 "id": 33841,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Hoffman",
                 "lastNewsDate": 1790439228000,
                 "ownership": {
@@ -244791,8 +244791,8 @@
                   "1": 23
                 },
                 "id": 4414215,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Scott",
                 "lastNewsDate": 1790106710000,
                 "ownership": {
@@ -245314,8 +245314,8 @@
                   "12": 5
                 },
                 "id": 4920835,
-                "injured": true,
-                "injuryStatus": "TEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Baez",
                 "lastNewsDate": 1789761303000,
                 "ownership": {
@@ -259380,8 +259380,8 @@
                   "1": 20
                 },
                 "id": 4345164,
-                "injured": true,
-                "injuryStatus": "FIFTEEN_DAY_DL",
+                "injured": false,
+                "injuryStatus": "ACTIVE",
                 "lastName": "Meyer",
                 "lastNewsDate": 1789492933000,
                 "ownership": {
