@@ -56471,7 +56471,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "May",
-                  "lastNewsDate": 1791134192000,
+                  "lastNewsDate": 1793130885000,
                   "proTeamId": 8,
                   "stats": [
                     {
@@ -77109,7 +77109,7 @@
                   "injured": true,
                   "injuryStatus": "OUT",
                   "lastName": "Hoffman",
-                  "lastNewsDate": 1790439228000,
+                  "lastNewsDate": 1793118983000,
                   "proTeamId": 9,
                   "stats": [
                     {
@@ -207539,7 +207539,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Hoffman",
-                "lastNewsDate": 1790439228000,
+                "lastNewsDate": 1793118983000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
