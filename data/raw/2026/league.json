@@ -77106,8 +77106,8 @@
                     "11": 71
                   },
                   "id": 33841,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Hoffman",
                   "lastNewsDate": 1790439228000,
                   "proTeamId": 9,
@@ -207536,8 +207536,8 @@
                   "11": 71
                 },
                 "id": 33841,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Hoffman",
                 "lastNewsDate": 1790439228000,
                 "ownership": {
