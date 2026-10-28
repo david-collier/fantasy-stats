@@ -66608,9 +66608,9 @@
                   },
                   "id": 4905921,
                   "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injuryStatus": "DAY_TO_DAY",
                   "lastName": "Caminero",
-                  "lastNewsDate": 1792508943000,
+                  "lastNewsDate": 1793162877000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -250161,9 +250161,9 @@
                 },
                 "id": 4905921,
                 "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injuryStatus": "DAY_TO_DAY",
                 "lastName": "Caminero",
-                "lastNewsDate": 1792508943000,
+                "lastNewsDate": 1793162877000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
