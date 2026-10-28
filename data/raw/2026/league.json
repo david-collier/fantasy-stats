@@ -66608,7 +66608,7 @@
                   },
                   "id": 4905921,
                   "injured": false,
-                  "injuryStatus": "DAY_TO_DAY",
+                  "injuryStatus": "ACTIVE",
                   "lastName": "Caminero",
                   "lastNewsDate": 1793193440000,
                   "proTeamId": 30,
@@ -70063,7 +70063,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rasmussen",
-                  "lastNewsDate": 1792938028000,
+                  "lastNewsDate": 1793215169000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -163052,7 +163052,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Rasmussen",
-                "lastNewsDate": 1792938028000,
+                "lastNewsDate": 1793215169000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -250161,7 +250161,7 @@
                 },
                 "id": 4905921,
                 "injured": false,
-                "injuryStatus": "DAY_TO_DAY",
+                "injuryStatus": "ACTIVE",
                 "lastName": "Caminero",
                 "lastNewsDate": 1793193440000,
                 "ownership": {
