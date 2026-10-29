@@ -54025,7 +54025,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Munoz",
-                  "lastNewsDate": 1790384104000,
+                  "lastNewsDate": 1793301000000,
                   "proTeamId": 12,
                   "stats": [
                     {
@@ -54124,7 +54124,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "King",
-                  "lastNewsDate": 1791352100000,
+                  "lastNewsDate": 1793281657000,
                   "proTeamId": 25,
                   "stats": [
                     {
@@ -75065,7 +75065,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Holmes",
-                  "lastNewsDate": 1790430580000,
+                  "lastNewsDate": 1793282781000,
                   "proTeamId": 16,
                   "stats": [
                     {
@@ -80699,7 +80699,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Boyd",
-                  "lastNewsDate": 1790791641000,
+                  "lastNewsDate": 1793283077000,
                   "proTeamId": 16,
                   "stats": [
                     {
@@ -81886,8 +81886,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Miller",
-                  "lastNewsDate": 1790402982000,
-                  "proTeamId": 12,
+                  "lastNewsDate": 1793301342000,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -81944,7 +81944,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -82892,7 +82892,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Arenado",
-                  "lastNewsDate": 1790401600000,
+                  "lastNewsDate": 1793283806000,
                   "proTeamId": 29,
                   "stats": [
                     {
@@ -109204,7 +109204,7 @@
                 },
                 "id": 39635,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Greene",
                 "lastNewsDate": 1786636563000,
                 "ownership": {
@@ -131898,7 +131898,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "King",
-                "lastNewsDate": 1791352100000,
+                "lastNewsDate": 1793281657000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -135600,7 +135600,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Munoz",
-                "lastNewsDate": 1790384104000,
+                "lastNewsDate": 1793301000000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -178524,7 +178524,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Boyd",
-                "lastNewsDate": 1790791641000,
+                "lastNewsDate": 1793283077000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -179610,7 +179610,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Arenado",
-                "lastNewsDate": 1790401600000,
+                "lastNewsDate": 1793283806000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -182447,7 +182447,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Miller",
-                "lastNewsDate": 1790402982000,
+                "lastNewsDate": 1793301342000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -182541,7 +182541,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 12,
+                "proTeamId": 0,
                 "seasonOutlook": "Coming off what was a top-10 fantasy starter's 2024, Miller's follow-up campaign was effectively ruined by bone spurs in his elbow, the ailment sending him to the IL twice and nearly doubling his ERA. Though his fastball velocity and whiff rate on his splitter improved over the season's final six weeks, his ERA over that time was nevertheless 5.62 and he couldn't find consistency at any point all year. Miller did avoid offseason surgery, but only spring training can demonstrate whether the winter's rest has helped him. He still has that ace-caliber stuff when healthy, so a strong spring would make him a potentially profitable late-round pick.",
                 "starterStatusByProGame": {
                   "401815331": "PROBABLE",
@@ -182949,7 +182949,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -194805,7 +194805,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Holmes",
-                "lastNewsDate": 1790430580000,
+                "lastNewsDate": 1793282781000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
