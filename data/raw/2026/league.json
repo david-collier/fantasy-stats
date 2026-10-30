@@ -51412,10 +51412,10 @@
                   },
                   "id": 39875,
                   "injured": true,
-                  "injuryStatus": "SIXTY_DAY_DL",
+                  "injuryStatus": "OUT",
                   "lastName": "Quantrill",
                   "lastNewsDate": 1790118945000,
-                  "proTeamId": 13,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -51472,7 +51472,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "FREEAGENT",
@@ -53030,7 +53030,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Mahle",
                   "lastNewsDate": 1791430797000,
-                  "proTeamId": 15,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -53087,7 +53087,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -55165,7 +55165,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Fedde",
                   "lastNewsDate": 1791492982000,
-                  "proTeamId": 4,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -55222,7 +55222,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "FREEAGENT",
@@ -58367,7 +58367,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Vesia",
                   "lastNewsDate": 1787247025000,
-                  "proTeamId": 19,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -58424,7 +58424,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -61132,7 +61132,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bednar",
                   "lastNewsDate": 1790183951000,
-                  "proTeamId": 10,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -61190,7 +61190,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -62569,7 +62569,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Springer",
                   "lastNewsDate": 1790437206000,
-                  "proTeamId": 14,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -62624,7 +62624,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -62666,7 +62666,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Sandoval",
                   "lastNewsDate": 1790776339000,
-                  "proTeamId": 2,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -62723,7 +62723,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "FREEAGENT",
@@ -62769,7 +62769,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bohm",
                   "lastNewsDate": 1790804975000,
-                  "proTeamId": 22,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -62824,7 +62824,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -62865,7 +62865,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Iglesias",
                   "lastNewsDate": 1789870913000,
-                  "proTeamId": 15,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -62923,7 +62923,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -63070,7 +63070,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Arraez",
                   "lastNewsDate": 1790618395000,
-                  "proTeamId": 22,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -63126,7 +63126,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -63469,7 +63469,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Lowe",
                   "lastNewsDate": 1790529630000,
-                  "proTeamId": 23,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -63524,7 +63524,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -67209,7 +67209,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Morejon",
                   "lastNewsDate": 1791378637000,
-                  "proTeamId": 25,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -67267,7 +67267,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -67515,7 +67515,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Chisholm Jr.",
                   "lastNewsDate": 1791403587000,
-                  "proTeamId": 10,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -67570,7 +67570,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -67909,7 +67909,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Martinez",
-                  "lastNewsDate": 1792817421000,
+                  "lastNewsDate": 1793366657000,
                   "proTeamId": 30,
                   "stats": [
                     {
@@ -68763,7 +68763,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Imanaga",
                   "lastNewsDate": 1790135660000,
-                  "proTeamId": 16,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -68820,7 +68820,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -70365,7 +70365,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bassitt",
                   "lastNewsDate": 1790261173000,
-                  "proTeamId": 1,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -70422,7 +70422,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -73368,7 +73368,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Suzuki",
                   "lastNewsDate": 1790289671000,
-                  "proTeamId": 16,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -73423,7 +73423,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -73667,7 +73667,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Skubal",
                   "lastNewsDate": 1791589148000,
-                  "proTeamId": 19,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -73724,7 +73724,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -74071,7 +74071,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ray",
                   "lastNewsDate": 1790973317000,
-                  "proTeamId": 25,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -74128,7 +74128,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -74271,7 +74271,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Mize",
                   "lastNewsDate": 1790459218000,
-                  "proTeamId": 25,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -74328,7 +74328,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -74867,7 +74867,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rogers",
                   "lastNewsDate": 1790382966000,
-                  "proTeamId": 1,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -74924,7 +74924,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -76119,7 +76119,7 @@
                   "injuryStatus": "OUT",
                   "lastName": "Varsho",
                   "lastNewsDate": 1790795990000,
-                  "proTeamId": 18,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -76174,7 +76174,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -76224,7 +76224,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bauers",
                   "lastNewsDate": 1792127838000,
-                  "proTeamId": 8,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -76280,7 +76280,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -76422,7 +76422,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Arozarena",
                   "lastNewsDate": 1790490376000,
-                  "proTeamId": 12,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -76477,7 +76477,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -76720,7 +76720,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Torres",
                   "lastNewsDate": 1790432830000,
-                  "proTeamId": 6,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -76775,7 +76775,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -77012,7 +77012,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Peralta",
                   "lastNewsDate": 1793074881000,
-                  "proTeamId": 30,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -77069,7 +77069,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -78958,7 +78958,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Griffin",
                   "lastNewsDate": 1792334342000,
-                  "proTeamId": 5,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -79015,7 +79015,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -79357,7 +79357,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Goldschmidt",
                   "lastNewsDate": 1791471511000,
-                  "proTeamId": 10,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -79413,7 +79413,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -79850,7 +79850,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Perez",
                   "lastNewsDate": 1790961254000,
-                  "proTeamId": 15,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -79907,7 +79907,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -80801,7 +80801,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Happ",
                   "lastNewsDate": 1790347855000,
-                  "proTeamId": 16,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -80856,7 +80856,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -84331,7 +84331,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Alcantara",
-                  "lastNewsDate": 1790561032000,
+                  "lastNewsDate": 1793370602000,
                   "proTeamId": 28,
                   "stats": [
                     {
@@ -86544,7 +86544,7 @@
                   "percentStarted": 84.85
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 10,
+                "proTeamId": 0,
                 "seasonOutlook": "Bednar's overall 2025 numbers were so good that you almost forget he was sent to Triple-A early in the season because he got off to such an awful start. Bednar had a rough spring and then blew two of his first three save chances opening weekend with some bad command and worse batted-ball luck which led Pittsburgh to send him to Indianapolis for some fine-tuning. Bednar returned three weeks later and was utterly dominant as a closer, winning six games and saving 26 more while striking out 83 batters and limited opposing hitters to a .183 average in his time between the Pirates and Yankees. Whereas he was a fringe top closer option heading into 2025, he is now a firm first-closer option in 2026 with the Yankees fully confident in Bednar's abilities as evidenced by them letting Devin Williams and Luke Weaver depart in free agency.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -86947,7 +86947,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -104852,7 +104852,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 8,
+                "proTeamId": 0,
                 "seasonOutlook": "Despite Woodruff recently missing the better part of two years and ending 2025 back on the injured list with a lat strain, Milwaukee extended him the qualifying offer for 2026, which speaks to just how well he pitched when available last season. After his recovery from 2023 shoulder surgery was set back several times, Woodruff finally returned with five quality starts in his first six outings before enduring a couple hiccups in August. His xBA and xERA were both among the very best in baseball in his limited sample of 64.2 big-league innings last season. The right-hander has always gotten whiffs and the Brewers have proven they know what they're doing in regards to pitching. Chasing a full season's worth of starts would be a fool's errand, but the team clearly has high hopes for Woodruff in regards to both performance and workload.",
                 "starterStatusByProGame": {
                   "401814759": "PROBABLE",
@@ -105246,7 +105246,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -106384,7 +106384,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Alcantara",
-                "lastNewsDate": 1790561032000,
+                "lastNewsDate": 1793370602000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -136222,7 +136222,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 15,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814734": "PROBABLE",
                   "401814795": "PROBABLE",
@@ -136636,7 +136636,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -154599,7 +154599,7 @@
                   "percentStarted": 7.68
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 19,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -155043,7 +155043,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -158320,7 +158320,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 16,
+                "proTeamId": 0,
                 "seasonOutlook": "Imanaga is back with the Cubs for 2026 despite the team declining his three-year club option, since the club still tagged him with the qualifying offer, which ultimately led to the pitcher accepting it to re-prove his market viability next offseason. Imanaga had a hamstring injury in early May which kept him off the mound for six weeks. He made 20 starts before September and recorded eight wins with a 3.08 ERA, and 0.93 WHIP. However, his final five starts in September included a 6.51 ERA with velocity decline and 10 homers allowed in just 27.1 innings of work. Despite the decent overall numbers, his strikeout numbers dropped significantly to 7.3 K/9. The motivation is there for a great 2026, but are the skills?",
                 "starterStatusByProGame": {
                   "401814732": "PROBABLE",
@@ -158787,7 +158787,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -172528,7 +172528,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 1,
+                "proTeamId": 0,
                 "seasonOutlook": "Bassitt keeps on keeping on as one of the game's more durable innings-eaters, totaling the 17th-most fantasy points among starting pitchers over the past four seasons, despite a No. 39 <i>average</i> annual finish in that department during that same time span. That's the benefit of locked-in, 30-start types in points leagues, especially those who possess Bassitt's combination of above-average control and ability to suppress fly balls and hard contact. He's an ideal guy to draft late and stream, especially against weaker teams, as he has an ERA nearly a run lower in his career against losing (3.19) than .500-plus (4.11) teams.",
                 "starterStatusByProGame": {
                   "401814739": "PROBABLE",
@@ -172932,7 +172932,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -173681,7 +173681,7 @@
                   "percentStarted": 57.21
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 16,
+                "proTeamId": 0,
                 "seasonOutlook": "Happ is entering the final year of his most recent contract, which is something to keep in mind for those who like factors such as contract years when targeting players. Happ has been a consistent on-base machine in recent seasons, but his batting average is now league average as the rest of the league has come down to his level. The switch hitter is at his best when facing righties as most of his homers come from the left side, but he has held his own hitting from the right side of the plate as well in recent years. His on-base abilities lock him in somewhere near the top of the Chicago lineup for 2026, but it will be a different batting order without the presence of Kyle Tucker, and the club's apparent reticence to spend big to replace him. Happ has been a 20/80/80/.240 producer for three straight years and expect a fourth.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -174112,7 +174112,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -177528,7 +177528,7 @@
                   "percentStarted": 7.43
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 10,
+                "proTeamId": 0,
                 "seasonOutlook": "Grisham had an improbable 2025 season which saw him double his previous career high of 17 home runs, hitting 34 for the Yankees in his final year before free agency. He was one of the early advocates for the torpedo bat style, but that alone did not fuel this breakout power season as much as Grisham's overall deliberate approach to hitting. He is very patient at the plate and went hunting for fastballs early in counts, and often found them with 21 of his 34 homers coming from fastballs. Before you give Yankee Stadium's short porch too much credit, understand Grisham's home OPS was 200 points lower than it was on the road and he hit just 13 of his 34 home runs at Yankee Stadium last season. Grisham took the qualifying offer to firm up his free agency vitae with the thought Yankee Stadium cannot possibly punish him two consecutive seasons.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -177912,7 +177912,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -188134,7 +188134,7 @@
                   "percentStarted": 72.53
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 16,
+                "proTeamId": 0,
                 "seasonOutlook": "The Cubs entered the season with an organizational focus on pulling more flyballs, and Suzuki set the tone by increasing his pull rate while maintaining an above-average flyball rate. The approach yielded new career highs with the Cubs in ISO and home runs. That power jump came with a 38-point drop in batting average, though his xBA was only three points lower than the prior season. His strikeout rate ticked down slightly but remained well above league average. Most notably, Suzuki appeared in 151 games, marking his first season since coming over in which he avoided the IL entirely. Often, a year after a major adjustment is used to recalibrate, but Suzuki would be best served sticking with the same approach and hoping his batting average moves closer to his expected mark.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -188523,7 +188523,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -188733,7 +188733,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 25,
+                "proTeamId": 0,
                 "seasonOutlook": "Mize hit the injured list in May with a hamstring strain but still made his first All-Star team in 2025, going 9-3 with a 3.15 ERA and 1.22 WHIP over 88.2 innings with Detroit in the first half. He slumped to a 4.92 ERA and 1.34 WHIP after the break, mirroring the team's collective slide. The right-hander shaved his walk rate to just 5.7 percent while upping his strikeout rate to a career-high 22.2 percent last season, though he got touched up with the long ball on occasion, with the splitter in particular yielding a surprising number of homers. After being drafted No. 1 overall in 2018, Mize underwent Tommy John surgery in 2022, missing the entire 2023 season as a result. No ace but from a bust, Mize has re-emerged in recent years as a capable mid-rotation arm for the Tigers.",
                 "starterStatusByProGame": {
                   "401814761": "PROBABLE",
@@ -189147,7 +189147,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -189852,7 +189852,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 25,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814721": "PROBABLE",
                   "401814782": "PROBABLE",
@@ -190271,7 +190271,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -190995,7 +190995,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 19,
+                "proTeamId": 0,
                 "seasonOutlook": "Don't let the persistent trade rumors swirling around him dissuade you that Skubal is as good a choice to lead your fantasy pitching staff as anyone. He's coming off back-to-back Cy Youngs, and has made consistent, notable improvements in almost every statistical category across his six MLB seasons. Skubal set personal bests in ERA, WHIP, walk rate, K/BB rate, whiff rate and rate of hard contact allowed in 2025. Since July 1, 2023, he has a 2.37 ERA and MLB-leading totals in both wins (38) and strikeouts (571). He's also entering his contract year -- the very reason for said trade rumors -- which, while hardly a guarantee as a motivating factor, assures he'll play 2026 at full bore, and with a team that will provide him the necessary support to again thrive.",
                 "starterStatusByProGame": {
                   "401814701": "PROBABLE",
@@ -191409,7 +191409,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -197750,7 +197750,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 1,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814692": "PROBABLE",
                   "401814768": "PROBABLE",
@@ -198164,7 +198164,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -207072,7 +207072,7 @@
                   "percentStarted": 32.84
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 6,
+                "proTeamId": 0,
                 "seasonOutlook": "Torres enjoyed a resurgent campaign in his first season with Detroit, making his first All-Star team since 2019, though he regressed hard in the second half with a .659 OPS compared to an .812 OPS before the break. After the Tigers were eliminated from the postseason, Torres underwent sports hernia surgery. He was cleared for full activity in December. Despite the late slide, the Tigers extended him the qualifying offer for 2026, which Torres accepted. With that, the 29-year-old will return to second base and presumably to the top third of the order after batting almost exclusively first or second under manager A.J. Hinch last season. While Torres does not pack the power or speed to be especially exciting for fantasy purposes, he does enough to be worthwhile in most formats.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -207455,7 +207455,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -208045,7 +208045,7 @@
                   "percentStarted": 4.26
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 18,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -208427,7 +208427,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -212943,7 +212943,7 @@
                   "percentStarted": 90.01
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 12,
+                "proTeamId": 0,
                 "seasonOutlook": "The only player in history with at least 20 home runs and 20 stolen bases in each of his first five full MLB seasons, Arozarena joins Jose Ramirez as the only players at any point of their career to do that in each of the past five years. That provides Arozarena a strong, top-50 overall base for rotisserie fantasy play, even with his speed metrics declining slightly and this being his age-31 season. He'd need to continue improving his selectivity at the plate, however, to warrant consideration that soon in points leagues, where he's more of a mid-round selection in ESPN formats.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -213365,7 +213365,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -215961,7 +215961,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 30,
+                "proTeamId": 0,
                 "seasonOutlook": "After months of rumors, Peralta was traded from the Brewers to the Mets in January as he enters his final season before free agency. The right-hander put together a career year in 2025, leading the National League in wins with 17 to go along with a career-low 2.70 ERA across 33 starts for Milwaukee. Peralta has now reached the vaunted 30-start and 200-strikeout thresholds each of the last three years, cementing his status as a legitimate frontline starter in MLB, with three excellent secondary pitches making up for a mediocre fastball. It's entirely possible that 2025 will end up being the zenith of his career, as everything went right for him during the regular season. Regression should be built into the draft price, but the skills and track record at 29 years old make Peralta worthy of a significant investment.",
                 "starterStatusByProGame": {
                   "401814693": "PROBABLE",
@@ -216383,7 +216383,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -217009,7 +217009,7 @@
                   "percentStarted": 67.38
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 8,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -217432,7 +217432,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -218178,7 +218178,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 16,
+                "proTeamId": 0,
                 "seasonOutlook": "Two-pitch guys are supposed to be relievers and not starters, but Gausman never got that message as he continues to ride his heavy fastball-splitter approach to continued success as a major-league starter. Gausman's 2025 saw him work a career high in regular-season innings along with another 30 stressful postseason innings which might be a cause for concern heading into 2026 (see Zac Gallen from 2023 to 2024). Over the past five seasons, Gausman is one of just three pitchers with at least 1000 strikeouts and is tied for second in games started while also being second in innings pitched. Everything looks good for his skills, but workhorses eventually stop being workhorses, so proceed with a degree of caution.",
                 "starterStatusByProGame": {
                   "401814688": "PROBABLE",
@@ -218600,7 +218600,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -225869,7 +225869,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 5,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814740": "PROBABLE",
                   "401814814": "PROBABLE",
@@ -226202,7 +226202,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -227457,7 +227457,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 15,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814823": "PROBABLE",
                   "401814894": "PROBABLE",
@@ -227869,7 +227869,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -231434,7 +231434,7 @@
                   "percentStarted": 2.44
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 10,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -231815,7 +231815,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -232906,7 +232906,7 @@
                   "percentStarted": 49.77
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 14,
+                "proTeamId": 0,
                 "seasonOutlook": "Springer found the Fountain of Youth in 2025 with a .309 average, 32 homers and 18 steals across 140 regular-season games. He also tied for ninth in MLB in runs scored with 106 while often setting the table for a potent Blue Jays lineup. The incredible resurgence continued into October, with Springer posting an .899 OPS and four more homers during Toronto's run to the pennant. At 35 years old, Springer spent the majority of his time at designated hitter, though he still qualifies in the outfield. Prior to last season, Springer was in steady decline, bottoming out in 2024. However, in 2025 he looked nothing at all like a player on his last gasp in the major leagues. The DH tag should in theory help preserve his health in his late-30s.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -233322,7 +233322,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -233948,7 +233948,7 @@
                   "percentStarted": 68.07
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 23,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -234328,7 +234328,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -234421,7 +234421,7 @@
                   "percentStarted": 79.4
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 15,
+                "proTeamId": 0,
                 "seasonOutlook": "Iglesias finished one save shy of his third straight 30-save season, largely due to early-season struggles that led to a temporary demotion from the closer role in early June. He carried a 6.75 ERA and 1.54 WHIP on June 5 after blowing his fourth save. Following five scoreless outings spanning four innings, with two holds and a win, Iglesias reclaimed primary closing duties. He then posted a 1.37 ERA and 0.69 WHIP the rest of the way, converting 21 of 22 save chances. While ERA swings are often variance-driven, Iglesias leaned more heavily on his four-seamer in the second half while nearly shelving his slider, which helped address the home-run issues from earlier in the season. Atlanta signed the veteran to a one-year, $16 million deal, ostensibly to close, but the team also added last year's saves leader, Robert Suarez.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -234818,7 +234818,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -242042,7 +242042,7 @@
                   "percentStarted": 57.24
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 22,
+                "proTeamId": 0,
                 "seasonOutlook": "A throwback type thanks to his elite-contact, batting average-but-minimal-pop hitting style, Arraez was a relative disappointment in 2025. He fell 12 points short of what would’ve been a fourth consecutive National League batting title, and the Padres struggled to find defensive positions at which to slot him due to his deficiencies in that regard. Teams might’ve seen similar issues with Arraez when considering him as a free-agent target, though the Giants ultimately saw enough in him to make him their everyday second baseman and probable No. 2 hitter. He’ll remain an underrated points league pick in that role, perhaps even from within the top 100 tier, while stabilizing roto teams’ batting averages.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -242437,7 +242437,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -246331,7 +246331,7 @@
                   "percentStarted": 21.69
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 22,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -246756,7 +246756,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -252147,7 +252147,7 @@
                   "percentStarted": 48.59
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 10,
+                "proTeamId": 0,
                 "seasonOutlook": "Chisholm and Yankee Stadium represented the perfect marriage, as his first full season in pinstripes saw him pull a career-high 53.3% of batted balls and hit 33.2% in the air (his second-highest single year rate), resulting in his first 30/30 campaign. It did, however, cost him in batting average, as his .242 was his full-season worst, putting more emphasis on his need to steal bases to make up the difference for fantasy. Chisholm's declining speed metrics, and the groin issue that made him more conservative on the basepaths around midseason, raise slight concerns, but he's still one of the better early-round picks you'll find for rotisserie formats. Improving patience over the past two seasons also helps his points-league value, where he's worth a look, albeit one or two rounds later.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -252535,7 +252535,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -255764,7 +255764,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Martinez",
-                "lastNewsDate": 1792817421000,
+                "lastNewsDate": 1793366657000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -257891,7 +257891,7 @@
                   "percentStarted": 21.11
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 25,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -258290,7 +258290,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {

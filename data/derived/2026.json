@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-10-30T03:51:29.217Z",
+  "fetchedAt": "2026-10-30T17:40:02.633Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -25307,7 +25307,7 @@
       "id": 31027,
       "name": "Paul Goldschmidt",
       "positionId": 3,
-      "proTeamId": 10,
+      "proTeamId": 0,
       "eligibleSlots": [
         1,
         7,
@@ -25427,7 +25427,7 @@
       "id": 31098,
       "name": "Martin Perez",
       "positionId": 1,
-      "proTeamId": 15,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -25780,7 +25780,7 @@
       "id": 32078,
       "name": "George Springer",
       "positionId": 10,
-      "proTeamId": 14,
+      "proTeamId": 0,
       "eligibleSlots": [
         10,
         5,
@@ -26072,7 +26072,7 @@
       "id": 32175,
       "name": "Robbie Ray",
       "positionId": 1,
-      "proTeamId": 25,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -26367,7 +26367,7 @@
       "id": 32667,
       "name": "Kevin Gausman",
       "positionId": 1,
-      "proTeamId": 16,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -27012,7 +27012,7 @@
       "id": 33148,
       "name": "Chris Bassitt",
       "positionId": 1,
-      "proTeamId": 1,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -27542,7 +27542,7 @@
       "id": 33618,
       "name": "Raisel Iglesias",
       "positionId": 11,
-      "proTeamId": 15,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         15,
@@ -28009,7 +28009,7 @@
       "id": 33773,
       "name": "Foster Griffin",
       "positionId": 1,
-      "proTeamId": 5,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -28126,7 +28126,7 @@
       "id": 33804,
       "name": "Gleyber Torres",
       "positionId": 4,
-      "proTeamId": 6,
+      "proTeamId": 0,
       "eligibleSlots": [
         2,
         6,
@@ -28729,7 +28729,7 @@
       "id": 34945,
       "name": "Ian Happ",
       "positionId": 7,
-      "proTeamId": 16,
+      "proTeamId": 0,
       "eligibleSlots": [
         8,
         5,
@@ -28845,7 +28845,7 @@
       "id": 34973,
       "name": "Tyler Mahle",
       "positionId": 1,
-      "proTeamId": 15,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -28961,7 +28961,7 @@
       "id": 34995,
       "name": "Trent Grisham",
       "positionId": 8,
-      "proTeamId": 10,
+      "proTeamId": 0,
       "eligibleSlots": [
         9,
         5,
@@ -29079,7 +29079,7 @@
       "id": 35013,
       "name": "Jake Bauers",
       "positionId": 3,
-      "proTeamId": 8,
+      "proTeamId": 0,
       "eligibleSlots": [
         1,
         7,
@@ -29736,7 +29736,7 @@
       "id": 36488,
       "name": "Randy Arozarena",
       "positionId": 7,
-      "proTeamId": 12,
+      "proTeamId": 0,
       "eligibleSlots": [
         8,
         5,
@@ -29914,7 +29914,7 @@
       "id": 37515,
       "name": "Brandon Woodruff",
       "positionId": 1,
-      "proTeamId": 8,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -30091,7 +30091,7 @@
       "id": 38303,
       "name": "David Bednar",
       "positionId": 11,
-      "proTeamId": 10,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         15,
@@ -30328,7 +30328,7 @@
       "id": 39572,
       "name": "Luis Arraez",
       "positionId": 3,
-      "proTeamId": 22,
+      "proTeamId": 0,
       "eligibleSlots": [
         1,
         7,
@@ -30564,7 +30564,7 @@
       "id": 39640,
       "name": "Trevor Rogers",
       "positionId": 1,
-      "proTeamId": 1,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -30855,7 +30855,7 @@
       "id": 39825,
       "name": "Freddy Peralta",
       "positionId": 1,
-      "proTeamId": 30,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -31306,7 +31306,7 @@
       "id": 39961,
       "name": "Brandon Lowe",
       "positionId": 4,
-      "proTeamId": 23,
+      "proTeamId": 0,
       "eligibleSlots": [
         2,
         6,
@@ -31784,7 +31784,7 @@
       "id": 40917,
       "name": "Adrian Morejon",
       "positionId": 11,
-      "proTeamId": 25,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         15,
@@ -31961,7 +31961,7 @@
       "id": 40963,
       "name": "Daulton Varsho",
       "positionId": 8,
-      "proTeamId": 18,
+      "proTeamId": 0,
       "eligibleSlots": [
         9,
         5,
@@ -32252,7 +32252,7 @@
       "id": 41167,
       "name": "Casey Mize",
       "positionId": 1,
-      "proTeamId": 25,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -32310,7 +32310,7 @@
       "id": 41169,
       "name": "Alec Bohm",
       "positionId": 5,
-      "proTeamId": 22,
+      "proTeamId": 0,
       "eligibleSlots": [
         3,
         7,
@@ -33323,7 +33323,7 @@
       "id": 41433,
       "name": "Jazz Chisholm Jr.",
       "positionId": 4,
-      "proTeamId": 10,
+      "proTeamId": 0,
       "eligibleSlots": [
         2,
         3,
@@ -34385,7 +34385,7 @@
       "id": 42409,
       "name": "Tarik Skubal",
       "positionId": 1,
-      "proTeamId": 19,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -35451,7 +35451,7 @@
       "id": 42622,
       "name": "Alex Vesia",
       "positionId": 11,
-      "proTeamId": 19,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         15,
@@ -35987,7 +35987,7 @@
       "id": 4142424,
       "name": "Seiya Suzuki",
       "positionId": 10,
-      "proTeamId": 16,
+      "proTeamId": 0,
       "eligibleSlots": [
         10,
         5,
@@ -43164,7 +43164,7 @@
       "id": 5134630,
       "name": "Shota Imanaga",
       "positionId": 1,
-      "proTeamId": 16,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
