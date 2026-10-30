@@ -56471,7 +56471,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "May",
-                  "lastNewsDate": 1793130885000,
+                  "lastNewsDate": 1793316612000,
                   "proTeamId": 8,
                   "stats": [
                     {
@@ -63567,7 +63567,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Acuna Jr.",
-                  "lastNewsDate": 1791401100000,
+                  "lastNewsDate": 1793313901000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -67413,7 +67413,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Albies",
-                  "lastNewsDate": 1789047357000,
+                  "lastNewsDate": 1793313106000,
                   "proTeamId": 15,
                   "stats": [
                     {
@@ -72321,7 +72321,7 @@
                   "injured": true,
                   "injuryStatus": "OUT",
                   "lastName": "Durbin",
-                  "lastNewsDate": 1791731563000,
+                  "lastNewsDate": 1793311699000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -77314,7 +77314,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bichette",
-                  "lastNewsDate": 1790395027000,
+                  "lastNewsDate": 1793314988000,
                   "proTeamId": 21,
                   "stats": [
                     {
@@ -121778,7 +121778,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Durbin",
-                "lastNewsDate": 1791731563000,
+                "lastNewsDate": 1793311699000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -127736,7 +127736,7 @@
                 },
                 "id": 4307825,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Strider",
                 "lastNewsDate": 1791744911000,
                 "ownership": {
@@ -212410,7 +212410,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bichette",
-                "lastNewsDate": 1790395027000,
+                "lastNewsDate": 1793314988000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -236642,7 +236642,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Acuna Jr.",
-                "lastNewsDate": 1791401100000,
+                "lastNewsDate": 1793313901000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -249301,7 +249301,7 @@
                 "fullName": "Spencer Schwellenbach",
                 "id": 4424862,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Schwellenbach",
                 "lastNewsDate": 1791747401000,
                 "ownership": {
@@ -260464,7 +260464,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Albies",
-                "lastNewsDate": 1789047357000,
+                "lastNewsDate": 1793313106000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
