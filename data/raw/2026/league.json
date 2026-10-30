@@ -55774,7 +55774,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Gray",
-                  "lastNewsDate": 1791840360000,
+                  "lastNewsDate": 1793381266000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -74171,10 +74171,10 @@
                     "12": 7
                   },
                   "id": 5124097,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Arroyo",
-                  "lastNewsDate": 1790490900000,
+                  "lastNewsDate": 1793387363000,
                   "proTeamId": 12,
                   "stats": [
                     {
@@ -74473,7 +74473,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ryan",
-                  "lastNewsDate": 1790430739000,
+                  "lastNewsDate": 1793383829000,
                   "proTeamId": 9,
                   "stats": [
                     {
@@ -83732,7 +83732,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Springs",
-                  "lastNewsDate": 1790228874000,
+                  "lastNewsDate": 1793386626000,
                   "proTeamId": 11,
                   "stats": [
                     {
@@ -104182,7 +104182,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Springs",
-                "lastNewsDate": 1790228874000,
+                "lastNewsDate": 1793386626000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -194189,7 +194189,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Ryan",
-                "lastNewsDate": 1790430739000,
+                "lastNewsDate": 1793383829000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -200629,10 +200629,10 @@
                   "12": 7
                 },
                 "id": 5124097,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Arroyo",
-                "lastNewsDate": 1790490900000,
+                "lastNewsDate": 1793387363000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -202092,7 +202092,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Gray",
-                "lastNewsDate": 1791840360000,
+                "lastNewsDate": 1793381266000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
