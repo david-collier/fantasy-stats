@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-10-30T21:50:53.615Z",
+  "fetchedAt": "2026-10-31T03:35:22.623Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -25897,7 +25897,7 @@
       "id": 32082,
       "name": "Sonny Gray",
       "positionId": 1,
-      "proTeamId": 2,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -28482,7 +28482,7 @@
       "id": 34401,
       "name": "Matthew Boyd",
       "positionId": 1,
-      "proTeamId": 16,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -31425,7 +31425,7 @@
       "id": 40429,
       "name": "Michael King",
       "positionId": 1,
-      "proTeamId": 25,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,

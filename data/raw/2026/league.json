@@ -54125,7 +54125,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "King",
                   "lastNewsDate": 1793281657000,
-                  "proTeamId": 25,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -54182,7 +54182,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -55775,7 +55775,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Gray",
                   "lastNewsDate": 1793381266000,
-                  "proTeamId": 2,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -55832,7 +55832,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -56472,7 +56472,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "May",
                   "lastNewsDate": 1793316612000,
-                  "proTeamId": 8,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -56529,7 +56529,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "FREEAGENT",
@@ -80700,7 +80700,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Boyd",
                   "lastNewsDate": 1793283077000,
-                  "proTeamId": 16,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -80757,7 +80757,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -132036,7 +132036,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 25,
+                "proTeamId": 0,
                 "seasonOutlook": "Injuries derailed King's 2025, from the shoulder inflammation that cost him nine weeks around midseason, to the left knee inflammation that cost him one month just one start into his return from the former ailment. His raw stuff suffered accordingly (and predictably), though the winter's rest and a strong Cactus League showing could restore his potential as one of the position's top 20. When at his best, King has four offerings that generate at least a 25% whiff rate (four-seamer, changeup, sweeper and slider), and he's one of the better pitchers at suppressing hard contact. Let his March drive your draft decision, but he's at least a worthwhile risk/reward middle rounder.",
                 "starterStatusByProGame": {
                   "401814706": "PROBABLE",
@@ -132457,7 +132457,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -178622,7 +178622,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 16,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814698": "PROBABLE",
                   "401814770": "PROBABLE",
@@ -179033,7 +179033,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -202218,7 +202218,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 2,
+                "proTeamId": 0,
                 "seasonOutlook": "Gray and Lady Luck have been at odds for the last two years. In 2024, his ERA was pegged about a run too high by xFIP, and last season, his 4.28 ERA was deemed roughly a run higher than its estimators. His BABIP and HR/FB rate were elevated, while his LOB percentage was suppressed. Gray eclipsed 180 frames for the second straight season, which he had last accomplished in 2015. For the second consecutive season, his velocity slipped, but he waived his no-trade clause to join the Red Sox, who specialize in teaching pitchers to work off breaking balls and offspeed stuff, and Gray can throw multiple types. Gray's home runs have crept up over the past two seasons, and the Green Monster has a habit of turning routine flyballs into doubles, so Gray may need to get back in favor with Lady Luck. Father Time looms, but for now, Gray remains dependable.",
                 "starterStatusByProGame": {
                   "401814708": "PROBABLE",
@@ -202637,7 +202637,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -228577,7 +228577,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Soroka",
-                "lastNewsDate": 1790562576000,
+                "lastNewsDate": 1793406415000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
