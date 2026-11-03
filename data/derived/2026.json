@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-02T03:46:07.414Z",
+  "fetchedAt": "2026-11-03T00:17:00.798Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -24949,7 +24949,7 @@
       "id": 29630,
       "name": "Kenley Jansen",
       "positionId": 11,
-      "proTeamId": 6,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         15,

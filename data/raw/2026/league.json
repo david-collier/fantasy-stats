@@ -54520,7 +54520,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Jansen",
                   "lastNewsDate": 1790432777000,
-                  "proTeamId": 6,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -54578,7 +54578,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -63468,7 +63468,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Lowe",
-                  "lastNewsDate": 1790529630000,
+                  "lastNewsDate": 1793652155000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -72421,7 +72421,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Contreras",
-                  "lastNewsDate": 1793246339000,
+                  "lastNewsDate": 1793662957000,
                   "proTeamId": 8,
                   "stats": [
                     {
@@ -76223,7 +76223,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bauers",
-                  "lastNewsDate": 1792127838000,
+                  "lastNewsDate": 1793661920000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -102723,7 +102723,7 @@
                 },
                 "id": 42714,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Carpenter",
                 "lastNewsDate": 1790436727000,
                 "ownership": {
@@ -117558,7 +117558,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Contreras",
-                "lastNewsDate": 1793246339000,
+                "lastNewsDate": 1793662957000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -140769,7 +140769,7 @@
                   "percentStarted": 40.39
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 6,
+                "proTeamId": 0,
                 "seasonOutlook": "The active career leader in saves (476), Jansen's skills gradually eroded as he progressed through his mid-30s, but the Tigers see enough potential in him at age 38 that they signed him as their presumptive closer. He has saved at least 25 games in each of the past 13 uninterrupted MLB seasons, but 2025 saw him register career worsts in strikeout rate (24.4%), Statcast expected ERA (3.74) and hard-hit rate allowed (44.6%). Jansen is a role-driven, middle-of-your-staff type for fantasy purposes, the promise of save chances in Detroit buoying his value -- so long as he pitches effectively enough to keep the job.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -141169,7 +141169,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -209141,7 +209141,7 @@
                 },
                 "id": 32525,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Polanco",
                 "lastNewsDate": 1787943971000,
                 "ownership": {
@@ -217000,7 +217000,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bauers",
-                "lastNewsDate": 1792127838000,
+                "lastNewsDate": 1793661920000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -233939,7 +233939,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Lowe",
-                "lastNewsDate": 1790529630000,
+                "lastNewsDate": 1793652155000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
