@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-03T00:17:00.798Z",
+  "fetchedAt": "2026-11-03T13:24:24.289Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -27305,7 +27305,7 @@
       "id": 33372,
       "name": "Nick Martinez",
       "positionId": 1,
-      "proTeamId": 30,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -29441,7 +29441,7 @@
       "id": 35397,
       "name": "Jeffrey Springs",
       "positionId": 1,
-      "proTeamId": 11,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -29619,7 +29619,7 @@
       "id": 36071,
       "name": "Nick Pivetta",
       "positionId": 1,
-      "proTeamId": 25,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,

@@ -54519,7 +54519,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Jansen",
-                  "lastNewsDate": 1790432777000,
+                  "lastNewsDate": 1793663659000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -61131,7 +61131,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bednar",
-                  "lastNewsDate": 1790183951000,
+                  "lastNewsDate": 1793667528000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -67208,7 +67208,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Morejon",
-                  "lastNewsDate": 1791378637000,
+                  "lastNewsDate": 1793662263000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -67910,7 +67910,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Martinez",
                   "lastNewsDate": 1793366657000,
-                  "proTeamId": 30,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -67967,7 +67967,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -73367,7 +73367,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Suzuki",
-                  "lastNewsDate": 1790289671000,
+                  "lastNewsDate": 1793662535000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -74866,7 +74866,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rogers",
-                  "lastNewsDate": 1790382966000,
+                  "lastNewsDate": 1793667824000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -76421,7 +76421,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Arozarena",
-                  "lastNewsDate": 1790490376000,
+                  "lastNewsDate": 1793668966000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -78753,7 +78753,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Pivetta",
                   "lastNewsDate": 1793494004000,
-                  "proTeamId": 25,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -78810,7 +78810,7 @@
                       }
                     }
                   ],
-                  "universeId": 2
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -83733,7 +83733,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Springs",
                   "lastNewsDate": 1793386626000,
-                  "proTeamId": 11,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -83790,7 +83790,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -85236,7 +85236,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Paredes",
-                  "lastNewsDate": 1790799564000,
+                  "lastNewsDate": 1793668360000,
                   "proTeamId": 18,
                   "stats": [
                     {
@@ -86535,7 +86535,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bednar",
-                "lastNewsDate": 1790183951000,
+                "lastNewsDate": 1793667528000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -97500,7 +97500,7 @@
                 },
                 "id": 4414002,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Ginn",
                 "lastNewsDate": 1790112864000,
                 "ownership": {
@@ -101639,7 +101639,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Paredes",
-                "lastNewsDate": 1790799564000,
+                "lastNewsDate": 1793668360000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -102725,7 +102725,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Carpenter",
-                "lastNewsDate": 1790436727000,
+                "lastNewsDate": 1793664439000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -104308,7 +104308,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 11,
+                "proTeamId": 0,
                 "seasonOutlook": "After returning from Tommy John surgery in 2024, Springs was traded from the Rays to the A's last offseason. He went on to pitch a career-high 171 innings in 2025, reaching the 30-start threshold for the first time at 32 years old. The left-hander struggled early on last season, particularly in the first inning, leading the team to experiment with an opener in front of Springs a couple times. His performance improved after some adjustments, though his numbers started to slip again around the middle of August. Nevertheless, in the end, Springs led the A's in ERA, wins and strikeouts among other categories, making him the de facto ace of the pitching staff entering 2026. The swing-and-miss is way down at this stage of his career, but Springs will get a chance to build upon what he showed over the final three months with regular starts for an improving team.",
                 "starterStatusByProGame": {
                   "401814707": "PROBABLE",
@@ -104722,7 +104722,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -107079,7 +107079,7 @@
                 },
                 "id": 4311625,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Bradish",
                 "lastNewsDate": 1790616327000,
                 "ownership": {
@@ -109717,7 +109717,7 @@
                 },
                 "id": 33859,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Devers",
                 "lastNewsDate": 1789334633000,
                 "ownership": {
@@ -127277,7 +127277,7 @@
                 },
                 "id": 40926,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Rooker",
                 "lastNewsDate": 1789598219000,
                 "ownership": {
@@ -140760,7 +140760,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Jansen",
-                "lastNewsDate": 1790432777000,
+                "lastNewsDate": 1793663659000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -166047,7 +166047,7 @@
                 },
                 "id": 4719300,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Wilson",
                 "lastNewsDate": 1789160691000,
                 "ownership": {
@@ -183037,7 +183037,7 @@
                 },
                 "id": 4686066,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Soderstrom",
                 "lastNewsDate": 1787250285000,
                 "ownership": {
@@ -188125,7 +188125,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Suzuki",
-                "lastNewsDate": 1790289671000,
+                "lastNewsDate": 1793662535000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -197620,7 +197620,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Rogers",
-                "lastNewsDate": 1790382966000,
+                "lastNewsDate": 1793667824000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -212934,7 +212934,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Arozarena",
-                "lastNewsDate": 1790490376000,
+                "lastNewsDate": 1793668966000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -217520,7 +217520,7 @@
                 },
                 "id": 5149068,
                 "injured": true,
-                "injuryStatus": "SIXTY_DAY_DL",
+                "injuryStatus": "OUT",
                 "lastName": "Emerson",
                 "lastNewsDate": 1788207309000,
                 "ownership": {
@@ -220325,7 +220325,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 25,
+                "proTeamId": 0,
                 "seasonOutlook": "After eight mediocre seasons between Philadelphia and Boston, Pivetta broke out in his first year with San Diego in 2025, going 13-5 with a 2.87 ERA and 0.99 WHIP across a career-high 181.2 innings during the regular season. Not only had Pivetta never posted an ERA under 3.00 prior to last year, he hadn't posted a mark under 4.00. A flyball pitcher, Pivetta has often struggled with homers, but he cut his home-run rate way down and was especially stingy with the long ball at home in Petco Park. Although he hadn't enjoyed a high level of success prior to 2025, Pivetta often tantalized with his strikeout rates. The late bloomer will continue to take the ball every fifth day for the Padres, and expectations should be heightened but realistic.",
                 "starterStatusByProGame": {
                   "401814701": "PROBABLE",
@@ -220720,7 +220720,7 @@
                     }
                   }
                 ],
-                "universeId": 2
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -255898,7 +255898,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 30,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814745": "PROBABLE",
                   "401814820": "PROBABLE",
@@ -256363,7 +256363,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -257882,7 +257882,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Morejon",
-                "lastNewsDate": 1791378637000,
+                "lastNewsDate": 1793662263000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
