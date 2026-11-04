@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-03T22:45:07.781Z",
+  "fetchedAt": "2026-11-04T23:03:30.315Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -37915,7 +37915,7 @@
       "id": 4654313,
       "name": "Bryce Miller",
       "positionId": 1,
-      "proTeamId": 0,
+      "proTeamId": 12,
       "eligibleSlots": [
         13,
         14,

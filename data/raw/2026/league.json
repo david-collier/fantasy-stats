@@ -81887,7 +81887,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Miller",
                   "lastNewsDate": 1793301342000,
-                  "proTeamId": 0,
+                  "proTeamId": 12,
                   "stats": [
                     {
                       "id": "05null",
@@ -81944,7 +81944,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -182541,7 +182541,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 0,
+                "proTeamId": 12,
                 "seasonOutlook": "Coming off what was a top-10 fantasy starter's 2024, Miller's follow-up campaign was effectively ruined by bone spurs in his elbow, the ailment sending him to the IL twice and nearly doubling his ERA. Though his fastball velocity and whiff rate on his splitter improved over the season's final six weeks, his ERA over that time was nevertheless 5.62 and he couldn't find consistency at any point all year. Miller did avoid offseason surgery, but only spring training can demonstrate whether the winter's rest has helped him. He still has that ace-caliber stuff when healthy, so a strong spring would make him a potentially profitable late-round pick.",
                 "starterStatusByProGame": {
                   "401815331": "PROBABLE",
@@ -182949,7 +182949,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 1
               },
               "ratings": {
                 "0": {
