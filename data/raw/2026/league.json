@@ -83632,10 +83632,10 @@
                     "10": 4
                   },
                   "id": 42404,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Carroll",
-                  "lastNewsDate": 1790257609000,
+                  "lastNewsDate": 1794005435000,
                   "proTeamId": 29,
                   "stats": [
                     {
@@ -108193,10 +108193,10 @@
                   "10": 4
                 },
                 "id": 42404,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Carroll",
-                "lastNewsDate": 1790257609000,
+                "lastNewsDate": 1794005435000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
