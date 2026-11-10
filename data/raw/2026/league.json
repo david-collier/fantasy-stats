@@ -62560,8 +62560,7 @@
                   "firstName": "George",
                   "fullName": "George Springer",
                   "gamesPlayedByPosition": {
-                    "7": 2,
-                    "10": 118,
+                    "10": 115,
                     "12": 9
                   },
                   "id": 32078,
@@ -62760,8 +62759,6 @@
                   "firstName": "Alec",
                   "fullName": "Alec Bohm",
                   "gamesPlayedByPosition": {
-                    "3": 50,
-                    "5": 106,
                     "12": 1
                   },
                   "id": 41169,
@@ -63060,8 +63057,6 @@
                   "firstName": "Luis",
                   "fullName": "Luis Arraez",
                   "gamesPlayedByPosition": {
-                    "4": 149,
-                    "5": 1,
                     "10": 1,
                     "12": 2
                   },
@@ -63460,7 +63455,6 @@
                   "firstName": "Brandon",
                   "fullName": "Brandon Lowe",
                   "gamesPlayedByPosition": {
-                    "4": 138,
                     "10": 11,
                     "12": 7
                   },
@@ -65906,7 +65900,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Taylor",
-                  "lastNewsDate": 1791997161000,
+                  "lastNewsDate": 1794327271000,
                   "proTeamId": 4,
                   "stats": [
                     {
@@ -66810,7 +66804,7 @@
                   "injured": true,
                   "injuryStatus": "OUT",
                   "lastName": "Anthony",
-                  "lastNewsDate": 1791213907000,
+                  "lastNewsDate": 1794330714000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -70264,7 +70258,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Smith",
-                  "lastNewsDate": 1791997694000,
+                  "lastNewsDate": 1794327398000,
                   "proTeamId": 4,
                   "stats": [
                     {
@@ -73359,7 +73353,6 @@
                   "firstName": "Seiya",
                   "fullName": "Seiya Suzuki",
                   "gamesPlayedByPosition": {
-                    "9": 111,
                     "10": 30,
                     "12": 5
                   },
@@ -76109,8 +76102,6 @@
                   "firstName": "Daulton",
                   "fullName": "Daulton Varsho",
                   "gamesPlayedByPosition": {
-                    "7": 1,
-                    "8": 136,
                     "10": 1,
                     "12": 2
                   },
@@ -76213,9 +76204,6 @@
                   "firstName": "Jake",
                   "fullName": "Jake Bauers",
                   "gamesPlayedByPosition": {
-                    "3": 119,
-                    "7": 16,
-                    "9": 32,
                     "10": 4,
                     "12": 13
                   },
@@ -76413,8 +76401,6 @@
                   "firstName": "Randy",
                   "fullName": "Randy Arozarena",
                   "gamesPlayedByPosition": {
-                    "7": 148,
-                    "8": 1,
                     "10": 5
                   },
                   "id": 36488,
@@ -76711,7 +76697,6 @@
                   "firstName": "Gleyber",
                   "fullName": "Gleyber Torres",
                   "gamesPlayedByPosition": {
-                    "4": 76,
                     "10": 19,
                     "12": 5
                   },
@@ -79348,7 +79333,6 @@
                   "firstName": "Paul",
                   "fullName": "Paul Goldschmidt",
                   "gamesPlayedByPosition": {
-                    "3": 77,
                     "10": 14,
                     "12": 22
                   },
@@ -80792,7 +80776,6 @@
                   "firstName": "Ian",
                   "fullName": "Ian Happ",
                   "gamesPlayedByPosition": {
-                    "7": 150,
                     "10": 5,
                     "12": 11
                   },
@@ -170368,7 +170351,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Smith",
-                "lastNewsDate": 1791997694000,
+                "lastNewsDate": 1794327398000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -173664,7 +173647,6 @@
                 "firstName": "Ian",
                 "fullName": "Ian Happ",
                 "gamesPlayedByPosition": {
-                  "7": 150,
                   "10": 5,
                   "12": 11
                 },
@@ -177511,7 +177493,6 @@
                 "firstName": "Trent",
                 "fullName": "Trent Grisham",
                 "gamesPlayedByPosition": {
-                  "8": 119,
                   "10": 1,
                   "12": 12
                 },
@@ -188117,7 +188098,6 @@
                 "firstName": "Seiya",
                 "fullName": "Seiya Suzuki",
                 "gamesPlayedByPosition": {
-                  "9": 111,
                   "10": 30,
                   "12": 5
                 },
@@ -207055,7 +207035,6 @@
                 "firstName": "Gleyber",
                 "fullName": "Gleyber Torres",
                 "gamesPlayedByPosition": {
-                  "4": 76,
                   "10": 19,
                   "12": 5
                 },
@@ -208027,8 +208006,6 @@
                 "firstName": "Daulton",
                 "fullName": "Daulton Varsho",
                 "gamesPlayedByPosition": {
-                  "7": 1,
-                  "8": 136,
                   "10": 1,
                   "12": 2
                 },
@@ -210685,10 +210662,10 @@
                   "1": 20
                 },
                 "id": 32685,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Fried",
-                "lastNewsDate": 1792600206000,
+                "lastNewsDate": 1794346992000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -212926,8 +212903,6 @@
                 "firstName": "Randy",
                 "fullName": "Randy Arozarena",
                 "gamesPlayedByPosition": {
-                  "7": 148,
-                  "8": 1,
                   "10": 5
                 },
                 "id": 36488,
@@ -216990,9 +216965,6 @@
                 "firstName": "Jake",
                 "fullName": "Jake Bauers",
                 "gamesPlayedByPosition": {
-                  "3": 119,
-                  "7": 16,
-                  "9": 32,
                   "10": 4,
                   "12": 13
                 },
@@ -231417,7 +231389,6 @@
                 "firstName": "Paul",
                 "fullName": "Paul Goldschmidt",
                 "gamesPlayedByPosition": {
-                  "3": 77,
                   "10": 14,
                   "12": 22
                 },
@@ -232889,8 +232860,7 @@
                 "firstName": "George",
                 "fullName": "George Springer",
                 "gamesPlayedByPosition": {
-                  "7": 2,
-                  "10": 118,
+                  "10": 115,
                   "12": 9
                 },
                 "id": 32078,
@@ -233931,7 +233901,6 @@
                 "firstName": "Brandon",
                 "fullName": "Brandon Lowe",
                 "gamesPlayedByPosition": {
-                  "4": 138,
                   "10": 11,
                   "12": 7
                 },
@@ -242024,8 +241993,6 @@
                 "firstName": "Luis",
                 "fullName": "Luis Arraez",
                 "gamesPlayedByPosition": {
-                  "4": 149,
-                  "5": 1,
                   "10": 1,
                   "12": 2
                 },
@@ -246314,8 +246281,6 @@
                 "firstName": "Alec",
                 "fullName": "Alec Bohm",
                 "gamesPlayedByPosition": {
-                  "3": 50,
-                  "5": 106,
                   "12": 1
                 },
                 "id": 41169,
@@ -254364,7 +254329,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Anthony",
-                "lastNewsDate": 1791213907000,
+                "lastNewsDate": 1794330714000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -258905,7 +258870,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Taylor",
-                "lastNewsDate": 1791997161000,
+                "lastNewsDate": 1794327271000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
