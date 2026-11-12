@@ -64066,10 +64066,10 @@
                     "12": 13
                   },
                   "id": 40803,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Marsh",
-                  "lastNewsDate": 1790888305000,
+                  "lastNewsDate": 1794505787000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -241461,10 +241461,10 @@
                   "12": 13
                 },
                 "id": 40803,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Marsh",
-                "lastNewsDate": 1790888305000,
+                "lastNewsDate": 1794505787000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
