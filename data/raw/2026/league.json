@@ -76211,8 +76211,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bauers",
-                  "lastNewsDate": 1793661920000,
-                  "proTeamId": 0,
+                  "lastNewsDate": 1794592941000,
+                  "proTeamId": 2,
                   "stats": [
                     {
                       "id": "05null",
@@ -76268,7 +76268,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -216972,7 +216972,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bauers",
-                "lastNewsDate": 1793661920000,
+                "lastNewsDate": 1794592941000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -216981,7 +216981,7 @@
                   "percentStarted": 67.38
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 0,
+                "proTeamId": 2,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -217404,7 +217404,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 1
               },
               "ratings": {
                 "0": {

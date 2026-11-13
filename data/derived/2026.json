@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-13T04:29:21.413Z",
+  "fetchedAt": "2026-11-13T23:05:56.828Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -29079,7 +29079,7 @@
       "id": 35013,
       "name": "Jake Bauers",
       "positionId": 3,
-      "proTeamId": 0,
+      "proTeamId": 2,
       "eligibleSlots": [
         1,
         7,
