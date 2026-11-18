@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-18T14:54:05.241Z",
+  "fetchedAt": "2026-11-18T23:45:26.208Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -25897,7 +25897,7 @@
       "id": 32082,
       "name": "Sonny Gray",
       "positionId": 1,
-      "proTeamId": 0,
+      "proTeamId": 9,
       "eligibleSlots": [
         13,
         14,
@@ -37915,7 +37915,7 @@
       "id": 4654313,
       "name": "Bryce Miller",
       "positionId": 1,
-      "proTeamId": 12,
+      "proTeamId": 7,
       "eligibleSlots": [
         13,
         14,
@@ -39799,7 +39799,7 @@
       "id": 4905884,
       "name": "Maikel Garcia",
       "positionId": 5,
-      "proTeamId": 7,
+      "proTeamId": 12,
       "eligibleSlots": [
         3,
         7,

@@ -52026,7 +52026,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Crow-Armstrong",
-                  "lastNewsDate": 1794531650000,
+                  "lastNewsDate": 1795023897000,
                   "proTeamId": 16,
                   "stats": [
                     {
@@ -55774,8 +55774,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Gray",
-                  "lastNewsDate": 1793381266000,
-                  "proTeamId": 0,
+                  "lastNewsDate": 1795034839000,
+                  "proTeamId": 9,
                   "stats": [
                     {
                       "id": "05null",
@@ -55832,7 +55832,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -56472,7 +56472,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "May",
                   "lastNewsDate": 1794931914000,
-                  "proTeamId": 0,
+                  "proTeamId": 4,
                   "stats": [
                     {
                       "id": "05null",
@@ -56529,7 +56529,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "FREEAGENT",
@@ -57074,7 +57074,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Schwarber",
-                  "lastNewsDate": 1792091566000,
+                  "lastNewsDate": 1795025577000,
                   "proTeamId": 22,
                   "stats": [
                     {
@@ -63462,7 +63462,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Lowe",
-                  "lastNewsDate": 1794940607000,
+                  "lastNewsDate": 1795017719000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -64766,7 +64766,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "De La Cruz",
-                  "lastNewsDate": 1790390890000,
+                  "lastNewsDate": 1795023304000,
                   "proTeamId": 17,
                   "stats": [
                     {
@@ -71408,7 +71408,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bregman",
-                  "lastNewsDate": 1790721726000,
+                  "lastNewsDate": 1795018077000,
                   "proTeamId": 16,
                   "stats": [
                     {
@@ -76211,7 +76211,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bauers",
-                  "lastNewsDate": 1794592941000,
+                  "lastNewsDate": 1795025954000,
                   "proTeamId": 2,
                   "stats": [
                     {
@@ -78438,7 +78438,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Chourio",
-                  "lastNewsDate": 1793071966000,
+                  "lastNewsDate": 1795024832000,
                   "proTeamId": 8,
                   "stats": [
                     {
@@ -81869,8 +81869,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Miller",
-                  "lastNewsDate": 1793301342000,
-                  "proTeamId": 12,
+                  "lastNewsDate": 1795019209000,
+                  "proTeamId": 7,
                   "stats": [
                     {
                       "id": "05null",
@@ -83418,7 +83418,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Moreno",
-                  "lastNewsDate": 1790533513000,
+                  "lastNewsDate": 1795025147000,
                   "proTeamId": 29,
                   "stats": [
                     {
@@ -113258,7 +113258,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Moreno",
-                "lastNewsDate": 1790533513000,
+                "lastNewsDate": 1795025147000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -118028,7 +118028,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bregman",
-                "lastNewsDate": 1790721726000,
+                "lastNewsDate": 1795018077000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -131350,7 +131350,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Crow-Armstrong",
-                "lastNewsDate": 1794531650000,
+                "lastNewsDate": 1795023897000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -146574,7 +146574,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Schwarber",
-                "lastNewsDate": 1792091566000,
+                "lastNewsDate": 1795025577000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -182428,7 +182428,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Miller",
-                "lastNewsDate": 1793301342000,
+                "lastNewsDate": 1795019209000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -182522,7 +182522,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 12,
+                "proTeamId": 7,
                 "seasonOutlook": "Coming off what was a top-10 fantasy starter's 2024, Miller's follow-up campaign was effectively ruined by bone spurs in his elbow, the ailment sending him to the IL twice and nearly doubling his ERA. Though his fastball velocity and whiff rate on his splitter improved over the season's final six weeks, his ERA over that time was nevertheless 5.62 and he couldn't find consistency at any point all year. Miller did avoid offseason surgery, but only spring training can demonstrate whether the winter's rest has helped him. He still has that ace-caliber stuff when healthy, so a strong spring would make him a potentially profitable late-round pick.",
                 "starterStatusByProGame": {
                   "401815331": "PROBABLE",
@@ -202072,7 +202072,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Gray",
-                "lastNewsDate": 1793381266000,
+                "lastNewsDate": 1795034839000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -202198,7 +202198,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 0,
+                "proTeamId": 9,
                 "seasonOutlook": "Gray and Lady Luck have been at odds for the last two years. In 2024, his ERA was pegged about a run too high by xFIP, and last season, his 4.28 ERA was deemed roughly a run higher than its estimators. His BABIP and HR/FB rate were elevated, while his LOB percentage was suppressed. Gray eclipsed 180 frames for the second straight season, which he had last accomplished in 2015. For the second consecutive season, his velocity slipped, but he waived his no-trade clause to join the Red Sox, who specialize in teaching pitchers to work off breaking balls and offspeed stuff, and Gray can throw multiple types. Gray's home runs have crept up over the past two seasons, and the Green Monster has a habit of turning routine flyballs into doubles, so Gray may need to get back in favor with Lady Luck. Father Time looms, but for now, Gray remains dependable.",
                 "starterStatusByProGame": {
                   "401814708": "PROBABLE",
@@ -202617,7 +202617,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 1
               },
               "ratings": {
                 "0": {
@@ -213429,7 +213429,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Garcia",
-                "lastNewsDate": 1790453132000,
+                "lastNewsDate": 1795018626000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -213438,7 +213438,7 @@
                   "percentStarted": 33.93
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 7,
+                "proTeamId": 12,
                 "seasonOutlook": "After finishing third in the majors in stolen bases in 2024, effectively a two-category player (steals and runs), Garcia went all Willie Mays Hayes-in-�Major League 2� last season, inexplicably trading his speed in the quest for power. He attempted only one stolen base across his final 44 games and just five over his final 79, while more than doubling his home run total for the full season. That's not to knock Garcia's improvements as he made huge strides with his selectivity and contact and saw a decent bump in terms of contact quality. We'd, of course, prefer to see him capitalize upon his career best .351 OBP with bushels of steals, which would make him more of an early-round target in rotisserie leagues. As is, he's a solid mid-round pick as he enters his age-26 season.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -216972,7 +216972,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bauers",
-                "lastNewsDate": 1794592941000,
+                "lastNewsDate": 1795025954000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -221855,7 +221855,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Chourio",
-                "lastNewsDate": 1793071966000,
+                "lastNewsDate": 1795024832000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -233908,7 +233908,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Lowe",
-                "lastNewsDate": 1794940607000,
+                "lastNewsDate": 1795017719000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -238097,7 +238097,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "De La Cruz",
-                "lastNewsDate": 1790390890000,
+                "lastNewsDate": 1795023304000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -250649,7 +250649,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Wood",
-                "lastNewsDate": 1789506854000,
+                "lastNewsDate": 1795024506000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
