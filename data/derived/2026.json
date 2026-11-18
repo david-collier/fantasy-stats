@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-17T01:24:01.461Z",
+  "fetchedAt": "2026-11-18T00:19:28.290Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -27423,7 +27423,7 @@
       "id": 33403,
       "name": "Emilio Pagan",
       "positionId": 11,
-      "proTeamId": 0,
+      "proTeamId": 6,
       "eligibleSlots": [
         13,
         15,
@@ -30091,7 +30091,7 @@
       "id": 38303,
       "name": "David Bednar",
       "positionId": 11,
-      "proTeamId": 0,
+      "proTeamId": 10,
       "eligibleSlots": [
         13,
         15,

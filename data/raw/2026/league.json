@@ -56471,7 +56471,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "May",
-                  "lastNewsDate": 1793316612000,
+                  "lastNewsDate": 1794931914000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -61131,8 +61131,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bednar",
-                  "lastNewsDate": 1793667528000,
-                  "proTeamId": 0,
+                  "lastNewsDate": 1794949682000,
+                  "proTeamId": 10,
                   "stats": [
                     {
                       "id": "05null",
@@ -61190,7 +61190,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -63462,7 +63462,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Lowe",
-                  "lastNewsDate": 1793652155000,
+                  "lastNewsDate": 1794940607000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -67202,7 +67202,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Morejon",
-                  "lastNewsDate": 1793662263000,
+                  "lastNewsDate": 1794934535000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -73360,7 +73360,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Suzuki",
-                  "lastNewsDate": 1793662535000,
+                  "lastNewsDate": 1794944566000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -73659,7 +73659,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Skubal",
-                  "lastNewsDate": 1791589148000,
+                  "lastNewsDate": 1794928497000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -74859,7 +74859,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rogers",
-                  "lastNewsDate": 1793667824000,
+                  "lastNewsDate": 1794949938000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -85417,7 +85417,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Pagan",
                   "lastNewsDate": 1794374737000,
-                  "proTeamId": 0,
+                  "proTeamId": 6,
                   "stats": [
                     {
                       "id": "05null",
@@ -85475,7 +85475,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -86518,7 +86518,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bednar",
-                "lastNewsDate": 1793667528000,
+                "lastNewsDate": 1794949682000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -86527,7 +86527,7 @@
                   "percentStarted": 84.85
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 0,
+                "proTeamId": 10,
                 "seasonOutlook": "Bednar's overall 2025 numbers were so good that you almost forget he was sent to Triple-A early in the season because he got off to such an awful start. Bednar had a rough spring and then blew two of his first three save chances opening weekend with some bad command and worse batted-ball luck which led Pittsburgh to send him to Indianapolis for some fine-tuning. Bednar returned three weeks later and was utterly dominant as a closer, winning six games and saving 26 more while striking out 83 batters and limited opposing hitters to a .183 average in his time between the Pirates and Yankees. Whereas he was a fringe top closer option heading into 2025, he is now a firm first-closer option in 2026 with the Yankees fully confident in Bednar's abilities as evidenced by them letting Devin Williams and Luke Weaver depart in free agency.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -86930,7 +86930,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 1
               },
               "ratings": {
                 "0": {
@@ -103684,7 +103684,7 @@
                   "percentStarted": 54.95
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 0,
+                "proTeamId": 6,
                 "seasonOutlook": "For only the second time in his nine MLB seasons, Pagan seized hold of a closer opportunity and thrived in it, this time setting personal bests with his 56 games finished, 32 saves and 340 fantasy points (eight more than in his other closer year of 2019). A much-improved splitter had a lot to do with it, fueling career bests of a .161 BAA and .507 OPS allowed to lefties. That should ensure Pagan a long ninth-inning leash, though he's one of the greater risk/reward closers based upon his skill set, as an extreme fly baller whose control is only so-so. Draft Pagan in the middle rounds, once the higher-ceiling closers are gone.",
                 "starterStatusByProGame": {},
                 "stats": [
@@ -104081,7 +104081,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 1
               },
               "ratings": {
                 "0": {
@@ -188105,7 +188105,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Suzuki",
-                "lastNewsDate": 1793662535000,
+                "lastNewsDate": 1794944566000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -190853,7 +190853,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Skubal",
-                "lastNewsDate": 1791589148000,
+                "lastNewsDate": 1794928497000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -197600,7 +197600,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Rogers",
-                "lastNewsDate": 1793667824000,
+                "lastNewsDate": 1794949938000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -233908,7 +233908,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Lowe",
-                "lastNewsDate": 1793652155000,
+                "lastNewsDate": 1794940607000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -249268,7 +249268,7 @@
                 "injured": true,
                 "injuryStatus": "OUT",
                 "lastName": "Schwellenbach",
-                "lastNewsDate": 1794347782000,
+                "lastNewsDate": 1794941843000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -257847,7 +257847,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Morejon",
-                "lastNewsDate": 1793662263000,
+                "lastNewsDate": 1794934535000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
