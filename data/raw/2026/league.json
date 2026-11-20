@@ -69255,10 +69255,10 @@
                     "12": 8
                   },
                   "id": 4416591,
-                  "injured": false,
-                  "injuryStatus": "ACTIVE",
+                  "injured": true,
+                  "injuryStatus": "OUT",
                   "lastName": "Goodman",
-                  "lastNewsDate": 1790475999000,
+                  "lastNewsDate": 1795144587000,
                   "proTeamId": 27,
                   "stats": [
                     {
@@ -79439,8 +79439,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Castillo",
-                  "lastNewsDate": 1790273694000,
-                  "proTeamId": 4,
+                  "lastNewsDate": 1795136973000,
+                  "proTeamId": 27,
                   "stats": [
                     {
                       "id": "05null",
@@ -79497,7 +79497,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 2
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -161977,10 +161977,10 @@
                   "12": 8
                 },
                 "id": 4416591,
-                "injured": false,
-                "injuryStatus": "ACTIVE",
+                "injured": true,
+                "injuryStatus": "OUT",
                 "lastName": "Goodman",
-                "lastNewsDate": 1790475999000,
+                "lastNewsDate": 1795144587000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -223348,7 +223348,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Castillo",
-                "lastNewsDate": 1790273694000,
+                "lastNewsDate": 1795136973000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -223462,7 +223462,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 4,
+                "proTeamId": 27,
                 "seasonOutlook": "Castillo has outpitched his peripherals since joining the Mariners in 2022, and it may be by design rather than just good fortune. With the Reds, Castillo was an extreme groundball pitcher which helped offset the homer-friendly Great American Ball Park. In the Pacific Northwest, he is leaning more on his four-seam fastball, which generates more flyballs. T-Mobile Park suppresses home runs, so while his home-run rate has risen, it remains reasonable, and the added flyballs are driving a BABIP between .267 and .285 over the past four seasons. The change in approach has sent his strikeout rate into freefall, denting his fantasy allure and increasing his dependence on a low BABIP, a slippery slope. Entering his age-33 season, Castillo's floor is more wobbly than usual, and without strikeouts, the ceiling is limited.",
                 "starterStatusByProGame": {
                   "401814748": "PROBABLE",
@@ -223880,7 +223880,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 2
               },
               "ratings": {
                 "0": {
@@ -226259,7 +226259,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Martin",
-                "lastNewsDate": 1791996557000,
+                "lastNewsDate": 1795136495000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -226381,7 +226381,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 4,
+                "proTeamId": 27,
                 "starterStatusByProGame": {
                   "401814736": "PROBABLE",
                   "401814821": "PROBABLE",
@@ -226795,7 +226795,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 2
               },
               "ratings": {
                 "0": {

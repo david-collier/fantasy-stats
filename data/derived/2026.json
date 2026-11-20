@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-20T00:06:47.715Z",
+  "fetchedAt": "2026-11-20T14:42:50.188Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -29201,7 +29201,7 @@
       "id": 35124,
       "name": "Luis Castillo",
       "positionId": 1,
-      "proTeamId": 4,
+      "proTeamId": 27,
       "eligibleSlots": [
         13,
         14,
@@ -35633,7 +35633,7 @@
       "id": 42823,
       "name": "Davis Martin",
       "positionId": 1,
-      "proTeamId": 4,
+      "proTeamId": 27,
       "eligibleSlots": [
         13,
         14,
