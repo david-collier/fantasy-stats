@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-20T23:32:41.601Z",
+  "fetchedAt": "2026-11-21T05:03:36.618Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -33140,7 +33140,7 @@
       "id": 41311,
       "name": "Kody Clemens",
       "positionId": 3,
-      "proTeamId": 9,
+      "proTeamId": 0,
       "eligibleSlots": [
         1,
         2,
@@ -34680,7 +34680,7 @@
       "id": 42450,
       "name": "Joe Ryan",
       "positionId": 1,
-      "proTeamId": 9,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -35099,7 +35099,7 @@
       "id": 42480,
       "name": "Taj Bradley",
       "positionId": 1,
-      "proTeamId": 9,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,
@@ -35749,7 +35749,7 @@
       "id": 3107919,
       "name": "Bailey Ober",
       "positionId": 1,
-      "proTeamId": 9,
+      "proTeamId": 0,
       "eligibleSlots": [
         13,
         14,

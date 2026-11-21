@@ -58917,7 +58917,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ober",
                   "lastNewsDate": 1795193784000,
-                  "proTeamId": 9,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -58974,7 +58974,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -63261,7 +63261,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Kremer",
                   "lastNewsDate": 1790547736000,
-                  "proTeamId": 9,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -63318,7 +63318,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "FREEAGENT",
@@ -63868,7 +63868,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Clemens",
                   "lastNewsDate": 1790182972000,
-                  "proTeamId": 9,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -63924,7 +63924,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -74467,7 +74467,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Ryan",
                   "lastNewsDate": 1793383829000,
-                  "proTeamId": 9,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -74524,7 +74524,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -76899,7 +76899,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bradley",
                   "lastNewsDate": 1790141322000,
-                  "proTeamId": 9,
+                  "proTeamId": 0,
                   "stats": [
                     {
                       "id": "05null",
@@ -76956,7 +76956,7 @@
                       }
                     }
                   ],
-                  "universeId": 1
+                  "universeId": 0
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -98779,7 +98779,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 9,
+                "proTeamId": 0,
                 "starterStatusByProGame": {
                   "401814726": "PROBABLE",
                   "401814791": "PROBABLE",
@@ -99191,7 +99191,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -194287,7 +194287,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 9,
+                "proTeamId": 0,
                 "seasonOutlook": "Amidst a teardown in Minnesota, Ryan stood tall with a career-best 3.42 ERA over a career-high 171 innings in 2025. The right-hander was one of two Twins All-Stars, along with Byron Buxton. Ryan has emerged as one of the team's top starters over the last few seasons, though he could be on his way out in due time as the organization continues to rebuild. Ryan would be befitting of the ace label almost anywhere given that he ranks seventh among qualified starters in strikeout-minus-walk percentage over the last three seasons. Home runs and occasional injuries have held him back from reaching true greatness, but Ryan is only 29 and his best years may still be ahead of him. With six pitches and pinpoint control, Ryan can be drafted with confidence as an SP2 for fantasy leagues.",
                 "starterStatusByProGame": {
                   "401814692": "PROBABLE",
@@ -194701,7 +194701,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -209707,7 +209707,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 9,
+                "proTeamId": 0,
                 "seasonOutlook": "Bradley had an underwhelming 4.61 ERA in 21 starts for Tampa Bay in 2025 before being traded to Minnesota, where he struggled even more with a 6.61 ERA in six outings. He posted a career-worst 8.0 K/9 and 3.5 BB/9 last season but also had a career-best 1.2 HR/9. Bradley has shown flashes of brilliance since making his MLB debut in 2023 but has been mostly ineffective, with the drop in strikeouts negating the one area in which he still provided fantasy value. Bradley isn't guaranteed to begin 2026 with a spot in Minnesota's rotation, but the Twins seem likely to give him a chance to get back on track in the big leagues given how hard they committed to selling at the trade deadline last summer.",
                 "starterStatusByProGame": {
                   "401814711": "PROBABLE",
@@ -210125,7 +210125,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
@@ -244246,7 +244246,7 @@
                   "percentStarted": 29.32
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 9,
+                "proTeamId": 0,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -244677,7 +244677,7 @@
                     }
                   }
                 ],
-                "universeId": 1
+                "universeId": 0
               },
               "ratings": {
                 "0": {
