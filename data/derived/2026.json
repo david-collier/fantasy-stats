@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-21T22:39:27.068Z",
+  "fetchedAt": "2026-11-22T23:03:17.452Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -34385,7 +34385,7 @@
       "id": 42409,
       "name": "Tarik Skubal",
       "positionId": 1,
-      "proTeamId": 0,
+      "proTeamId": 21,
       "eligibleSlots": [
         13,
         14,

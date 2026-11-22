@@ -73659,8 +73659,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Skubal",
-                  "lastNewsDate": 1795208923000,
-                  "proTeamId": 0,
+                  "lastNewsDate": 1795385054000,
+                  "proTeamId": 21,
                   "stats": [
                     {
                       "id": "05null",
@@ -73717,7 +73717,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 2
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -190853,7 +190853,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Skubal",
-                "lastNewsDate": 1795208923000,
+                "lastNewsDate": 1795385054000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -190975,7 +190975,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 0,
+                "proTeamId": 21,
                 "seasonOutlook": "Don't let the persistent trade rumors swirling around him dissuade you that Skubal is as good a choice to lead your fantasy pitching staff as anyone. He's coming off back-to-back Cy Youngs, and has made consistent, notable improvements in almost every statistical category across his six MLB seasons. Skubal set personal bests in ERA, WHIP, walk rate, K/BB rate, whiff rate and rate of hard contact allowed in 2025. Since July 1, 2023, he has a 2.37 ERA and MLB-leading totals in both wins (38) and strikeouts (571). He's also entering his contract year -- the very reason for said trade rumors -- which, while hardly a guarantee as a motivating factor, assures he'll play 2026 at full bore, and with a team that will provide him the necessary support to again thrive.",
                 "starterStatusByProGame": {
                   "401814701": "PROBABLE",
@@ -191389,7 +191389,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 2
               },
               "ratings": {
                 "0": {
