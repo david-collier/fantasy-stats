@@ -74859,7 +74859,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rogers",
-                  "lastNewsDate": 1794949938000,
+                  "lastNewsDate": 1795492488000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -76996,8 +76996,8 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Peralta",
-                  "lastNewsDate": 1793074881000,
-                  "proTeamId": 0,
+                  "lastNewsDate": 1795536056000,
+                  "proTeamId": 1,
                   "stats": [
                     {
                       "id": "05null",
@@ -77054,7 +77054,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -197600,7 +197600,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Rogers",
-                "lastNewsDate": 1794949938000,
+                "lastNewsDate": 1795492488000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -215794,7 +215794,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Peralta",
-                "lastNewsDate": 1793074881000,
+                "lastNewsDate": 1795536056000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -215936,7 +215936,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 0,
+                "proTeamId": 1,
                 "seasonOutlook": "After months of rumors, Peralta was traded from the Brewers to the Mets in January as he enters his final season before free agency. The right-hander put together a career year in 2025, leading the National League in wins with 17 to go along with a career-low 2.70 ERA across 33 starts for Milwaukee. Peralta has now reached the vaunted 30-start and 200-strikeout thresholds each of the last three years, cementing his status as a legitimate frontline starter in MLB, with three excellent secondary pitches making up for a mediocre fastball. It's entirely possible that 2025 will end up being the zenith of his career, as everything went right for him during the regular season. Regression should be built into the draft price, but the skills and track record at 29 years old make Peralta worthy of a significant investment.",
                 "starterStatusByProGame": {
                   "401814693": "PROBABLE",
@@ -216358,7 +216358,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 1
               },
               "ratings": {
                 "0": {
