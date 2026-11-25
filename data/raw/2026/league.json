@@ -62765,7 +62765,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bohm",
-                  "lastNewsDate": 1790804975000,
+                  "lastNewsDate": 1795620963000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -79341,7 +79341,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Goldschmidt",
                   "lastNewsDate": 1795446354000,
-                  "proTeamId": 0,
+                  "proTeamId": 21,
                   "stats": [
                     {
                       "id": "05null",
@@ -79397,7 +79397,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 2
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -231405,7 +231405,7 @@
                   "percentStarted": 2.44
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 0,
+                "proTeamId": 21,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -231786,7 +231786,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 2
               },
               "ratings": {
                 "0": {
@@ -246287,7 +246287,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Bohm",
-                "lastNewsDate": 1790804975000,
+                "lastNewsDate": 1795620963000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,

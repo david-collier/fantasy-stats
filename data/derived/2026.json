@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-24T16:48:23.393Z",
+  "fetchedAt": "2026-11-25T16:36:17.961Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -25307,7 +25307,7 @@
       "id": 31027,
       "name": "Paul Goldschmidt",
       "positionId": 3,
-      "proTeamId": 0,
+      "proTeamId": 21,
       "eligibleSlots": [
         1,
         7,
