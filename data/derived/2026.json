@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-25T16:36:17.961Z",
+  "fetchedAt": "2026-11-26T01:24:33.875Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -30564,7 +30564,7 @@
       "id": 39640,
       "name": "Trevor Rogers",
       "positionId": 1,
-      "proTeamId": 0,
+      "proTeamId": 16,
       "eligibleSlots": [
         13,
         14,

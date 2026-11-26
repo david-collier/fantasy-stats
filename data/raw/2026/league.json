@@ -74860,7 +74860,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Rogers",
                   "lastNewsDate": 1795492488000,
-                  "proTeamId": 0,
+                  "proTeamId": 16,
                   "stats": [
                     {
                       "id": "05null",
@@ -74917,7 +74917,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 2
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -78942,7 +78942,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Griffin",
-                  "lastNewsDate": 1792334342000,
+                  "lastNewsDate": 1795650469000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -197730,7 +197730,7 @@
                     "starterStatus": "PROBABLE"
                   }
                 },
-                "proTeamId": 0,
+                "proTeamId": 16,
                 "starterStatusByProGame": {
                   "401814692": "PROBABLE",
                   "401814768": "PROBABLE",
@@ -198144,7 +198144,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 2
               },
               "ratings": {
                 "0": {
@@ -218008,7 +218008,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Gausman",
-                "lastNewsDate": 1790869659000,
+                "lastNewsDate": 1795651155000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
@@ -225695,7 +225695,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Griffin",
-                "lastNewsDate": 1792334342000,
+                "lastNewsDate": 1795650469000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
