@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "seasonId": 2026,
-  "fetchedAt": "2026-11-26T16:08:39.205Z",
+  "fetchedAt": "2026-11-28T00:55:22.976Z",
   "league": {
     "id": 1295435853,
     "name": "Bangin’ Trash Can Dynasty League",
@@ -32310,7 +32310,7 @@
       "id": 41169,
       "name": "Alec Bohm",
       "positionId": 5,
-      "proTeamId": 0,
+      "proTeamId": 7,
       "eligibleSlots": [
         3,
         7,

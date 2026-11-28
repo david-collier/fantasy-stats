@@ -62766,7 +62766,7 @@
                   "injuryStatus": "ACTIVE",
                   "lastName": "Bohm",
                   "lastNewsDate": 1795620963000,
-                  "proTeamId": 0,
+                  "proTeamId": 7,
                   "stats": [
                     {
                       "id": "05null",
@@ -62821,7 +62821,7 @@
                       }
                     }
                   ],
-                  "universeId": 0
+                  "universeId": 1
                 },
                 "rosterLocked": false,
                 "status": "ONTEAM",
@@ -67508,7 +67508,7 @@
                   "injured": false,
                   "injuryStatus": "ACTIVE",
                   "lastName": "Chisholm Jr.",
-                  "lastNewsDate": 1791403587000,
+                  "lastNewsDate": 1795814172000,
                   "proTeamId": 0,
                   "stats": [
                     {
@@ -246296,7 +246296,7 @@
                   "percentStarted": 21.69
                 },
                 "proGamePlayerDetail": {},
-                "proTeamId": 0,
+                "proTeamId": 7,
                 "starterStatusByProGame": {},
                 "stats": [
                   {
@@ -246721,7 +246721,7 @@
                     }
                   }
                 ],
-                "universeId": 0
+                "universeId": 1
               },
               "ratings": {
                 "0": {
@@ -252103,7 +252103,7 @@
                 "injured": false,
                 "injuryStatus": "ACTIVE",
                 "lastName": "Chisholm Jr.",
-                "lastNewsDate": 1791403587000,
+                "lastNewsDate": 1795814172000,
                 "ownership": {
                   "auctionValueAverage": 0,
                   "averageDraftPosition": 260,
